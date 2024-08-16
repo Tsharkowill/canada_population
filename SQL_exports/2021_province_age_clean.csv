@@ -1,0 +1,379 @@
+region,age,total_num,num_men,num_women,total_percent,percent_men,percent_women
+Canada,"0 to 14 years",6012795,3086510,2926285,16.3,16.9,15.6
+Canada,"0 to 4 years",1831195,938790,892405,5,5.2,4.8
+Canada,"5 to 9 years",2054900,1054240,1000655,5.6,5.8,5.3
+Canada,"10 to 14 years",2126705,1093480,1033225,5.7,6,5.5
+Canada,"15 to 64 years",23957760,11915050,12042710,64.8,65.4,64.2
+Canada,"15 to 19 years",2012975,1036730,976240,5.4,5.7,5.2
+Canada,"20 to 24 years",2202255,1138825,1063430,6,6.2,5.7
+Canada,"25 to 29 years",2421510,1228135,1193370,6.5,6.7,6.4
+Canada,"30 to 34 years",2518835,1252795,1266040,6.8,6.9,6.7
+Canada,"35 to 39 years",2511345,1238515,1272835,6.8,6.8,6.8
+Canada,"40 to 44 years",2399405,1175875,1223530,6.5,6.5,6.5
+Canada,"45 to 49 years",2304170,1129185,1174985,6.2,6.2,6.3
+Canada,"50 to 54 years",2368350,1161665,1206685,6.4,6.4,6.4
+Canada,"55 to 59 years",2647330,1299975,1347350,7.2,7.1,7.2
+Canada,"60 to 64 years",2571580,1253335,1318245,7,6.9,7
+Canada,"65 years and over",7021430,3224680,3796750,19,17.7,20.2
+Canada,"65 to 69 years",2210970,1065305,1145665,6,5.8,6.1
+Canada,"70 to 74 years",1847585,879850,967735,5,4.8,5.2
+Canada,"75 to 79 years",1260930,589090,671845,3.4,3.2,3.6
+Canada,"80 to 84 years",840545,370905,469645,2.3,2,2.5
+Canada,"85 years and over",861395,319540,541860,2.3,1.8,2.9
+Canada,"85 to 89 years",525445,212735,312705,1.4,1.2,1.7
+Canada,"90 to 94 years",258035,87300,170735,0.7,0.5,0.9
+Canada,"95 to 99 years",68380,17670,50715,0.2,0.1,0.3
+Canada,"100 years and over",9535,1830,7710,0,0,0
+Canada,"Average age of the population",42,41,43,41.9,41,42.8
+Canada,"Median age of the population",42,40,43,41.6,40.4,42.8
+"Newfoundland and Labrador","0 to 14 years",68190,35050,33140,13.4,14,12.7
+"Newfoundland and Labrador","0 to 4 years",18985,9760,9225,3.7,3.9,3.5
+"Newfoundland and Labrador","5 to 9 years",23030,11750,11280,4.5,4.7,4.3
+"Newfoundland and Labrador","10 to 14 years",26175,13535,12640,5.1,5.4,4.9
+"Newfoundland and Labrador","15 to 64 years",321750,158345,163405,63,63.3,62.7
+"Newfoundland and Labrador","15 to 19 years",25720,13275,12445,5,5.3,4.8
+"Newfoundland and Labrador","20 to 24 years",26075,13555,12515,5.1,5.4,4.8
+"Newfoundland and Labrador","25 to 29 years",25045,12610,12440,4.9,5,4.8
+"Newfoundland and Labrador","30 to 34 years",27525,13520,14005,5.4,5.4,5.4
+"Newfoundland and Labrador","35 to 39 years",29445,14205,15240,5.8,5.7,5.9
+"Newfoundland and Labrador","40 to 44 years",30890,14775,16115,6.1,5.9,6.2
+"Newfoundland and Labrador","45 to 49 years",33995,16485,17510,6.7,6.6,6.7
+"Newfoundland and Labrador","50 to 54 years",38375,18685,19685,7.5,7.5,7.6
+"Newfoundland and Labrador","55 to 59 years",42150,20530,21615,8.3,8.2,8.3
+"Newfoundland and Labrador","60 to 64 years",42520,20695,21830,8.3,8.3,8.4
+"Newfoundland and Labrador","65 years and over",120610,56680,63930,23.6,22.7,24.5
+"Newfoundland and Labrador","65 to 69 years",40450,19715,20735,7.9,7.9,8
+"Newfoundland and Labrador","70 to 74 years",34405,16600,17805,6.7,6.6,6.8
+"Newfoundland and Labrador","75 to 79 years",22365,10585,11780,4.4,4.2,4.5
+"Newfoundland and Labrador","80 to 84 years",13240,5960,7280,2.6,2.4,2.8
+"Newfoundland and Labrador","85 years and over",10155,3820,6335,2,1.5,2.4
+"Newfoundland and Labrador","85 to 89 years",6745,2835,3910,1.3,1.1,1.5
+"Newfoundland and Labrador","90 to 94 years",2710,835,1880,0.5,0.3,0.7
+"Newfoundland and Labrador","95 to 99 years",620,135,485,0.1,0.1,0.2
+"Newfoundland and Labrador","100 years and over",80,15,65,0,0,0
+"Newfoundland and Labrador","Average age of the population",46,45,46,45.5,44.7,46.3
+"Newfoundland and Labrador","Median age of the population",48,48,49,48.4,47.6,49.2
+"Prince Edward Island","0 to 14 years",23640,12120,11520,15.3,16.1,14.6
+"Prince Edward Island","0 to 4 years",6750,3475,3280,4.4,4.6,4.2
+"Prince Edward Island","5 to 9 years",8085,4190,3900,5.2,5.6,4.9
+"Prince Edward Island","10 to 14 years",8800,4455,4345,5.7,5.9,5.5
+"Prince Edward Island","15 to 64 years",97985,48205,49775,63.5,63.9,63.1
+"Prince Edward Island","15 to 19 years",8560,4335,4220,5.5,5.8,5.3
+"Prince Edward Island","20 to 24 years",10570,5565,5005,6.8,7.4,6.3
+"Prince Edward Island","25 to 29 years",9200,4765,4435,6,6.3,5.6
+"Prince Edward Island","30 to 34 years",9000,4315,4685,5.8,5.7,5.9
+"Prince Edward Island","35 to 39 years",8980,4300,4680,5.8,5.7,5.9
+"Prince Edward Island","40 to 44 years",9130,4360,4775,5.9,5.8,6
+"Prince Edward Island","45 to 49 years",9505,4625,4890,6.2,6.1,6.2
+"Prince Edward Island","50 to 54 years",9960,4840,5115,6.5,6.4,6.5
+"Prince Edward Island","55 to 59 years",11640,5640,6005,7.5,7.5,7.6
+"Prince Edward Island","60 to 64 years",11430,5460,5970,7.4,7.2,7.6
+"Prince Edward Island","65 years and over",32705,15060,17650,21.2,20,22.4
+"Prince Edward Island","65 to 69 years",10500,5055,5450,6.8,6.7,6.9
+"Prince Edward Island","70 to 74 years",9190,4425,4770,6,5.9,6
+"Prince Edward Island","75 to 79 years",5775,2675,3095,3.7,3.5,3.9
+"Prince Edward Island","80 to 84 years",3730,1620,2110,2.4,2.1,2.7
+"Prince Edward Island","85 years and over",3515,1285,2230,2.3,1.7,2.8
+"Prince Edward Island","85 to 89 years",2230,880,1355,1.4,1.2,1.7
+"Prince Edward Island","90 to 94 years",955,310,640,0.6,0.4,0.8
+"Prince Edward Island","95 to 99 years",295,85,210,0.2,0.1,0.3
+"Prince Edward Island","100 years and over",35,5,25,0,0,0
+"Prince Edward Island","Average age of the population",43,42,44,43.1,42.1,44
+"Prince Edward Island","Median age of the population",44,43,45,44,42.8,45.2
+"Nova Scotia","0 to 14 years",136710,70165,66540,14.1,14.9,13.4
+"Nova Scotia","0 to 4 years",40340,20610,19735,4.2,4.4,4
+"Nova Scotia","5 to 9 years",47070,24055,23015,4.9,5.1,4.6
+"Nova Scotia","10 to 14 years",49300,25505,23795,5.1,5.4,4.8
+"Nova Scotia","15 to 64 years",617345,302720,314625,63.7,64.2,63.2
+"Nova Scotia","15 to 19 years",48180,24770,23410,5,5.3,4.7
+"Nova Scotia","20 to 24 years",58005,30115,27890,6,6.4,5.6
+"Nova Scotia","25 to 29 years",60430,30375,30050,6.2,6.4,6
+"Nova Scotia","30 to 34 years",59575,29295,30285,6.1,6.2,6.1
+"Nova Scotia","35 to 39 years",57755,27960,29790,6,5.9,6
+"Nova Scotia","40 to 44 years",56420,26900,29515,5.8,5.7,5.9
+"Nova Scotia","45 to 49 years",59200,28415,30785,6.1,6,6.2
+"Nova Scotia","50 to 54 years",63775,30595,33175,6.6,6.5,6.7
+"Nova Scotia","55 to 59 years",77080,37205,39870,8,7.9,8
+"Nova Scotia","60 to 64 years",76935,37085,39850,7.9,7.9,8
+"Nova Scotia","65 years and over",215325,98845,116480,22.2,21,23.4
+"Nova Scotia","65 to 69 years",68395,32735,35665,7.1,6.9,7.2
+"Nova Scotia","70 to 74 years",59435,28295,31140,6.1,6,6.3
+"Nova Scotia","75 to 79 years",39325,18400,20925,4.1,3.9,4.2
+"Nova Scotia","80 to 84 years",25130,11095,14040,2.6,2.4,2.8
+"Nova Scotia","85 years and over",23035,8325,14715,2.4,1.8,3
+"Nova Scotia","85 to 89 years",14595,5860,8740,1.5,1.2,1.8
+"Nova Scotia","90 to 94 years",6345,2050,4300,0.7,0.4,0.9
+"Nova Scotia","95 to 99 years",1805,375,1435,0.2,0.1,0.3
+"Nova Scotia","100 years and over",290,50,245,0,0,0
+"Nova Scotia","Average age of the population",44,43,45,44.2,43.2,45.2
+"Nova Scotia","Median age of the population",46,44,47,45.6,44.4,46.8
+"New Brunswick","0 to 14 years",111130,56885,54240,14.3,14.9,13.8
+"New Brunswick","0 to 4 years",32280,16625,15655,4.2,4.4,4
+"New Brunswick","5 to 9 years",38240,19505,18740,4.9,5.1,4.8
+"New Brunswick","10 to 14 years",40605,20755,19845,5.2,5.4,5
+"New Brunswick","15 to 64 years",487320,242215,245105,62.8,63.5,62.2
+"New Brunswick","15 to 19 years",39090,20105,18985,5,5.3,4.8
+"New Brunswick","20 to 24 years",42125,21995,20130,5.4,5.8,5.1
+"New Brunswick","25 to 29 years",42380,21670,20715,5.5,5.7,5.3
+"New Brunswick","30 to 34 years",43485,21670,21820,5.6,5.7,5.5
+"New Brunswick","35 to 39 years",45925,22470,23455,5.9,5.9,6
+"New Brunswick","40 to 44 years",47320,23095,24225,6.1,6.1,6.1
+"New Brunswick","45 to 49 years",50140,24470,25670,6.5,6.4,6.5
+"New Brunswick","50 to 54 years",52140,25695,26450,6.7,6.7,6.7
+"New Brunswick","55 to 59 years",62315,30525,31795,8,8,8.1
+"New Brunswick","60 to 64 years",62395,30525,31870,8,8,8.1
+"New Brunswick","65 years and over",177160,82355,94810,22.8,21.6,24.1
+"New Brunswick","65 to 69 years",57190,27580,29605,7.4,7.2,7.5
+"New Brunswick","70 to 74 years",48855,23725,25135,6.3,6.2,6.4
+"New Brunswick","75 to 79 years",31675,15090,16580,4.1,4,4.2
+"New Brunswick","80 to 84 years",20400,9085,11310,2.6,2.4,2.9
+"New Brunswick","85 years and over",19040,6870,12170,2.5,1.8,3.1
+"New Brunswick","85 to 89 years",11815,4700,7120,1.5,1.2,1.8
+"New Brunswick","90 to 94 years",5370,1720,3645,0.7,0.5,0.9
+"New Brunswick","95 to 99 years",1600,405,1200,0.2,0.1,0.3
+"New Brunswick","100 years and over",250,40,205,0,0,0.1
+"New Brunswick","Average age of the population",45,44,46,44.7,43.8,45.6
+"New Brunswick","Median age of the population",47,46,48,46.8,45.6,47.6
+Quebec,"0 to 14 years",1391360,713290,678070,16.4,17,15.8
+Quebec,"0 to 4 years",422980,217145,205840,5,5.2,4.8
+Quebec,"5 to 9 years",478955,245295,233665,5.6,5.8,5.4
+Quebec,"10 to 14 years",489425,250855,238570,5.8,6,5.5
+Quebec,"15 to 64 years",5356945,2686745,2670195,63,63.9,62.1
+Quebec,"15 to 19 years",429400,219400,209995,5.1,5.2,4.9
+Quebec,"20 to 24 years",460660,235250,225405,5.4,5.6,5.2
+Quebec,"25 to 29 years",527150,266455,260700,6.2,6.3,6.1
+Quebec,"30 to 34 years",536040,267770,268270,6.3,6.4,6.2
+Quebec,"35 to 39 years",550425,274350,276075,6.5,6.5,6.4
+Quebec,"40 to 44 years",572565,286405,286160,6.7,6.8,6.7
+Quebec,"45 to 49 years",516465,259565,256905,6.1,6.2,6
+Quebec,"50 to 54 years",522935,262610,260325,6.2,6.2,6.1
+Quebec,"55 to 59 years",615690,307230,308465,7.2,7.3,7.2
+Quebec,"60 to 64 years",625610,307710,317900,7.4,7.3,7.4
+Quebec,"65 years and over",1753530,801925,951605,20.6,19.1,22.1
+Quebec,"65 to 69 years",541970,264020,277950,6.4,6.3,6.5
+Quebec,"70 to 74 years",455900,217985,237910,5.4,5.2,5.5
+Quebec,"75 to 79 years",330840,153790,177050,3.9,3.7,4.1
+Quebec,"80 to 84 years",210405,90825,119580,2.5,2.2,2.8
+Quebec,"85 years and over",214415,75305,139115,2.5,1.8,3.2
+Quebec,"85 to 89 years",131755,50610,81150,1.5,1.2,1.9
+Quebec,"90 to 94 years",65020,20490,44535,0.8,0.5,1
+Quebec,"95 to 99 years",15665,3875,11790,0.2,0.1,0.3
+Quebec,"100 years and over",1975,330,1640,0,0,0
+Quebec,"Average age of the population",43,42,44,42.8,41.8,43.7
+Quebec,"Median age of the population",43,42,44,43.2,42,44
+Ontario,"0 to 14 years",2251795,1155630,1096160,15.8,16.6,15.1
+Ontario,"0 to 4 years",683515,350035,333480,4.8,5,4.6
+Ontario,"5 to 9 years",764430,392380,372050,5.4,5.6,5.1
+Ontario,"10 to 14 years",803850,413215,390635,5.7,5.9,5.4
+Ontario,"15 to 64 years",9334440,4616340,4718100,65.6,66.2,65
+Ontario,"15 to 19 years",801455,413485,387970,5.6,5.9,5.3
+Ontario,"20 to 24 years",895600,465525,430075,6.3,6.7,5.9
+Ontario,"25 to 29 years",975400,497185,478215,6.9,7.1,6.6
+Ontario,"30 to 34 years",981210,487465,493745,6.9,7,6.8
+Ontario,"35 to 39 years",948030,463170,484860,6.7,6.6,6.7
+Ontario,"40 to 44 years",890160,427860,462295,6.3,6.1,6.4
+Ontario,"45 to 49 years",894580,430580,464005,6.3,6.2,6.4
+Ontario,"50 to 54 years",941270,455420,485845,6.6,6.5,6.7
+Ontario,"55 to 59 years",1040160,507700,532465,7.3,7.3,7.3
+Ontario,"60 to 64 years",966575,467955,498625,6.8,6.7,6.9
+Ontario,"65 years and over",2637710,1198880,1438825,18.5,17.2,19.8
+Ontario,"65 to 69 years",813215,386325,426890,5.7,5.5,5.9
+Ontario,"70 to 74 years",691280,325435,365840,4.9,4.7,5
+Ontario,"75 to 79 years",469485,217485,252000,3.3,3.1,3.5
+Ontario,"80 to 84 years",325110,143070,182045,2.3,2.1,2.5
+Ontario,"85 years and over",338620,126565,212050,2.4,1.8,2.9
+Ontario,"85 to 89 years",205480,83875,121605,1.4,1.2,1.7
+Ontario,"90 to 94 years",101430,34715,66710,0.7,0.5,0.9
+Ontario,"95 to 99 years",28000,7235,20770,0.2,0.1,0.3
+Ontario,"100 years and over",3705,745,2965,0,0,0
+Ontario,"Average age of the population",42,41,43,41.8,40.7,42.8
+Ontario,"Median age of the population",42,40,43,41.6,40,42.8
+Manitoba,"0 to 14 years",252935,129850,123085,18.8,19.5,18.2
+Manitoba,"0 to 4 years",80435,41145,39290,6,6.2,5.8
+Manitoba,"5 to 9 years",86250,44515,41735,6.4,6.7,6.2
+Manitoba,"10 to 14 years",86250,44190,42060,6.4,6.6,6.2
+Manitoba,"15 to 64 years",860165,432385,427780,64.1,64.9,63.3
+Manitoba,"15 to 19 years",80905,41945,38965,6,6.3,5.8
+Manitoba,"20 to 24 years",91415,48255,43160,6.8,7.2,6.4
+Manitoba,"25 to 29 years",90470,46240,44230,6.7,6.9,6.5
+Manitoba,"30 to 34 years",91805,45805,46000,6.8,6.9,6.8
+Manitoba,"35 to 39 years",90150,44695,45450,6.7,6.7,6.7
+Manitoba,"40 to 44 years",84530,41690,42840,6.3,6.3,6.3
+Manitoba,"45 to 49 years",80235,39915,40320,6,6,6
+Manitoba,"50 to 54 years",78210,38715,39490,5.8,5.8,5.8
+Manitoba,"55 to 59 years",87295,43040,44255,6.5,6.5,6.5
+Manitoba,"60 to 64 years",85155,42080,43075,6.3,6.3,6.4
+Manitoba,"65 years and over",229050,104255,124795,17.1,15.6,18.5
+Manitoba,"65 to 69 years",73060,35565,37495,5.4,5.3,5.5
+Manitoba,"70 to 74 years",59955,28295,31665,4.5,4.2,4.7
+Manitoba,"75 to 79 years",39885,18500,21385,3,2.8,3.2
+Manitoba,"80 to 84 years",26890,11700,15185,2,1.8,2.2
+Manitoba,"85 years and over",29255,10190,19065,2.2,1.5,2.8
+Manitoba,"85 to 89 years",17200,6610,10585,1.3,1,1.6
+Manitoba,"90 to 94 years",8970,2845,6125,0.7,0.4,0.9
+Manitoba,"95 to 99 years",2640,650,1995,0.2,0.1,0.3
+Manitoba,"100 years and over",445,85,360,0,0,0.1
+Manitoba,"Average age of the population",40,39,41,39.7,38.7,40.7
+Manitoba,"Median age of the population",38,37,40,38.4,37.2,39.6
+Saskatchewan,"0 to 14 years",223115,114360,108755,19.7,20.3,19.1
+Saskatchewan,"0 to 4 years",69455,35555,33900,6.1,6.3,6
+Saskatchewan,"5 to 9 years",76545,39210,37340,6.8,7,6.6
+Saskatchewan,"10 to 14 years",77120,39600,37520,6.8,7,6.6
+Saskatchewan,"15 to 64 years",711405,357000,354410,62.8,63.4,62.2
+Saskatchewan,"15 to 19 years",68510,35525,32985,6,6.3,5.8
+Saskatchewan,"20 to 24 years",66870,34580,32295,5.9,6.1,5.7
+Saskatchewan,"25 to 29 years",70030,35420,34605,6.2,6.3,6.1
+Saskatchewan,"30 to 34 years",78380,38930,39450,6.9,6.9,6.9
+Saskatchewan,"35 to 39 years",79420,39380,40040,7,7,7
+Saskatchewan,"40 to 44 years",73055,36670,36380,6.5,6.5,6.4
+Saskatchewan,"45 to 49 years",65075,32425,32655,5.7,5.8,5.7
+Saskatchewan,"50 to 54 years",62745,31300,31440,5.5,5.6,5.5
+Saskatchewan,"55 to 59 years",73165,36045,37120,6.5,6.4,6.5
+Saskatchewan,"60 to 64 years",74155,36725,37430,6.5,6.5,6.6
+Saskatchewan,"65 years and over",197980,91765,106215,17.5,16.3,18.7
+Saskatchewan,"65 to 69 years",64770,32140,32630,5.7,5.7,5.7
+Saskatchewan,"70 to 74 years",48945,23790,25160,4.3,4.2,4.4
+Saskatchewan,"75 to 79 years",33045,15605,17445,2.9,2.8,3.1
+Saskatchewan,"80 to 84 years",23460,10290,13170,2.1,1.8,2.3
+Saskatchewan,"85 years and over",27765,9945,17820,2.5,1.8,3.1
+Saskatchewan,"85 to 89 years",16165,6290,9870,1.4,1.1,1.7
+Saskatchewan,"90 to 94 years",8715,2965,5750,0.8,0.5,1
+Saskatchewan,"95 to 99 years",2435,625,1810,0.2,0.1,0.3
+Saskatchewan,"100 years and over",450,60,385,0,0,0.1
+Saskatchewan,"Average age of the population",40,39,41,39.8,38.9,40.7
+Saskatchewan,"Median age of the population",39,38,40,38.8,38,39.6
+Alberta,"0 to 14 years",809640,415870,393770,19,19.5,18.4
+Alberta,"0 to 4 years",250250,128560,121690,5.9,6,5.7
+Alberta,"5 to 9 years",278810,142850,135955,6.5,6.7,6.4
+Alberta,"10 to 14 years",280585,144460,136120,6.6,6.8,6.4
+Alberta,"15 to 64 years",2823770,1416910,1406865,66.2,66.6,65.9
+Alberta,"15 to 19 years",249765,128745,121015,5.9,6.1,5.7
+Alberta,"20 to 24 years",248740,128595,120150,5.8,6,5.6
+Alberta,"25 to 29 years",275465,138510,136955,6.5,6.5,6.4
+Alberta,"30 to 34 years",323260,160175,163085,7.6,7.5,7.6
+Alberta,"35 to 39 years",338945,168390,170560,8,7.9,8
+Alberta,"40 to 44 years",307665,153715,153955,7.2,7.2,7.2
+Alberta,"45 to 49 years",277770,139705,138065,6.5,6.6,6.5
+Alberta,"50 to 54 years",262770,131650,131120,6.2,6.2,6.1
+Alberta,"55 to 59 years",274150,135825,138325,6.4,6.4,6.5
+Alberta,"60 to 64 years",265240,131600,133640,6.2,6.2,6.3
+Alberta,"65 years and over",629220,295155,334070,14.8,13.9,15.6
+Alberta,"65 to 69 years",217270,106975,110295,5.1,5,5.2
+Alberta,"70 to 74 years",163890,79150,84735,3.8,3.7,4
+Alberta,"75 to 79 years",105520,49860,55660,2.5,2.3,2.6
+Alberta,"80 to 84 years",70160,31510,38650,1.6,1.5,1.8
+Alberta,"85 years and over",72375,27660,44720,1.7,1.3,2.1
+Alberta,"85 to 89 years",44670,18540,26130,1,0.9,1.2
+Alberta,"90 to 94 years",21430,7545,13890,0.5,0.4,0.7
+Alberta,"95 to 99 years",5480,1405,4075,0.1,0.1,0.2
+Alberta,"100 years and over",795,170,625,0,0,0
+Alberta,"Average age of the population",39,38,40,39,38.4,39.7
+Alberta,"Median age of the population",38,38,39,38.4,37.6,38.8
+"British Columbia","0 to 14 years",716900,369250,347650,14.3,15,13.7
+"British Columbia","0 to 4 years",216825,111015,105805,4.3,4.5,4.2
+"British Columbia","5 to 9 years",244290,125810,118485,4.9,5.1,4.7
+"British Columbia","10 to 14 years",255790,132425,123365,5.1,5.4,4.9
+"British Columbia","15 to 64 years",3267620,1614625,1652995,65.3,65.7,65
+"British Columbia","15 to 19 years",253690,131245,122445,5.1,5.3,4.8
+"British Columbia","20 to 24 years",294650,151505,143145,5.9,6.2,5.6
+"British Columbia","25 to 29 years",337090,170500,166585,6.7,6.9,6.5
+"British Columbia","30 to 34 years",358585,178925,179660,7.2,7.3,7.1
+"British Columbia","35 to 39 years",353350,175175,178175,7.1,7.1,7
+"British Columbia","40 to 44 years",319740,156480,163260,6.4,6.4,6.4
+"British Columbia","45 to 49 years",310035,149520,160515,6.2,6.1,6.3
+"British Columbia","50 to 54 years",329005,158540,170460,6.6,6.5,6.7
+"British Columbia","55 to 59 years",356345,172520,183825,7.1,7,7.2
+"British Columbia","60 to 64 years",355130,170210,184920,7.1,6.9,7.3
+"British Columbia","65 years and over",1016365,473640,542720,20.3,19.3,21.3
+"British Columbia","65 to 69 years",319405,152705,166700,6.4,6.2,6.6
+"British Columbia","70 to 74 years",272365,130370,141995,5.4,5.3,5.6
+"British Columbia","75 to 79 years",181075,86060,95015,3.6,3.5,3.7
+"British Columbia","80 to 84 years",121055,55285,65780,2.4,2.2,2.6
+"British Columbia","85 years and over",122465,49225,73235,2.4,2,2.9
+"British Columbia","85 to 89 years",74315,32315,42005,1.5,1.3,1.7
+"British Columbia","90 to 94 years",36840,13715,23120,0.7,0.6,0.9
+"British Columbia","95 to 99 years",9790,2865,6925,0.2,0.1,0.3
+"British Columbia","100 years and over",1515,330,1185,0,0,0
+"British Columbia","Average age of the population",43,42,44,43.1,42.2,43.9
+"British Columbia","Median age of the population",43,42,44,42.8,41.6,44
+Yukon,"0 to 14 years",6820,3545,3275,17,17.6,16.3
+Yukon,"0 to 4 years",2175,1090,1085,5.4,5.4,5.4
+Yukon,"5 to 9 years",2375,1245,1130,5.9,6.2,5.6
+Yukon,"10 to 14 years",2275,1205,1065,5.7,6,5.3
+Yukon,"15 to 64 years",27360,13405,13960,68,66.7,69.3
+Yukon,"15 to 19 years",2085,1085,995,5.2,5.4,4.9
+Yukon,"20 to 24 years",2140,1080,1060,5.3,5.4,5.3
+Yukon,"25 to 29 years",2705,1310,1390,6.7,6.5,6.9
+Yukon,"30 to 34 years",3415,1665,1750,8.5,8.3,8.7
+Yukon,"35 to 39 years",3425,1660,1770,8.5,8.3,8.8
+Yukon,"40 to 44 years",2840,1365,1470,7.1,6.8,7.3
+Yukon,"45 to 49 years",2615,1215,1400,6.5,6,7
+Yukon,"50 to 54 years",2460,1220,1235,6.1,6.1,6.1
+Yukon,"55 to 59 years",2805,1355,1440,7,6.7,7.2
+Yukon,"60 to 64 years",2880,1430,1450,7.2,7.1,7.2
+Yukon,"65 years and over",6050,3155,2890,15,15.7,14.4
+Yukon,"65 to 69 years",2370,1225,1150,5.9,6.1,5.7
+Yukon,"70 to 74 years",1765,925,840,4.4,4.6,4.2
+Yukon,"75 to 79 years",1025,560,460,2.5,2.8,2.3
+Yukon,"80 to 84 years",505,270,230,1.3,1.3,1.1
+Yukon,"85 years and over",385,175,210,1,0.9,1
+Yukon,"85 to 89 years",255,115,140,0.6,0.6,0.7
+Yukon,"90 to 94 years",110,50,55,0.3,0.2,0.3
+Yukon,"95 to 99 years",20,10,15,0,0,0.1
+Yukon,"100 years and over",0,0,0,0,0,0
+Yukon,"Average age of the population",40,40,40,39.9,39.9,40
+Yukon,"Median age of the population",39,39,40,39.2,39.2,39.6
+"Northwest Territories","0 to 14 years",8475,4315,4160,20.6,20.7,20.6
+"Northwest Territories","0 to 4 years",2825,1480,1345,6.9,7.1,6.6
+"Northwest Territories","5 to 9 years",2820,1420,1400,6.9,6.8,6.9
+"Northwest Territories","10 to 14 years",2830,1415,1410,6.9,6.8,7
+"Northwest Territories","15 to 64 years",28485,14420,14065,69.4,69.2,69.5
+"Northwest Territories","15 to 19 years",2530,1280,1250,6.2,6.1,6.2
+"Northwest Territories","20 to 24 years",2555,1340,1215,6.2,6.4,6
+"Northwest Territories","25 to 29 years",3150,1610,1540,7.7,7.7,7.6
+"Northwest Territories","30 to 34 years",3510,1710,1795,8.5,8.2,8.9
+"Northwest Territories","35 to 39 years",3135,1570,1565,7.6,7.5,7.7
+"Northwest Territories","40 to 44 years",2980,1465,1510,7.3,7,7.5
+"Northwest Territories","45 to 49 years",2620,1310,1315,6.4,6.3,6.5
+"Northwest Territories","50 to 54 years",2730,1385,1345,6.6,6.6,6.6
+"Northwest Territories","55 to 59 years",2920,1515,1405,7.1,7.3,6.9
+"Northwest Territories","60 to 64 years",2365,1235,1130,5.8,5.9,5.6
+"Northwest Territories","65 years and over",4110,2110,2000,10,10.1,9.9
+"Northwest Territories","65 to 69 years",1650,870,785,4,4.2,3.9
+"Northwest Territories","70 to 74 years",1115,595,520,2.7,2.9,2.6
+"Northwest Territories","75 to 79 years",695,350,350,1.7,1.7,1.7
+"Northwest Territories","80 to 84 years",350,145,205,0.9,0.7,1
+"Northwest Territories","85 years and over",290,140,145,0.7,0.7,0.7
+"Northwest Territories","85 to 89 years",155,90,65,0.4,0.4,0.3
+"Northwest Territories","90 to 94 years",115,45,70,0.3,0.2,0.3
+"Northwest Territories","95 to 99 years",15,10,10,0,0,0
+"Northwest Territories","100 years and over",0,0,0,0,0,0
+"Northwest Territories","Average age of the population",36,36,36,36.4,36.4,36.3
+"Northwest Territories","Median age of the population",36,36,36,35.6,35.6,35.6
+Nunavut,"0 to 14 years",12080,6175,5905,32.8,32.9,32.6
+Nunavut,"0 to 4 years",4385,2295,2085,11.9,12.2,11.5
+Nunavut,"5 to 9 years",3990,2030,1965,10.8,10.8,10.9
+Nunavut,"10 to 14 years",3705,1850,1850,10.1,9.9,10.2
+Nunavut,"15 to 64 years",23170,11740,11430,62.9,62.5,63.2
+Nunavut,"15 to 19 years",3085,1535,1550,8.4,8.2,8.6
+Nunavut,"20 to 24 years",2860,1475,1385,7.8,7.9,7.7
+Nunavut,"25 to 29 years",2990,1470,1520,8.1,7.8,8.4
+Nunavut,"30 to 34 years",3040,1555,1485,8.2,8.3,8.2
+Nunavut,"35 to 39 years",2370,1195,1175,6.4,6.4,6.5
+Nunavut,"40 to 44 years",2110,1085,1025,5.7,5.8,5.7
+Nunavut,"45 to 49 years",1930,965,960,5.2,5.1,5.3
+Nunavut,"50 to 54 years",1985,995,990,5.4,5.3,5.5
+Nunavut,"55 to 59 years",1615,840,770,4.4,4.5,4.3
+Nunavut,"60 to 64 years",1190,625,565,3.2,3.3,3.1
+Nunavut,"65 years and over",1605,855,755,4.4,4.6,4.2
+Nunavut,"65 to 69 years",720,395,325,2,2.1,1.8
+Nunavut,"70 to 74 years",485,260,225,1.3,1.4,1.2
+Nunavut,"75 to 79 years",220,115,105,0.6,0.6,0.6
+Nunavut,"80 to 84 years",105,50,50,0.3,0.3,0.3
+Nunavut,"85 years and over",80,35,50,0.2,0.2,0.3
+Nunavut,"85 to 89 years",60,30,35,0.2,0.2,0.2
+Nunavut,"90 to 94 years",20,10,15,0.1,0.1,0.1
+Nunavut,"95 to 99 years",0,0,0,0,0,0
+Nunavut,"100 years and over",0,0,0,0,0,0
+Nunavut,"Average age of the population",28,28,28,28.3,28.3,28.2
+Nunavut,"Median age of the population",26,26,26,25.6,25.6,25.8

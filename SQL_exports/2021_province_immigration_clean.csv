@@ -1,0 +1,1681 @@
+region,country_of_origin,total_num,num_men,num_women,total_percent,percent_men,percent_women
+Canada,"  Americas",1203180,546325,656855,14.4,13.7,15
+Canada,"    Brazil",48450,22405,26050,0.6,0.6,0.6
+Canada,"    Colombia",80570,36675,43900,1,0.9,1
+Canada,"    El Salvador",49450,24430,25015,0.6,0.6,0.6
+Canada,"    Guyana",85530,37870,47660,1,1,1.1
+Canada,"    Haiti",99945,44585,55360,1.2,1.1,1.3
+Canada,"    Jamaica",145360,63430,81925,1.7,1.6,1.9
+Canada,"    Mexico",90585,42215,48370,1.1,1.1,1.1
+Canada,"    Peru",31420,13925,17490,0.4,0.4,0.4
+Canada,"    Trinidad and Tobago",65035,29110,35930,0.8,0.7,0.8
+Canada,"    United States of America",256090,115380,140705,3.1,2.9,3.2
+Canada,"    Other places of birth in Americas",250760,116305,134460,3,2.9,3.1
+Canada,"  Europe",1967620,955840,1011785,23.5,24,23.1
+Canada,"    Bosnia and Herzegovina",35925,17705,18220,0.4,0.4,0.4
+Canada,"    Croatia",36675,18115,18560,0.4,0.5,0.4
+Canada,"    France",121525,63845,57685,1.5,1.6,1.3
+Canada,"    Germany",126470,60560,65915,1.5,1.5,1.5
+Canada,"    Greece",54715,27050,27665,0.7,0.7,0.6
+Canada,"    Hungary",31050,14595,16450,0.4,0.4,0.4
+Canada,"    Italy",204065,101445,102625,2.4,2.6,2.3
+Canada,"    Netherlands",75830,39020,36810,0.9,1,0.8
+Canada,"    Poland",135030,60660,74370,1.6,1.5,1.7
+Canada,"    Portugal",128795,62880,65910,1.5,1.6,1.5
+Canada,"    Romania",86770,40820,45955,1,1,1
+Canada,"    Russian Federation",81840,35185,46650,1,0.9,1.1
+Canada,"    Serbia",31925,15480,16450,0.4,0.4,0.4
+Canada,"    Ukraine",81135,36840,44295,1,0.9,1
+Canada,"    United Kingdom",464135,229710,234430,5.6,5.8,5.3
+Canada,"    Other places of birth in Europe",271725,131935,139790,3.2,3.3,3.2
+Canada,"  Africa",821735,412365,409375,9.8,10.4,9.3
+Canada,"    Algeria",79660,41065,38600,1,1,0.9
+Canada,"    Congo, Democratic Republic of the",33110,15775,17340,0.4,0.4,0.4
+Canada,"    Egypt",73710,38730,34980,0.9,1,0.8
+Canada,"    Eritrea",31385,16575,14815,0.4,0.4,0.3
+Canada,"    Ethiopia",41715,19955,21760,0.5,0.5,0.5
+Canada,"    Morocco",81775,41085,40685,1,1,0.9
+Canada,"    Nigeria",81290,41665,39620,1,1,0.9
+Canada,"    Somalia",32500,14600,17900,0.4,0.4,0.4
+Canada,"    South Africa, Republic of",51590,25740,25855,0.6,0.6,0.6
+Canada,"    Other places of birth in Africa",314995,157170,157825,3.8,4,3.6
+Canada,"  Asia",4307000,2030575,2276420,51.5,51.1,51.9
+Canada,"    Afghanistan",62450,30940,31515,0.7,0.8,0.7
+Canada,"    Iran",182940,92300,90645,2.2,2.3,2.1
+Canada,"    Iraq",84130,42660,41465,1,1.1,0.9
+Canada,"    Lebanon",95725,50675,45055,1.1,1.3,1
+Canada,"    Syria",97590,49855,47735,1.2,1.3,1.1
+Canada,"    Turkey",35270,18835,16435,0.4,0.5,0.4
+Canada,"    China",715835,317970,397860,8.6,8,9.1
+Canada,"    Hong Kong",213855,100480,113375,2.6,2.5,2.6
+Canada,"    Korea, South",138355,63025,75325,1.7,1.6,1.7
+Canada,"    Taiwan",65365,28725,36635,0.8,0.7,0.8
+Canada,"    Philippines",719580,305115,414460,8.6,7.7,9.5
+Canada,"    Viet Nam",182095,82670,99425,2.2,2.1,2.3
+Canada,"    Bangladesh",70090,35675,34415,0.8,0.9,0.8
+Canada,"    India",898050,451120,446930,10.7,11.3,10.2
+Canada,"    Pakistan",234105,118390,115715,2.8,3,2.6
+Canada,"    Sri Lanka",136240,66215,70030,1.6,1.7,1.6
+Canada,"    Other places of birth in Asia",375340,175930,199410,4.5,4.4,4.5
+Canada,"  Oceania and other places of birth",61965,31055,30910,0.7,0.8,0.7
+Canada,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",1328240,644900,683340,100,100,100
+Canada,"  Americas",154490,74275,80215,11.6,11.5,11.7
+Canada,"    Brazil",19895,9340,10560,1.5,1.4,1.5
+Canada,"    Colombia",11455,5090,6365,0.9,0.8,0.9
+Canada,"    Haiti",10550,5155,5400,0.8,0.8,0.8
+Canada,"    Jamaica",15155,7740,7420,1.1,1.2,1.1
+Canada,"    Mexico",17150,8405,8745,1.3,1.3,1.3
+Canada,"    United States of America",39875,19790,20085,3,3.1,2.9
+Canada,"    Venezuela",7060,2980,4075,0.5,0.5,0.6
+Canada,"    Other places of birth in Americas",33350,15785,17570,2.5,2.4,2.6
+Canada,"  Europe",134425,69310,65120,10.1,10.7,9.5
+Canada,"    France",27175,14560,12610,2,2.3,1.8
+Canada,"    Germany",5365,2660,2705,0.4,0.4,0.4
+Canada,"    Ireland",6355,4000,2350,0.5,0.6,0.3
+Canada,"    Italy",4240,2470,1770,0.3,0.4,0.3
+Canada,"    Russian Federation",10905,4335,6570,0.8,0.7,1
+Canada,"    Ukraine",14515,6570,7945,1.1,1,1.2
+Canada,"    United Kingdom",22755,13550,9200,1.7,2.1,1.3
+Canada,"    Other places of birth in Europe",43120,21160,21960,3.2,3.3,3.2
+Canada,"  Africa",206965,102875,104090,15.6,16,15.2
+Canada,"    Algeria",15745,7530,8220,1.2,1.2,1.2
+Canada,"    Burundi",4935,2420,2510,0.4,0.4,0.4
+Canada,"    Cameroon",11795,5545,6250,0.9,0.9,0.9
+Canada,"    Congo, Democratic Republic of the",8915,4200,4720,0.7,0.7,0.7
+Canada,"    Cote d'Ivoire",7915,3795,4125,0.6,0.6,0.6
+Canada,"    Egypt",12120,6285,5835,0.9,1,0.9
+Canada,"    Eritrea",16330,8755,7575,1.2,1.4,1.1
+Canada,"    Ethiopia",9385,4415,4970,0.7,0.7,0.7
+Canada,"    Morocco",12835,6025,6810,1,0.9,1
+Canada,"    Nigeria",40360,20575,19780,3,3.2,2.9
+Canada,"    Somalia",6315,3240,3075,0.5,0.5,0.4
+Canada,"    South Africa, Republic of",8510,4290,4220,0.6,0.7,0.6
+Canada,"    Sudan",4690,2375,2315,0.4,0.4,0.3
+Canada,"    Tunisia",8155,4185,3975,0.6,0.6,0.6
+Canada,"    Other places of birth in Africa",38960,19250,19715,2.9,3,2.9
+Canada,"  Asia",823205,393110,430090,62,61,62.9
+Canada,"    Afghanistan",12730,6290,6440,1,1,0.9
+Canada,"    Bangladesh",13185,6670,6515,1,1,1
+Canada,"    China",118035,50365,67665,8.9,7.8,9.9
+Canada,"    Hong Kong",6495,2880,3620,0.5,0.4,0.5
+Canada,"    India",246995,128205,118790,18.6,19.9,17.4
+Canada,"    Iran",25650,12310,13340,1.9,1.9,2
+Canada,"    Iraq",17715,8835,8875,1.3,1.4,1.3
+Canada,"    Israel",4850,2565,2290,0.4,0.4,0.3
+Canada,"    Japan",4445,1035,3410,0.3,0.2,0.5
+Canada,"    Jordan",4635,2375,2260,0.3,0.4,0.3
+Canada,"    Korea, South",20985,8790,12200,1.6,1.4,1.8
+Canada,"    Lebanon",9980,5120,4860,0.8,0.8,0.7
+Canada,"    Nepal",4890,2475,2415,0.4,0.4,0.4
+Canada,"    Pakistan",36255,18070,18190,2.7,2.8,2.7
+Canada,"    Philippines",151490,66720,84765,11.4,10.3,12.4
+Canada,"    Saudi Arabia",9560,5195,4365,0.7,0.8,0.6
+Canada,"    Sri Lanka",8480,4010,4465,0.6,0.6,0.7
+Canada,"    Syria",63130,32725,30410,4.8,5.1,4.5
+Canada,"    Turkey",10150,5520,4635,0.8,0.9,0.7
+Canada,"    United Arab Emirates",8405,4325,4085,0.6,0.7,0.6
+Canada,"    Viet Nam",14725,5605,9125,1.1,0.9,1.3
+Canada,"    Other places of birth in Asia",30410,13035,17375,2.3,2,2.5
+Canada,"  Oceania and other",9160,5335,3825,0.7,0.8,0.6
+Canada,"    Australia",6535,3845,2685,0.5,0.6,0.4
+Canada,"    Other places of birth",2625,1490,1135,0.2,0.2,0.2
+"Newfoundland and Labrador","  Americas",2345,1110,1235,16.5,15.3,17.6
+"Newfoundland and Labrador","    Brazil",90,40,50,0.6,0.6,0.7
+"Newfoundland and Labrador","    Colombia",145,70,75,1,1,1.1
+"Newfoundland and Labrador","    El Salvador",30,15,20,0.2,0.2,0.3
+"Newfoundland and Labrador","    Guyana",20,10,10,0.1,0.1,0.1
+"Newfoundland and Labrador","    Haiti",10,10,0,0.1,0.1,0
+"Newfoundland and Labrador","    Jamaica",220,100,125,1.5,1.4,1.8
+"Newfoundland and Labrador","    Mexico",25,15,15,0.2,0.2,0.2
+"Newfoundland and Labrador","    Peru",20,10,15,0.1,0.1,0.2
+"Newfoundland and Labrador","    Trinidad and Tobago",65,25,35,0.5,0.3,0.5
+"Newfoundland and Labrador","    United States of America",1390,695,690,9.8,9.6,9.8
+"Newfoundland and Labrador","    Other places of birth in Americas",325,130,200,2.3,1.8,2.9
+"Newfoundland and Labrador","  Europe",4290,2340,1945,30.1,32.3,27.7
+"Newfoundland and Labrador","    Bosnia and Herzegovina",40,25,10,0.3,0.3,0.1
+"Newfoundland and Labrador","    Croatia",45,25,20,0.3,0.3,0.3
+"Newfoundland and Labrador","    France",190,85,105,1.3,1.2,1.5
+"Newfoundland and Labrador","    Germany",245,150,95,1.7,2.1,1.4
+"Newfoundland and Labrador","    Greece",25,15,0,0.2,0.2,0
+"Newfoundland and Labrador","    Hungary",15,0,15,0.1,0,0.2
+"Newfoundland and Labrador","    Italy",95,55,40,0.7,0.8,0.6
+"Newfoundland and Labrador","    Netherlands",100,60,40,0.7,0.8,0.6
+"Newfoundland and Labrador","    Poland",60,40,25,0.4,0.6,0.4
+"Newfoundland and Labrador","    Portugal",80,35,45,0.6,0.5,0.6
+"Newfoundland and Labrador","    Romania",100,45,55,0.7,0.6,0.8
+"Newfoundland and Labrador","    Russian Federation",125,60,70,0.9,0.8,1
+"Newfoundland and Labrador","    Serbia",10,0,10,0.1,0,0.1
+"Newfoundland and Labrador","    Ukraine",75,25,50,0.5,0.3,0.7
+"Newfoundland and Labrador","    United Kingdom",2300,1235,1070,16.1,17.1,15.3
+"Newfoundland and Labrador","    Other places of birth in Europe",780,475,305,5.5,6.6,4.4
+"Newfoundland and Labrador","  Africa",1895,1065,835,13.3,14.7,11.9
+"Newfoundland and Labrador","    Algeria",30,15,15,0.2,0.2,0.2
+"Newfoundland and Labrador","    Congo, Democratic Republic of the",80,40,40,0.6,0.6,0.6
+"Newfoundland and Labrador","    Egypt",205,145,60,1.4,2,0.9
+"Newfoundland and Labrador","    Eritrea",155,95,60,1.1,1.3,0.9
+"Newfoundland and Labrador","    Ethiopia",75,40,35,0.5,0.6,0.5
+"Newfoundland and Labrador","    Morocco",20,15,10,0.1,0.2,0.1
+"Newfoundland and Labrador","    Nigeria",455,260,200,3.2,3.6,2.9
+"Newfoundland and Labrador","    Somalia",15,15,0,0.1,0.2,0
+"Newfoundland and Labrador","    South Africa, Republic of",185,95,85,1.3,1.3,1.2
+"Newfoundland and Labrador","    Other places of birth in Africa",675,345,325,4.7,4.8,4.6
+"Newfoundland and Labrador","  Asia",5590,2680,2910,39.2,37,41.5
+"Newfoundland and Labrador","    Afghanistan",0,0,0,0,0,0
+"Newfoundland and Labrador","    Iran",140,70,70,1,1,1
+"Newfoundland and Labrador","    Iraq",190,95,90,1.3,1.3,1.3
+"Newfoundland and Labrador","    Lebanon",80,45,30,0.6,0.6,0.4
+"Newfoundland and Labrador","    Syria",485,245,240,3.4,3.4,3.4
+"Newfoundland and Labrador","    Turkey",55,40,15,0.4,0.6,0.2
+"Newfoundland and Labrador","    China",630,280,350,4.4,3.9,5
+"Newfoundland and Labrador","    Hong Kong",85,45,45,0.6,0.6,0.6
+"Newfoundland and Labrador","    Korea, South",105,25,75,0.7,0.3,1.1
+"Newfoundland and Labrador","    Taiwan",50,20,35,0.4,0.3,0.5
+"Newfoundland and Labrador","    Philippines",1655,685,965,11.6,9.5,13.8
+"Newfoundland and Labrador","    Viet Nam",90,45,45,0.6,0.6,0.6
+"Newfoundland and Labrador","    Bangladesh",230,130,105,1.6,1.8,1.5
+"Newfoundland and Labrador","    India",830,480,355,5.8,6.6,5.1
+"Newfoundland and Labrador","    Pakistan",220,90,130,1.5,1.2,1.9
+"Newfoundland and Labrador","    Sri Lanka",100,50,50,0.7,0.7,0.7
+"Newfoundland and Labrador","    Other places of birth in Asia",635,340,300,4.5,4.7,4.3
+"Newfoundland and Labrador","  Oceania and other places of birth",130,40,90,0.9,0.6,1.3
+"Newfoundland and Labrador","Total - Place of birth for the recent immigrant population in private households - 25% sample data",4270,2100,2170,100,100,100
+"Newfoundland and Labrador","  Americas",430,200,225,10.1,9.5,10.4
+"Newfoundland and Labrador","    Brazil",25,10,20,0.6,0.5,0.9
+"Newfoundland and Labrador","    Colombia",20,15,0,0.5,0.7,0
+"Newfoundland and Labrador","    Haiti",0,0,0,0,0,0
+"Newfoundland and Labrador","    Jamaica",145,60,80,3.4,2.9,3.7
+"Newfoundland and Labrador","    Mexico",20,15,10,0.5,0.7,0.5
+"Newfoundland and Labrador","    United States of America",145,70,70,3.4,3.3,3.2
+"Newfoundland and Labrador","    Venezuela",0,0,0,0,0,0
+"Newfoundland and Labrador","    Other places of birth in Americas",70,25,45,1.6,1.2,2.1
+"Newfoundland and Labrador","  Europe",395,235,165,9.3,11.2,7.6
+"Newfoundland and Labrador","    France",30,15,20,0.7,0.7,0.9
+"Newfoundland and Labrador","    Germany",30,20,10,0.7,1,0.5
+"Newfoundland and Labrador","    Ireland",55,30,25,1.3,1.4,1.2
+"Newfoundland and Labrador","    Italy",10,10,0,0.2,0.5,0
+"Newfoundland and Labrador","    Russian Federation",25,15,15,0.6,0.7,0.7
+"Newfoundland and Labrador","    Ukraine",0,0,0,0,0,0
+"Newfoundland and Labrador","    United Kingdom",125,90,35,2.9,4.3,1.6
+"Newfoundland and Labrador","    Other places of birth in Europe",105,60,45,2.5,2.9,2.1
+"Newfoundland and Labrador","  Africa",910,490,425,21.3,23.3,19.6
+"Newfoundland and Labrador","    Algeria",0,0,0,0,0,0
+"Newfoundland and Labrador","    Burundi",0,0,0,0,0,0
+"Newfoundland and Labrador","    Cameroon",10,0,10,0.2,0,0.5
+"Newfoundland and Labrador","    Congo, Democratic Republic of the",55,25,25,1.3,1.2,1.2
+"Newfoundland and Labrador","    Cote d'Ivoire",0,0,0,0,0,0
+"Newfoundland and Labrador","    Egypt",40,25,10,0.9,1.2,0.5
+"Newfoundland and Labrador","    Eritrea",100,60,45,2.3,2.9,2.1
+"Newfoundland and Labrador","    Ethiopia",20,0,15,0.5,0,0.7
+"Newfoundland and Labrador","    Morocco",10,0,0,0.2,0,0
+"Newfoundland and Labrador","    Nigeria",300,175,120,7,8.3,5.5
+"Newfoundland and Labrador","    Somalia",0,0,0,0,0,0
+"Newfoundland and Labrador","    South Africa, Republic of",65,35,25,1.5,1.7,1.2
+"Newfoundland and Labrador","    Sudan",65,35,30,1.5,1.7,1.4
+"Newfoundland and Labrador","    Tunisia",35,15,25,0.8,0.7,1.2
+"Newfoundland and Labrador","    Other places of birth in Africa",210,100,115,4.9,4.8,5.3
+"Newfoundland and Labrador","  Asia",2520,1170,1345,59,55.7,62
+"Newfoundland and Labrador","    Afghanistan",0,0,0,0,0,0
+"Newfoundland and Labrador","    Bangladesh",80,45,35,1.9,2.1,1.6
+"Newfoundland and Labrador","    China",200,85,115,4.7,4,5.3
+"Newfoundland and Labrador","    Hong Kong",0,0,0,0,0,0
+"Newfoundland and Labrador","    India",320,200,125,7.5,9.5,5.8
+"Newfoundland and Labrador","    Iran",35,20,15,0.8,1,0.7
+"Newfoundland and Labrador","    Iraq",60,20,35,1.4,1,1.6
+"Newfoundland and Labrador","    Israel",0,0,0,0,0,0
+"Newfoundland and Labrador","    Japan",0,0,0,0,0,0
+"Newfoundland and Labrador","    Jordan",20,15,10,0.5,0.7,0.5
+"Newfoundland and Labrador","    Korea, South",35,0,35,0.8,0,1.6
+"Newfoundland and Labrador","    Lebanon",55,30,20,1.3,1.4,0.9
+"Newfoundland and Labrador","    Nepal",0,0,0,0,0,0
+"Newfoundland and Labrador","    Pakistan",100,45,55,2.3,2.1,2.5
+"Newfoundland and Labrador","    Philippines",940,380,555,22,18.1,25.6
+"Newfoundland and Labrador","    Saudi Arabia",25,10,15,0.6,0.5,0.7
+"Newfoundland and Labrador","    Sri Lanka",20,15,10,0.5,0.7,0.5
+"Newfoundland and Labrador","    Syria",400,210,190,9.4,10,8.8
+"Newfoundland and Labrador","    Turkey",30,25,0,0.7,1.2,0
+"Newfoundland and Labrador","    United Arab Emirates",35,0,25,0.8,0,1.2
+"Newfoundland and Labrador","    Viet Nam",35,15,20,0.8,0.7,0.9
+"Newfoundland and Labrador","    Other places of birth in Asia",105,35,65,2.5,1.7,3
+"Newfoundland and Labrador","  Oceania and other",15,0,10,0.4,0,0.5
+"Newfoundland and Labrador","    Australia",10,0,10,0.2,0,0.5
+"Newfoundland and Labrador","    Other places of birth",0,0,0,0,0,0
+"Prince Edward Island","  Americas",1830,830,1000,15.6,14.5,16.6
+"Prince Edward Island","    Brazil",85,40,50,0.7,0.7,0.8
+"Prince Edward Island","    Colombia",40,10,30,0.3,0.2,0.5
+"Prince Edward Island","    El Salvador",40,20,15,0.3,0.3,0.2
+"Prince Edward Island","    Guyana",15,15,0,0.1,0.3,0
+"Prince Edward Island","    Haiti",10,10,0,0.1,0.2,0
+"Prince Edward Island","    Jamaica",130,65,60,1.1,1.1,1
+"Prince Edward Island","    Mexico",50,10,35,0.4,0.2,0.6
+"Prince Edward Island","    Peru",15,0,15,0.1,0,0.2
+"Prince Edward Island","    Trinidad and Tobago",25,10,15,0.2,0.2,0.2
+"Prince Edward Island","    United States of America",1170,505,665,9.9,8.8,11
+"Prince Edward Island","    Other places of birth in Americas",260,150,105,2.2,2.6,1.7
+"Prince Edward Island","  Europe",3275,1630,1645,27.8,28.4,27.3
+"Prince Edward Island","    Bosnia and Herzegovina",55,25,30,0.5,0.4,0.5
+"Prince Edward Island","    Croatia",20,20,0,0.2,0.3,0
+"Prince Edward Island","    France",110,40,70,0.9,0.7,1.2
+"Prince Edward Island","    Germany",185,90,100,1.6,1.6,1.7
+"Prince Edward Island","    Greece",10,10,0,0.1,0.2,0
+"Prince Edward Island","    Hungary",45,20,20,0.4,0.3,0.3
+"Prince Edward Island","    Italy",75,35,35,0.6,0.6,0.6
+"Prince Edward Island","    Netherlands",430,240,185,3.7,4.2,3.1
+"Prince Edward Island","    Poland",100,50,45,0.8,0.9,0.7
+"Prince Edward Island","    Portugal",80,45,35,0.7,0.8,0.6
+"Prince Edward Island","    Romania",35,10,20,0.3,0.2,0.3
+"Prince Edward Island","    Russian Federation",105,45,60,0.9,0.8,1
+"Prince Edward Island","    Serbia",10,0,10,0.1,0,0.2
+"Prince Edward Island","    Ukraine",75,40,35,0.6,0.7,0.6
+"Prince Edward Island","    United Kingdom",1385,670,710,11.8,11.7,11.8
+"Prince Edward Island","    Other places of birth in Europe",575,290,285,4.9,5.1,4.7
+"Prince Edward Island","  Africa",625,320,310,5.3,5.6,5.1
+"Prince Edward Island","    Algeria",0,0,0,0,0,0
+"Prince Edward Island","    Congo, Democratic Republic of the",15,0,15,0.1,0,0.2
+"Prince Edward Island","    Egypt",55,25,25,0.5,0.4,0.4
+"Prince Edward Island","    Eritrea",0,0,0,0,0,0
+"Prince Edward Island","    Ethiopia",10,0,0,0.1,0,0
+"Prince Edward Island","    Morocco",60,30,25,0.5,0.5,0.4
+"Prince Edward Island","    Nigeria",110,55,60,0.9,1,1
+"Prince Edward Island","    Somalia",25,15,10,0.2,0.3,0.2
+"Prince Edward Island","    South Africa, Republic of",120,55,65,1,1,1.1
+"Prince Edward Island","    Other places of birth in Africa",220,120,95,1.9,2.1,1.6
+"Prince Edward Island","  Asia",5965,2920,3040,50.7,50.9,50.5
+"Prince Edward Island","    Afghanistan",0,0,0,0,0,0
+"Prince Edward Island","    Iran",185,110,80,1.6,1.9,1.3
+"Prince Edward Island","    Iraq",55,35,20,0.5,0.6,0.3
+"Prince Edward Island","    Lebanon",140,85,55,1.2,1.5,0.9
+"Prince Edward Island","    Syria",400,210,185,3.4,3.7,3.1
+"Prince Edward Island","    Turkey",25,10,10,0.2,0.2,0.2
+"Prince Edward Island","    China",1675,820,855,14.2,14.3,14.2
+"Prince Edward Island","    Hong Kong",125,80,45,1.1,1.4,0.7
+"Prince Edward Island","    Korea, South",40,15,30,0.3,0.3,0.5
+"Prince Edward Island","    Taiwan",155,65,90,1.3,1.1,1.5
+"Prince Edward Island","    Philippines",1015,390,620,8.6,6.8,10.3
+"Prince Edward Island","    Viet Nam",525,265,260,4.5,4.6,4.3
+"Prince Edward Island","    Bangladesh",90,55,35,0.8,1,0.6
+"Prince Edward Island","    India",835,475,360,7.1,8.3,6
+"Prince Edward Island","    Pakistan",85,45,35,0.7,0.8,0.6
+"Prince Edward Island","    Sri Lanka",70,35,30,0.6,0.6,0.5
+"Prince Edward Island","    Other places of birth in Asia",530,225,305,4.5,3.9,5.1
+"Prince Edward Island","  Oceania and other places of birth",70,40,35,0.6,0.7,0.6
+"Prince Edward Island","Total - Place of birth for the recent immigrant population in private households - 25% sample data",4860,2450,2410,100,100,100
+"Prince Edward Island","  Americas",465,210,250,9.6,8.6,10.4
+"Prince Edward Island","    Brazil",50,30,20,1,1.2,0.8
+"Prince Edward Island","    Colombia",35,15,25,0.7,0.6,1
+"Prince Edward Island","    Haiti",0,0,0,0,0,0
+"Prince Edward Island","    Jamaica",110,45,60,2.3,1.8,2.5
+"Prince Edward Island","    Mexico",30,10,15,0.6,0.4,0.6
+"Prince Edward Island","    United States of America",140,45,95,2.9,1.8,3.9
+"Prince Edward Island","    Venezuela",0,0,0,0,0,0
+"Prince Edward Island","    Other places of birth in Americas",100,60,35,2.1,2.4,1.5
+"Prince Edward Island","  Europe",445,210,230,9.2,8.6,9.5
+"Prince Edward Island","    France",45,25,15,0.9,1,0.6
+"Prince Edward Island","    Germany",0,0,0,0,0,0
+"Prince Edward Island","    Ireland",15,10,10,0.3,0.4,0.4
+"Prince Edward Island","    Italy",35,10,20,0.7,0.4,0.8
+"Prince Edward Island","    Russian Federation",45,20,30,0.9,0.8,1.2
+"Prince Edward Island","    Ukraine",35,20,15,0.7,0.8,0.6
+"Prince Edward Island","    United Kingdom",130,65,70,2.7,2.7,2.9
+"Prince Edward Island","    Other places of birth in Europe",135,70,70,2.8,2.9,2.9
+"Prince Edward Island","  Africa",270,135,130,5.6,5.5,5.4
+"Prince Edward Island","    Algeria",0,0,0,0,0,0
+"Prince Edward Island","    Burundi",0,0,0,0,0,0
+"Prince Edward Island","    Cameroon",0,0,0,0,0,0
+"Prince Edward Island","    Congo, Democratic Republic of the",0,0,0,0,0,0
+"Prince Edward Island","    Cote d'Ivoire",0,0,0,0,0,0
+"Prince Edward Island","    Egypt",30,20,15,0.6,0.8,0.6
+"Prince Edward Island","    Eritrea",0,0,0,0,0,0
+"Prince Edward Island","    Ethiopia",0,0,0,0,0,0
+"Prince Edward Island","    Morocco",10,0,10,0.2,0,0.4
+"Prince Edward Island","    Nigeria",85,40,45,1.7,1.6,1.9
+"Prince Edward Island","    Somalia",0,0,0,0,0,0
+"Prince Edward Island","    South Africa, Republic of",30,10,15,0.6,0.4,0.6
+"Prince Edward Island","    Sudan",0,0,0,0,0,0
+"Prince Edward Island","    Tunisia",0,0,0,0,0,0
+"Prince Edward Island","    Other places of birth in Africa",65,40,25,1.3,1.6,1
+"Prince Edward Island","  Asia",3660,1880,1780,75.3,76.7,73.9
+"Prince Edward Island","    Afghanistan",0,0,0,0,0,0
+"Prince Edward Island","    Bangladesh",50,25,20,1,1,0.8
+"Prince Edward Island","    China",1170,595,575,24.1,24.3,23.9
+"Prince Edward Island","    Hong Kong",70,45,30,1.4,1.8,1.2
+"Prince Edward Island","    India",665,390,280,13.7,15.9,11.6
+"Prince Edward Island","    Iran",10,0,10,0.2,0,0.4
+"Prince Edward Island","    Iraq",40,25,15,0.8,1,0.6
+"Prince Edward Island","    Israel",10,10,0,0.2,0.4,0
+"Prince Edward Island","    Japan",0,0,0,0,0,0
+"Prince Edward Island","    Jordan",20,15,0,0.4,0.6,0
+"Prince Edward Island","    Korea, South",0,0,0,0,0,0
+"Prince Edward Island","    Lebanon",30,20,0,0.6,0.8,0
+"Prince Edward Island","    Nepal",20,10,10,0.4,0.4,0.4
+"Prince Edward Island","    Pakistan",15,10,0,0.3,0.4,0
+"Prince Edward Island","    Philippines",630,255,370,13,10.4,15.4
+"Prince Edward Island","    Saudi Arabia",25,15,10,0.5,0.6,0.4
+"Prince Edward Island","    Sri Lanka",30,20,15,0.6,0.8,0.6
+"Prince Edward Island","    Syria",220,125,95,4.5,5.1,3.9
+"Prince Edward Island","    Turkey",10,0,10,0.2,0,0.4
+"Prince Edward Island","    United Arab Emirates",55,15,35,1.1,0.6,1.5
+"Prince Edward Island","    Viet Nam",470,240,230,9.7,9.8,9.5
+"Prince Edward Island","    Other places of birth in Asia",115,55,65,2.4,2.2,2.7
+"Prince Edward Island","  Oceania and other",25,10,10,0.5,0.4,0.4
+"Prince Edward Island","    Australia",20,10,10,0.4,0.4,0.4
+"Prince Edward Island","    Other places of birth",0,0,0,0,0,0
+"Nova Scotia","  Americas",12150,5780,6370,17,16.3,17.6
+"Nova Scotia","    Brazil",440,205,230,0.6,0.6,0.6
+"Nova Scotia","    Colombia",270,125,140,0.4,0.4,0.4
+"Nova Scotia","    El Salvador",85,40,45,0.1,0.1,0.1
+"Nova Scotia","    Guyana",255,110,140,0.4,0.3,0.4
+"Nova Scotia","    Haiti",55,10,45,0.1,0,0.1
+"Nova Scotia","    Jamaica",760,395,365,1.1,1.1,1
+"Nova Scotia","    Mexico",350,185,165,0.5,0.5,0.5
+"Nova Scotia","    Peru",115,55,55,0.2,0.2,0.2
+"Nova Scotia","    Trinidad and Tobago",290,155,130,0.4,0.4,0.4
+"Nova Scotia","    United States of America",7570,3435,4130,10.6,9.7,11.4
+"Nova Scotia","    Other places of birth in Americas",1960,1045,915,2.7,2.9,2.5
+"Nova Scotia","  Europe",23295,11615,11685,32.6,32.8,32.3
+"Nova Scotia","    Bosnia and Herzegovina",265,130,135,0.4,0.4,0.4
+"Nova Scotia","    Croatia",250,110,140,0.3,0.3,0.4
+"Nova Scotia","    France",485,260,220,0.7,0.7,0.6
+"Nova Scotia","    Germany",2370,1165,1210,3.3,3.3,3.3
+"Nova Scotia","    Greece",300,130,165,0.4,0.4,0.5
+"Nova Scotia","    Hungary",215,105,110,0.3,0.3,0.3
+"Nova Scotia","    Italy",490,280,205,0.7,0.8,0.6
+"Nova Scotia","    Netherlands",1465,795,670,2,2.2,1.9
+"Nova Scotia","    Poland",765,340,425,1.1,1,1.2
+"Nova Scotia","    Portugal",235,135,95,0.3,0.4,0.3
+"Nova Scotia","    Romania",315,135,175,0.4,0.4,0.5
+"Nova Scotia","    Russian Federation",710,330,375,1,0.9,1
+"Nova Scotia","    Serbia",155,70,80,0.2,0.2,0.2
+"Nova Scotia","    Ukraine",615,335,280,0.9,0.9,0.8
+"Nova Scotia","    United Kingdom",11935,5930,6000,16.7,16.7,16.6
+"Nova Scotia","    Other places of birth in Europe",2745,1355,1385,3.8,3.8,3.8
+"Nova Scotia","  Africa",6575,3545,3035,9.2,10,8.4
+"Nova Scotia","    Algeria",75,55,15,0.1,0.2,0
+"Nova Scotia","    Congo, Democratic Republic of the",265,145,115,0.4,0.4,0.3
+"Nova Scotia","    Egypt",970,525,450,1.4,1.5,1.2
+"Nova Scotia","    Eritrea",120,85,35,0.2,0.2,0.1
+"Nova Scotia","    Ethiopia",275,160,115,0.4,0.5,0.3
+"Nova Scotia","    Morocco",150,60,85,0.2,0.2,0.2
+"Nova Scotia","    Nigeria",1745,890,860,2.4,2.5,2.4
+"Nova Scotia","    Somalia",130,80,50,0.2,0.2,0.1
+"Nova Scotia","    South Africa, Republic of",705,360,350,1,1,1
+"Nova Scotia","    Other places of birth in Africa",2135,1175,965,3,3.3,2.7
+"Nova Scotia","  Asia",28940,14155,14785,40.4,40,40.9
+"Nova Scotia","    Afghanistan",125,65,55,0.2,0.2,0.2
+"Nova Scotia","    Iran",1045,530,510,1.5,1.5,1.4
+"Nova Scotia","    Iraq",435,235,200,0.6,0.7,0.6
+"Nova Scotia","    Lebanon",1565,880,685,2.2,2.5,1.9
+"Nova Scotia","    Syria",2415,1265,1155,3.4,3.6,3.2
+"Nova Scotia","    Turkey",315,180,135,0.4,0.5,0.4
+"Nova Scotia","    China",4320,1995,2330,6,5.6,6.4
+"Nova Scotia","    Hong Kong",355,145,205,0.5,0.4,0.6
+"Nova Scotia","    Korea, South",1220,540,685,1.7,1.5,1.9
+"Nova Scotia","    Taiwan",180,75,100,0.3,0.2,0.3
+"Nova Scotia","    Philippines",4760,2040,2715,6.7,5.8,7.5
+"Nova Scotia","    Viet Nam",675,325,350,0.9,0.9,1
+"Nova Scotia","    Bangladesh",540,280,260,0.8,0.8,0.7
+"Nova Scotia","    India",5605,2950,2655,7.8,8.3,7.3
+"Nova Scotia","    Pakistan",900,480,420,1.3,1.4,1.2
+"Nova Scotia","    Sri Lanka",375,190,185,0.5,0.5,0.5
+"Nova Scotia","    Other places of birth in Asia",4100,1975,2125,5.7,5.6,5.9
+"Nova Scotia","  Oceania and other places of birth",605,335,270,0.8,0.9,0.7
+"Nova Scotia","Total - Place of birth for the recent immigrant population in private households - 25% sample data",21385,11045,10340,100,100,100
+"Nova Scotia","  Americas",2110,1155,955,9.9,10.5,9.2
+"Nova Scotia","    Brazil",265,135,125,1.2,1.2,1.2
+"Nova Scotia","    Colombia",45,25,20,0.2,0.2,0.2
+"Nova Scotia","    Haiti",0,0,0,0,0,0
+"Nova Scotia","    Jamaica",325,170,160,1.5,1.5,1.5
+"Nova Scotia","    Mexico",85,60,25,0.4,0.5,0.2
+"Nova Scotia","    United States of America",880,475,400,4.1,4.3,3.9
+"Nova Scotia","    Venezuela",25,15,10,0.1,0.1,0.1
+"Nova Scotia","    Other places of birth in Americas",490,280,210,2.3,2.5,2
+"Nova Scotia","  Europe",2145,1205,945,10,10.9,9.1
+"Nova Scotia","    France",80,45,35,0.4,0.4,0.3
+"Nova Scotia","    Germany",185,105,80,0.9,1,0.8
+"Nova Scotia","    Ireland",115,70,40,0.5,0.6,0.4
+"Nova Scotia","    Italy",40,25,15,0.2,0.2,0.1
+"Nova Scotia","    Russian Federation",205,100,105,1,0.9,1
+"Nova Scotia","    Ukraine",265,145,120,1.2,1.3,1.2
+"Nova Scotia","    United Kingdom",735,455,275,3.4,4.1,2.7
+"Nova Scotia","    Other places of birth in Europe",530,260,270,2.5,2.4,2.6
+"Nova Scotia","  Africa",3395,1830,1570,15.9,16.6,15.2
+"Nova Scotia","    Algeria",30,15,10,0.1,0.1,0.1
+"Nova Scotia","    Burundi",20,15,0,0.1,0.1,0
+"Nova Scotia","    Cameroon",20,0,15,0.1,0,0.1
+"Nova Scotia","    Congo, Democratic Republic of the",160,85,75,0.7,0.8,0.7
+"Nova Scotia","    Cote d'Ivoire",40,15,25,0.2,0.1,0.2
+"Nova Scotia","    Egypt",375,215,160,1.8,1.9,1.5
+"Nova Scotia","    Eritrea",50,45,0,0.2,0.4,0
+"Nova Scotia","    Ethiopia",100,55,40,0.5,0.5,0.4
+"Nova Scotia","    Morocco",45,25,25,0.2,0.2,0.2
+"Nova Scotia","    Nigeria",1440,705,735,6.7,6.4,7.1
+"Nova Scotia","    Somalia",95,65,30,0.4,0.6,0.3
+"Nova Scotia","    South Africa, Republic of",220,115,110,1,1,1.1
+"Nova Scotia","    Sudan",155,110,50,0.7,1,0.5
+"Nova Scotia","    Tunisia",25,15,10,0.1,0.1,0.1
+"Nova Scotia","    Other places of birth in Africa",615,350,270,2.9,3.2,2.6
+"Nova Scotia","  Asia",13620,6770,6850,63.7,61.3,66.2
+"Nova Scotia","    Afghanistan",30,20,10,0.1,0.2,0.1
+"Nova Scotia","    Bangladesh",350,185,165,1.6,1.7,1.6
+"Nova Scotia","    China",2045,985,1055,9.6,8.9,10.2
+"Nova Scotia","    Hong Kong",45,30,20,0.2,0.3,0.2
+"Nova Scotia","    India",3665,1915,1755,17.1,17.3,17
+"Nova Scotia","    Iran",220,105,115,1,1,1.1
+"Nova Scotia","    Iraq",95,30,65,0.4,0.3,0.6
+"Nova Scotia","    Israel",180,80,100,0.8,0.7,1
+"Nova Scotia","    Japan",40,0,35,0.2,0,0.3
+"Nova Scotia","    Jordan",170,85,85,0.8,0.8,0.8
+"Nova Scotia","    Korea, South",580,240,340,2.7,2.2,3.3
+"Nova Scotia","    Lebanon",170,95,80,0.8,0.9,0.8
+"Nova Scotia","    Nepal",65,35,30,0.3,0.3,0.3
+"Nova Scotia","    Pakistan",370,220,150,1.7,2,1.5
+"Nova Scotia","    Philippines",2325,1080,1245,10.9,9.8,12
+"Nova Scotia","    Saudi Arabia",225,125,100,1.1,1.1,1
+"Nova Scotia","    Sri Lanka",60,20,35,0.3,0.2,0.3
+"Nova Scotia","    Syria",2140,1125,1015,10,10.2,9.8
+"Nova Scotia","    Turkey",110,55,55,0.5,0.5,0.5
+"Nova Scotia","    United Arab Emirates",110,40,75,0.5,0.4,0.7
+"Nova Scotia","    Viet Nam",205,105,100,1,1,1
+"Nova Scotia","    Other places of birth in Asia",410,190,220,1.9,1.7,2.1
+"Nova Scotia","  Oceania and other",110,85,25,0.5,0.8,0.2
+"Nova Scotia","    Australia",75,55,15,0.4,0.5,0.1
+"Nova Scotia","    Other places of birth",40,30,10,0.2,0.3,0.1
+"New Brunswick","  Americas",9535,4230,5300,21.6,19.7,23.4
+"New Brunswick","    Brazil",240,115,125,0.5,0.5,0.6
+"New Brunswick","    Colombia",250,110,135,0.6,0.5,0.6
+"New Brunswick","    El Salvador",70,30,35,0.2,0.1,0.2
+"New Brunswick","    Guyana",110,40,70,0.2,0.2,0.3
+"New Brunswick","    Haiti",260,110,150,0.6,0.5,0.7
+"New Brunswick","    Jamaica",395,150,245,0.9,0.7,1.1
+"New Brunswick","    Mexico",345,140,205,0.8,0.7,0.9
+"New Brunswick","    Peru",85,30,55,0.2,0.1,0.2
+"New Brunswick","    Trinidad and Tobago",155,80,75,0.4,0.4,0.3
+"New Brunswick","    United States of America",6475,2855,3625,14.7,13.3,16
+"New Brunswick","    Other places of birth in Americas",1150,570,580,2.6,2.7,2.6
+"New Brunswick","  Europe",12295,6060,6230,27.9,28.2,27.5
+"New Brunswick","    Bosnia and Herzegovina",95,45,50,0.2,0.2,0.2
+"New Brunswick","    Croatia",75,45,35,0.2,0.2,0.2
+"New Brunswick","    France",1070,530,540,2.4,2.5,2.4
+"New Brunswick","    Germany",1400,610,790,3.2,2.8,3.5
+"New Brunswick","    Greece",70,40,25,0.2,0.2,0.1
+"New Brunswick","    Hungary",115,55,60,0.3,0.3,0.3
+"New Brunswick","    Italy",305,170,135,0.7,0.8,0.6
+"New Brunswick","    Netherlands",740,410,325,1.7,1.9,1.4
+"New Brunswick","    Poland",215,100,110,0.5,0.5,0.5
+"New Brunswick","    Portugal",140,105,35,0.3,0.5,0.2
+"New Brunswick","    Romania",440,200,235,1,0.9,1
+"New Brunswick","    Russian Federation",465,215,245,1.1,1,1.1
+"New Brunswick","    Serbia",120,70,50,0.3,0.3,0.2
+"New Brunswick","    Ukraine",710,340,370,1.6,1.6,1.6
+"New Brunswick","    United Kingdom",4910,2450,2460,11.1,11.4,10.9
+"New Brunswick","    Other places of birth in Europe",1425,670,750,3.2,3.1,3.3
+"New Brunswick","  Africa",5600,2985,2615,12.7,13.9,11.6
+"New Brunswick","    Algeria",230,120,110,0.5,0.6,0.5
+"New Brunswick","    Congo, Democratic Republic of the",615,275,345,1.4,1.3,1.5
+"New Brunswick","    Egypt",610,355,255,1.4,1.7,1.1
+"New Brunswick","    Eritrea",65,45,25,0.1,0.2,0.1
+"New Brunswick","    Ethiopia",75,30,45,0.2,0.1,0.2
+"New Brunswick","    Morocco",460,265,195,1,1.2,0.9
+"New Brunswick","    Nigeria",975,510,470,2.2,2.4,2.1
+"New Brunswick","    Somalia",70,40,35,0.2,0.2,0.2
+"New Brunswick","    South Africa, Republic of",300,145,160,0.7,0.7,0.7
+"New Brunswick","    Other places of birth in Africa",2190,1205,985,5,5.6,4.4
+"New Brunswick","  Asia",16375,8050,8325,37.1,37.5,36.8
+"New Brunswick","    Afghanistan",30,10,15,0.1,0,0.1
+"New Brunswick","    Iran",520,295,225,1.2,1.4,1
+"New Brunswick","    Iraq",150,85,65,0.3,0.4,0.3
+"New Brunswick","    Lebanon",500,275,230,1.1,1.3,1
+"New Brunswick","    Syria",1890,1015,870,4.3,4.7,3.8
+"New Brunswick","    Turkey",135,85,50,0.3,0.4,0.2
+"New Brunswick","    China",2125,1025,1105,4.8,4.8,4.9
+"New Brunswick","    Hong Kong",155,100,50,0.4,0.5,0.2
+"New Brunswick","    Korea, South",1180,575,605,2.7,2.7,2.7
+"New Brunswick","    Taiwan",50,10,40,0.1,0,0.2
+"New Brunswick","    Philippines",3780,1575,2210,8.6,7.3,9.8
+"New Brunswick","    Viet Nam",710,370,345,1.6,1.7,1.5
+"New Brunswick","    Bangladesh",310,170,140,0.7,0.8,0.6
+"New Brunswick","    India",2265,1250,1020,5.1,5.8,4.5
+"New Brunswick","    Pakistan",520,270,250,1.2,1.3,1.1
+"New Brunswick","    Sri Lanka",145,90,60,0.3,0.4,0.3
+"New Brunswick","    Other places of birth in Asia",1900,855,1050,4.3,4,4.6
+"New Brunswick","  Oceania and other places of birth",325,165,165,0.7,0.8,0.7
+"New Brunswick","Total - Place of birth for the recent immigrant population in private households - 25% sample data",16040,8220,7825,100,100,100
+"New Brunswick","  Americas",1640,790,850,10.2,9.6,10.9
+"New Brunswick","    Brazil",160,80,75,1,1,1
+"New Brunswick","    Colombia",30,25,10,0.2,0.3,0.1
+"New Brunswick","    Haiti",75,35,40,0.5,0.4,0.5
+"New Brunswick","    Jamaica",205,85,120,1.3,1,1.5
+"New Brunswick","    Mexico",200,80,120,1.2,1,1.5
+"New Brunswick","    United States of America",610,320,285,3.8,3.9,3.6
+"New Brunswick","    Venezuela",70,30,35,0.4,0.4,0.4
+"New Brunswick","    Other places of birth in Americas",295,135,155,1.8,1.6,2
+"New Brunswick","  Europe",1955,1015,935,12.2,12.3,11.9
+"New Brunswick","    France",390,195,200,2.4,2.4,2.6
+"New Brunswick","    Germany",65,30,30,0.4,0.4,0.4
+"New Brunswick","    Ireland",10,0,0,0.1,0,0
+"New Brunswick","    Italy",40,25,10,0.2,0.3,0.1
+"New Brunswick","    Russian Federation",190,90,95,1.2,1.1,1.2
+"New Brunswick","    Ukraine",475,250,225,3,3,2.9
+"New Brunswick","    United Kingdom",255,160,95,1.6,1.9,1.2
+"New Brunswick","    Other places of birth in Europe",535,260,270,3.3,3.2,3.5
+"New Brunswick","  Africa",3500,1850,1650,21.8,22.5,21.1
+"New Brunswick","    Algeria",145,60,80,0.9,0.7,1
+"New Brunswick","    Burundi",95,55,35,0.6,0.7,0.4
+"New Brunswick","    Cameroon",130,65,60,0.8,0.8,0.8
+"New Brunswick","    Congo, Democratic Republic of the",365,150,220,2.3,1.8,2.8
+"New Brunswick","    Cote d'Ivoire",85,40,45,0.5,0.5,0.6
+"New Brunswick","    Egypt",440,250,190,2.7,3,2.4
+"New Brunswick","    Eritrea",35,20,10,0.2,0.2,0.1
+"New Brunswick","    Ethiopia",25,15,10,0.2,0.2,0.1
+"New Brunswick","    Morocco",275,155,120,1.7,1.9,1.5
+"New Brunswick","    Nigeria",905,465,440,5.6,5.7,5.6
+"New Brunswick","    Somalia",50,20,25,0.3,0.2,0.3
+"New Brunswick","    South Africa, Republic of",100,40,60,0.6,0.5,0.8
+"New Brunswick","    Sudan",155,90,70,1,1.1,0.9
+"New Brunswick","    Tunisia",110,70,40,0.7,0.9,0.5
+"New Brunswick","    Other places of birth in Africa",595,350,245,3.7,4.3,3.1
+"New Brunswick","  Asia",8880,4545,4335,55.4,55.3,55.4
+"New Brunswick","    Afghanistan",0,0,0,0,0,0
+"New Brunswick","    Bangladesh",195,95,95,1.2,1.2,1.2
+"New Brunswick","    China",970,505,470,6,6.1,6
+"New Brunswick","    Hong Kong",0,0,0,0,0,0
+"New Brunswick","    India",1370,805,560,8.5,9.8,7.2
+"New Brunswick","    Iran",165,90,75,1,1.1,1
+"New Brunswick","    Iraq",55,30,20,0.3,0.4,0.3
+"New Brunswick","    Israel",185,100,85,1.2,1.2,1.1
+"New Brunswick","    Japan",20,0,15,0.1,0,0.2
+"New Brunswick","    Jordan",140,80,60,0.9,1,0.8
+"New Brunswick","    Korea, South",255,135,120,1.6,1.6,1.5
+"New Brunswick","    Lebanon",130,65,60,0.8,0.8,0.8
+"New Brunswick","    Nepal",115,50,65,0.7,0.6,0.8
+"New Brunswick","    Pakistan",225,110,110,1.4,1.3,1.4
+"New Brunswick","    Philippines",2330,1080,1250,14.5,13.1,16
+"New Brunswick","    Saudi Arabia",110,50,60,0.7,0.6,0.8
+"New Brunswick","    Sri Lanka",60,35,25,0.4,0.4,0.3
+"New Brunswick","    Syria",1705,910,795,10.6,11.1,10.2
+"New Brunswick","    Turkey",60,30,30,0.4,0.4,0.4
+"New Brunswick","    United Arab Emirates",245,105,140,1.5,1.3,1.8
+"New Brunswick","    Viet Nam",315,160,155,2,1.9,2
+"New Brunswick","    Other places of birth in Asia",240,100,140,1.5,1.2,1.8
+"New Brunswick","  Oceania and other",65,20,50,0.4,0.2,0.6
+"New Brunswick","    Australia",60,10,50,0.4,0.1,0.6
+"New Brunswick","    Other places of birth",0,0,0,0,0,0
+Quebec,"  Americas",264885,121740,143145,21.9,20.7,23
+Quebec,"    Brazil",9705,4520,5180,0.8,0.8,0.8
+Quebec,"    Colombia",29670,13540,16125,2.5,2.3,2.6
+Quebec,"    El Salvador",11515,5780,5730,1,1,0.9
+Quebec,"    Guyana",2350,1090,1260,0.2,0.2,0.2
+Quebec,"    Haiti",86105,38285,47820,7.1,6.5,7.7
+Quebec,"    Jamaica",4485,1900,2590,0.4,0.3,0.4
+Quebec,"    Mexico",17390,7935,9455,1.4,1.3,1.5
+Quebec,"    Peru",13885,6295,7595,1.1,1.1,1.2
+Quebec,"    Trinidad and Tobago",3820,1660,2160,0.3,0.3,0.3
+Quebec,"    United States of America",24945,12195,12745,2.1,2.1,2.1
+Quebec,"    Other places of birth in Americas",61020,28545,32480,5,4.8,5.2
+Quebec,"  Europe",309015,154110,154910,25.5,26.2,24.9
+Quebec,"    Bosnia and Herzegovina",4015,1995,2025,0.3,0.3,0.3
+Quebec,"    Croatia",2015,1050,960,0.2,0.2,0.2
+Quebec,"    France",93160,49870,43290,7.7,8.5,7
+Quebec,"    Germany",8385,4095,4295,0.7,0.7,0.7
+Quebec,"    Greece",16130,7790,8340,1.3,1.3,1.3
+Quebec,"    Hungary",2930,1455,1475,0.2,0.2,0.2
+Quebec,"    Italy",43975,21940,22040,3.6,3.7,3.5
+Quebec,"    Netherlands",1655,870,785,0.1,0.1,0.1
+Quebec,"    Poland",9670,4120,5555,0.8,0.7,0.9
+Quebec,"    Portugal",17000,8190,8805,1.4,1.4,1.4
+Quebec,"    Romania",27515,12990,14530,2.3,2.2,2.3
+Quebec,"    Russian Federation",11690,4865,6825,1,0.8,1.1
+Quebec,"    Serbia",1610,760,850,0.1,0.1,0.1
+Quebec,"    Ukraine",9660,4310,5350,0.8,0.7,0.9
+Quebec,"    United Kingdom",12290,6575,5715,1,1.1,0.9
+Quebec,"    Other places of birth in Europe",47310,23240,24075,3.9,3.9,3.9
+Quebec,"  Africa",302010,153655,148355,24.9,26.1,23.9
+Quebec,"    Algeria",72835,37535,35295,6,6.4,5.7
+Quebec,"    Congo, Democratic Republic of the",15595,7460,8140,1.3,1.3,1.3
+Quebec,"    Egypt",20325,10520,9805,1.7,1.8,1.6
+Quebec,"    Eritrea",600,305,300,0,0.1,0
+Quebec,"    Ethiopia",1045,485,565,0.1,0.1,0.1
+Quebec,"    Morocco",68865,34810,34060,5.7,5.9,5.5
+Quebec,"    Nigeria",2210,1185,1025,0.2,0.2,0.2
+Quebec,"    Somalia",675,330,350,0.1,0.1,0.1
+Quebec,"    South Africa, Republic of",1025,575,450,0.1,0.1,0.1
+Quebec,"    Other places of birth in Africa",118820,60455,58360,9.8,10.3,9.4
+Quebec,"  Asia",332925,158445,174475,27.5,26.9,28.1
+Quebec,"    Afghanistan",9545,4825,4725,0.8,0.8,0.8
+Quebec,"    Iran",20235,10020,10215,1.7,1.7,1.6
+Quebec,"    Iraq",4085,2110,1980,0.3,0.4,0.3
+Quebec,"    Lebanon",42280,22610,19670,3.5,3.8,3.2
+Quebec,"    Syria",26845,13675,13170,2.2,2.3,2.1
+Quebec,"    Turkey",7450,3850,3605,0.6,0.7,0.6
+Quebec,"    China",52500,23010,29490,4.3,3.9,4.7
+Quebec,"    Hong Kong",4900,2385,2520,0.4,0.4,0.4
+Quebec,"    Korea, South",5180,2275,2905,0.4,0.4,0.5
+Quebec,"    Taiwan",2500,1015,1485,0.2,0.2,0.2
+Quebec,"    Philippines",31350,11835,19515,2.6,2,3.1
+Quebec,"    Viet Nam",25485,11580,13900,2.1,2,2.2
+Quebec,"    Bangladesh",8965,4510,4455,0.7,0.8,0.7
+Quebec,"    India",24990,12770,12225,2.1,2.2,2
+Quebec,"    Pakistan",11250,5970,5285,0.9,1,0.9
+Quebec,"    Sri Lanka",10910,5350,5560,0.9,0.9,0.9
+Quebec,"    Other places of birth in Asia",44455,20665,23790,3.7,3.5,3.8
+Quebec,"  Oceania and other places of birth",1765,1010,750,0.1,0.2,0.1
+Quebec,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",202740,99265,103480,100,100,100
+Quebec,"  Americas",30910,14985,15920,15.2,15.1,15.4
+Quebec,"    Brazil",2575,1170,1410,1.3,1.2,1.4
+Quebec,"    Colombia",4295,1985,2315,2.1,2,2.2
+Quebec,"    Haiti",8600,4210,4395,4.2,4.2,4.2
+Quebec,"    Jamaica",215,130,90,0.1,0.1,0.1
+Quebec,"    Mexico",2520,1240,1280,1.2,1.2,1.2
+Quebec,"    United States of America",4140,2170,1975,2,2.2,1.9
+Quebec,"    Venezuela",1690,670,1020,0.8,0.7,1
+Quebec,"    Other places of birth in Americas",6860,3420,3440,3.4,3.4,3.3
+Quebec,"  Europe",33705,17520,16185,16.6,17.6,15.6
+Quebec,"    France",20980,11325,9655,10.3,11.4,9.3
+Quebec,"    Germany",530,295,240,0.3,0.3,0.2
+Quebec,"    Ireland",100,85,15,0,0.1,0
+Quebec,"    Italy",700,420,285,0.3,0.4,0.3
+Quebec,"    Russian Federation",1365,515,850,0.7,0.5,0.8
+Quebec,"    Ukraine",1660,720,940,0.8,0.7,0.9
+Quebec,"    United Kingdom",975,615,360,0.5,0.6,0.3
+Quebec,"    Other places of birth in Europe",7395,3550,3845,3.6,3.6,3.7
+Quebec,"  Africa",70310,34215,36095,34.7,34.5,34.9
+Quebec,"    Algeria",13975,6730,7245,6.9,6.8,7
+Quebec,"    Burundi",2290,1170,1120,1.1,1.2,1.1
+Quebec,"    Cameroon",8830,4180,4650,4.4,4.2,4.5
+Quebec,"    Congo, Democratic Republic of the",4055,1875,2180,2,1.9,2.1
+Quebec,"    Cote d'Ivoire",6305,3055,3255,3.1,3.1,3.1
+Quebec,"    Egypt",2385,1255,1135,1.2,1.3,1.1
+Quebec,"    Eritrea",300,160,135,0.1,0.2,0.1
+Quebec,"    Ethiopia",155,75,75,0.1,0.1,0.1
+Quebec,"    Morocco",9515,4435,5080,4.7,4.5,4.9
+Quebec,"    Nigeria",995,525,470,0.5,0.5,0.5
+Quebec,"    Somalia",75,40,30,0,0,0
+Quebec,"    South Africa, Republic of",190,100,85,0.1,0.1,0.1
+Quebec,"    Sudan",100,55,45,0,0.1,0
+Quebec,"    Tunisia",6640,3375,3260,3.3,3.4,3.2
+Quebec,"    Other places of birth in Africa",14505,7175,7330,7.2,7.2,7.1
+Quebec,"  Asia",67305,32185,35120,33.2,32.4,33.9
+Quebec,"    Afghanistan",2515,1250,1265,1.2,1.3,1.2
+Quebec,"    Bangladesh",1190,565,625,0.6,0.6,0.6
+Quebec,"    China",10735,4680,6055,5.3,4.7,5.9
+Quebec,"    Hong Kong",150,70,75,0.1,0.1,0.1
+Quebec,"    India",8460,4430,4030,4.2,4.5,3.9
+Quebec,"    Iran",4135,1895,2235,2,1.9,2.2
+Quebec,"    Iraq",715,385,325,0.4,0.4,0.3
+Quebec,"    Israel",395,205,185,0.2,0.2,0.2
+Quebec,"    Japan",325,75,250,0.2,0.1,0.2
+Quebec,"    Jordan",565,285,275,0.3,0.3,0.3
+Quebec,"    Korea, South",1355,585,775,0.7,0.6,0.7
+Quebec,"    Lebanon",3620,1925,1700,1.8,1.9,1.6
+Quebec,"    Nepal",245,140,100,0.1,0.1,0.1
+Quebec,"    Pakistan",2160,1135,1025,1.1,1.1,1
+Quebec,"    Philippines",8480,3560,4920,4.2,3.6,4.8
+Quebec,"    Saudi Arabia",1390,790,600,0.7,0.8,0.6
+Quebec,"    Sri Lanka",710,320,385,0.4,0.3,0.4
+Quebec,"    Syria",13390,6960,6425,6.6,7,6.2
+Quebec,"    Turkey",800,450,355,0.4,0.5,0.3
+Quebec,"    United Arab Emirates",975,510,470,0.5,0.5,0.5
+Quebec,"    Viet Nam",1620,605,1010,0.8,0.6,1
+Quebec,"    Other places of birth in Asia",3390,1355,2035,1.7,1.4,2
+Quebec,"  Oceania and other",510,355,160,0.3,0.4,0.2
+Quebec,"    Australia",295,195,95,0.1,0.2,0.1
+Quebec,"    Other places of birth",220,160,60,0.1,0.2,0.1
+Ontario,"  Americas",629550,280635,348910,15,14.1,15.7
+Ontario,"    Brazil",23125,10700,12420,0.5,0.5,0.6
+Ontario,"    Colombia",32520,14630,17890,0.8,0.7,0.8
+Ontario,"    El Salvador",21780,10575,11200,0.5,0.5,0.5
+Ontario,"    Guyana",77635,34275,43360,1.8,1.7,2
+Ontario,"    Haiti",11375,5000,6380,0.3,0.3,0.3
+Ontario,"    Jamaica",122770,52770,70000,2.9,2.7,3.2
+Ontario,"    Mexico",33380,15340,18040,0.8,0.8,0.8
+Ontario,"    Peru",11455,5025,6435,0.3,0.3,0.3
+Ontario,"    Trinidad and Tobago",52750,23490,29260,1.3,1.2,1.3
+Ontario,"    United States of America",111390,49035,62355,2.6,2.5,2.8
+Ontario,"    Other places of birth in Americas",131370,59810,71560,3.1,3,3.2
+Ontario,"  Europe",1049725,500520,549205,25,25.2,24.7
+Ontario,"    Bosnia and Herzegovina",21150,10365,10780,0.5,0.5,0.5
+Ontario,"    Croatia",24270,11860,12405,0.6,0.6,0.6
+Ontario,"    France",15240,7305,7930,0.4,0.4,0.4
+Ontario,"    Germany",54275,25665,28610,1.3,1.3,1.3
+Ontario,"    Greece",31650,15385,16265,0.8,0.8,0.7
+Ontario,"    Hungary",18530,8555,9975,0.4,0.4,0.4
+Ontario,"    Italy",135640,66885,68750,3.2,3.4,3.1
+Ontario,"    Netherlands",39490,20295,19195,0.9,1,0.9
+Ontario,"    Poland",88785,39620,49160,2.1,2,2.2
+Ontario,"    Portugal",95490,46635,48855,2.3,2.3,2.2
+Ontario,"    Romania",40475,18690,21780,1,0.9,1
+Ontario,"    Russian Federation",44165,19010,25155,1,1,1.1
+Ontario,"    Serbia",22295,10790,11505,0.5,0.5,0.5
+Ontario,"    Ukraine",43070,19255,23820,1,1,1.1
+Ontario,"    United Kingdom",239485,115580,123910,5.7,5.8,5.6
+Ontario,"    Other places of birth in Europe",135725,64620,71100,3.2,3.3,3.2
+Ontario,"  Africa",287920,140080,147840,6.8,7.1,6.7
+Ontario,"    Algeria",4355,2160,2195,0.1,0.1,0.1
+Ontario,"    Congo, Democratic Republic of the",10220,4585,5640,0.2,0.2,0.3
+Ontario,"    Egypt",39345,20480,18865,0.9,1,0.8
+Ontario,"    Eritrea",14200,7255,6950,0.3,0.4,0.3
+Ontario,"    Ethiopia",19415,9050,10365,0.5,0.5,0.5
+Ontario,"    Morocco",8105,3805,4300,0.2,0.2,0.2
+Ontario,"    Nigeria",37420,18840,18580,0.9,0.9,0.8
+Ontario,"    Somalia",20335,8590,11745,0.5,0.4,0.5
+Ontario,"    South Africa, Republic of",21540,10620,10915,0.5,0.5,0.5
+Ontario,"    Other places of birth in Africa",112985,54690,58290,2.7,2.8,2.6
+Ontario,"  Asia",2225590,1056605,1168985,52.9,53.2,52.6
+Ontario,"    Afghanistan",38580,19100,19480,0.9,1,0.9
+Ontario,"    Iran",103795,52260,51535,2.5,2.6,2.3
+Ontario,"    Iraq",63255,31725,31525,1.5,1.6,1.4
+Ontario,"    Lebanon",38170,19650,18515,0.9,1,0.8
+Ontario,"    Syria",45685,22995,22695,1.1,1.2,1
+Ontario,"    Turkey",20795,11105,9690,0.5,0.6,0.4
+Ontario,"    China",355955,159035,196925,8.5,8,8.9
+Ontario,"    Hong Kong",108480,50730,57750,2.6,2.6,2.6
+Ontario,"    Korea, South",62750,28690,34060,1.5,1.4,1.5
+Ontario,"    Taiwan",18105,7825,10275,0.4,0.4,0.5
+Ontario,"    Philippines",268580,109035,159545,6.4,5.5,7.2
+Ontario,"    Viet Nam",86315,39175,47140,2.1,2,2.1
+Ontario,"    Bangladesh",46260,23520,22740,1.1,1.2,1
+Ontario,"    India",495750,249975,245780,11.8,12.6,11.1
+Ontario,"    Pakistan",165530,83050,82475,3.9,4.2,3.7
+Ontario,"    Sri Lanka",112730,54625,58100,2.7,2.8,2.6
+Ontario,"    Other places of birth in Asia",194855,94100,100750,4.6,4.7,4.5
+Ontario,"  Oceania and other places of birth",13810,7140,6670,0.3,0.4,0.3
+Ontario,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",584680,284500,300180,100,100,100
+Ontario,"  Americas",68450,32815,35635,11.7,11.5,11.9
+Ontario,"    Brazil",8725,4095,4625,1.5,1.4,1.5
+Ontario,"    Colombia",4260,1825,2440,0.7,0.6,0.8
+Ontario,"    Haiti",1550,705,845,0.3,0.2,0.3
+Ontario,"    Jamaica",9970,5205,4770,1.7,1.8,1.6
+Ontario,"    Mexico",5810,2740,3065,1,1,1
+Ontario,"    United States of America",17945,8895,9045,3.1,3.1,3
+Ontario,"    Venezuela",3400,1500,1900,0.6,0.5,0.6
+Ontario,"    Other places of birth in Americas",16795,7840,8955,2.9,2.8,3
+Ontario,"  Europe",47295,23945,23345,8.1,8.4,7.8
+Ontario,"    France",3225,1665,1560,0.6,0.6,0.5
+Ontario,"    Germany",1685,885,795,0.3,0.3,0.3
+Ontario,"    Ireland",2225,1465,760,0.4,0.5,0.3
+Ontario,"    Italy",1770,1040,730,0.3,0.4,0.2
+Ontario,"    Russian Federation",5150,2010,3135,0.9,0.7,1
+Ontario,"    Ukraine",6035,2675,3360,1,0.9,1.1
+Ontario,"    United Kingdom",8000,4820,3180,1.4,1.7,1.1
+Ontario,"    Other places of birth in Europe",19200,9375,9830,3.3,3.3,3.3
+Ontario,"  Africa",64910,32295,32615,11.1,11.4,10.9
+Ontario,"    Algeria",1130,545,585,0.2,0.2,0.2
+Ontario,"    Burundi",1790,815,970,0.3,0.3,0.3
+Ontario,"    Cameroon",1585,750,830,0.3,0.3,0.3
+Ontario,"    Congo, Democratic Republic of the",2275,1020,1260,0.4,0.4,0.4
+Ontario,"    Cote d'Ivoire",1085,495,595,0.2,0.2,0.2
+Ontario,"    Egypt",6370,3230,3145,1.1,1.1,1
+Ontario,"    Eritrea",7145,3795,3350,1.2,1.3,1.1
+Ontario,"    Ethiopia",3480,1595,1880,0.6,0.6,0.6
+Ontario,"    Morocco",1890,910,980,0.3,0.3,0.3
+Ontario,"    Nigeria",16570,8335,8230,2.8,2.9,2.7
+Ontario,"    Somalia",3345,1775,1570,0.6,0.6,0.5
+Ontario,"    South Africa, Republic of",2915,1455,1460,0.5,0.5,0.5
+Ontario,"    Sudan",2095,1075,1015,0.4,0.4,0.3
+Ontario,"    Tunisia",820,390,430,0.1,0.1,0.1
+Ontario,"    Other places of birth in Africa",12405,6105,6305,2.1,2.1,2.1
+Ontario,"  Asia",401940,194220,207725,68.7,68.3,69.2
+Ontario,"    Afghanistan",7225,3550,3675,1.2,1.2,1.2
+Ontario,"    Bangladesh",7710,3970,3735,1.3,1.4,1.2
+Ontario,"    China",54645,22895,31750,9.3,8,10.6
+Ontario,"    Hong Kong",2620,1095,1525,0.4,0.4,0.5
+Ontario,"    India",139660,73185,66470,23.9,25.7,22.1
+Ontario,"    Iran",13215,6335,6880,2.3,2.2,2.3
+Ontario,"    Iraq",12940,6415,6525,2.2,2.3,2.2
+Ontario,"    Israel",2270,1175,1100,0.4,0.4,0.4
+Ontario,"    Japan",1460,345,1115,0.2,0.1,0.4
+Ontario,"    Jordan",2610,1340,1270,0.4,0.5,0.4
+Ontario,"    Korea, South",6935,2855,4075,1.2,1,1.4
+Ontario,"    Lebanon",4365,2185,2175,0.7,0.8,0.7
+Ontario,"    Nepal",2445,1240,1200,0.4,0.4,0.4
+Ontario,"    Pakistan",23970,11805,12170,4.1,4.1,4.1
+Ontario,"    Philippines",45235,19170,26070,7.7,6.7,8.7
+Ontario,"    Saudi Arabia",6110,3300,2805,1,1.2,0.9
+Ontario,"    Sri Lanka",5895,2770,3120,1,1,1
+Ontario,"    Syria",30180,15370,14805,5.2,5.4,4.9
+Ontario,"    Turkey",7060,3835,3225,1.2,1.3,1.1
+Ontario,"    United Arab Emirates",5310,2785,2520,0.9,1,0.8
+Ontario,"    Viet Nam",6020,2205,3815,1,0.8,1.3
+Ontario,"    Other places of birth in Asia",14075,6380,7700,2.4,2.2,2.6
+Ontario,"  Oceania and other",2090,1230,855,0.4,0.4,0.3
+Ontario,"    Australia",1620,985,640,0.3,0.3,0.2
+Ontario,"    Other places of birth",470,250,220,0.1,0.1,0.1
+Manitoba,"  Americas",32020,15230,16795,12.4,12.1,12.7
+Manitoba,"    Brazil",1810,905,900,0.7,0.7,0.7
+Manitoba,"    Colombia",1140,565,575,0.4,0.5,0.4
+Manitoba,"    El Salvador",2575,1350,1230,1,1.1,0.9
+Manitoba,"    Guyana",1190,505,685,0.5,0.4,0.5
+Manitoba,"    Haiti",190,95,100,0.1,0.1,0.1
+Manitoba,"    Jamaica",2110,995,1115,0.8,0.8,0.8
+Manitoba,"    Mexico",5845,2825,3025,2.3,2.3,2.3
+Manitoba,"    Peru",250,110,140,0.1,0.1,0.1
+Manitoba,"    Trinidad and Tobago",1630,800,835,0.6,0.6,0.6
+Manitoba,"    United States of America",6705,2875,3830,2.6,2.3,2.9
+Manitoba,"    Other places of birth in Americas",8570,4205,4365,3.3,3.4,3.3
+Manitoba,"  Europe",53125,26140,26980,20.6,20.8,20.4
+Manitoba,"    Bosnia and Herzegovina",940,495,450,0.4,0.4,0.3
+Manitoba,"    Croatia",765,365,400,0.3,0.3,0.3
+Manitoba,"    France",975,535,440,0.4,0.4,0.3
+Manitoba,"    Germany",9360,4805,4560,3.6,3.8,3.4
+Manitoba,"    Greece",770,440,335,0.3,0.4,0.3
+Manitoba,"    Hungary",625,300,330,0.2,0.2,0.2
+Manitoba,"    Italy",2470,1225,1245,1,1,0.9
+Manitoba,"    Netherlands",2055,1055,995,0.8,0.8,0.8
+Manitoba,"    Poland",4395,1995,2405,1.7,1.6,1.8
+Manitoba,"    Portugal",4040,1965,2075,1.6,1.6,1.6
+Manitoba,"    Romania",615,310,305,0.2,0.2,0.2
+Manitoba,"    Russian Federation",4235,1910,2320,1.6,1.5,1.8
+Manitoba,"    Serbia",405,190,220,0.2,0.2,0.2
+Manitoba,"    Ukraine",5370,2580,2785,2.1,2.1,2.1
+Manitoba,"    United Kingdom",10995,5390,5605,4.3,4.3,4.2
+Manitoba,"    Other places of birth in Europe",5105,2585,2520,2,2.1,1.9
+Manitoba,"  Africa",27150,13605,13545,10.5,10.9,10.2
+Manitoba,"    Algeria",345,145,200,0.1,0.1,0.2
+Manitoba,"    Congo, Democratic Republic of the",1425,750,675,0.6,0.6,0.5
+Manitoba,"    Egypt",1315,690,630,0.5,0.6,0.5
+Manitoba,"    Eritrea",2940,1550,1390,1.1,1.2,1.1
+Manitoba,"    Ethiopia",2945,1380,1565,1.1,1.1,1.2
+Manitoba,"    Morocco",480,250,230,0.2,0.2,0.2
+Manitoba,"    Nigeria",8550,4420,4125,3.3,3.5,3.1
+Manitoba,"    Somalia",880,350,530,0.3,0.3,0.4
+Manitoba,"    South Africa, Republic of",1180,615,565,0.5,0.5,0.4
+Manitoba,"    Other places of birth in Africa",7090,3465,3625,2.8,2.8,2.7
+Manitoba,"  Asia",144495,69980,74515,56.1,55.8,56.4
+Manitoba,"    Afghanistan",845,395,450,0.3,0.3,0.3
+Manitoba,"    Iran",1105,630,475,0.4,0.5,0.4
+Manitoba,"    Iraq",1295,650,645,0.5,0.5,0.5
+Manitoba,"    Lebanon",345,190,150,0.1,0.2,0.1
+Manitoba,"    Syria",1905,1020,880,0.7,0.8,0.7
+Manitoba,"    Turkey",255,145,110,0.1,0.1,0.1
+Manitoba,"    China",10250,4760,5490,4,3.8,4.2
+Manitoba,"    Hong Kong",1255,640,620,0.5,0.5,0.5
+Manitoba,"    Korea, South",2955,1440,1515,1.1,1.1,1.1
+Manitoba,"    Taiwan",285,105,180,0.1,0.1,0.1
+Manitoba,"    Philippines",70265,32770,37500,27.3,26.1,28.4
+Manitoba,"    Viet Nam",4575,2120,2455,1.8,1.7,1.9
+Manitoba,"    Bangladesh",1295,655,640,0.5,0.5,0.5
+Manitoba,"    India",32155,16625,15535,12.5,13.3,11.7
+Manitoba,"    Pakistan",4170,2155,2015,1.6,1.7,1.5
+Manitoba,"    Sri Lanka",1125,535,585,0.4,0.4,0.4
+Manitoba,"    Other places of birth in Asia",10410,5145,5265,4,4.1,4
+Manitoba,"  Oceania and other places of birth",830,430,395,0.3,0.3,0.3
+Manitoba,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",58370,28890,29480,100,100,100
+Manitoba,"  Americas",5285,2610,2675,9.1,9,9.1
+Manitoba,"    Brazil",1435,740,695,2.5,2.6,2.4
+Manitoba,"    Colombia",290,145,150,0.5,0.5,0.5
+Manitoba,"    Haiti",50,30,20,0.1,0.1,0.1
+Manitoba,"    Jamaica",435,230,205,0.7,0.8,0.7
+Manitoba,"    Mexico",660,325,335,1.1,1.1,1.1
+Manitoba,"    United States of America",1035,520,515,1.8,1.8,1.7
+Manitoba,"    Venezuela",45,10,30,0.1,0,0.1
+Manitoba,"    Other places of birth in Americas",1340,615,725,2.3,2.1,2.5
+Manitoba,"  Europe",4380,2200,2175,7.5,7.6,7.4
+Manitoba,"    France",160,95,70,0.3,0.3,0.2
+Manitoba,"    Germany",565,275,290,1,1,1
+Manitoba,"    Ireland",155,95,55,0.3,0.3,0.2
+Manitoba,"    Italy",130,70,65,0.2,0.2,0.2
+Manitoba,"    Russian Federation",655,320,335,1.1,1.1,1.1
+Manitoba,"    Ukraine",1305,610,695,2.2,2.1,2.4
+Manitoba,"    United Kingdom",405,235,165,0.7,0.8,0.6
+Manitoba,"    Other places of birth in Europe",1010,510,500,1.7,1.8,1.7
+Manitoba,"  Africa",11065,5545,5525,19,19.2,18.7
+Manitoba,"    Algeria",250,85,160,0.4,0.3,0.5
+Manitoba,"    Burundi",90,60,35,0.2,0.2,0.1
+Manitoba,"    Cameroon",100,50,50,0.2,0.2,0.2
+Manitoba,"    Congo, Democratic Republic of the",445,235,210,0.8,0.8,0.7
+Manitoba,"    Cote d'Ivoire",75,20,50,0.1,0.1,0.2
+Manitoba,"    Egypt",280,140,140,0.5,0.5,0.5
+Manitoba,"    Eritrea",1445,755,685,2.5,2.6,2.3
+Manitoba,"    Ethiopia",680,280,405,1.2,1,1.4
+Manitoba,"    Morocco",220,115,105,0.4,0.4,0.4
+Manitoba,"    Nigeria",5105,2660,2445,8.7,9.2,8.3
+Manitoba,"    Somalia",385,155,230,0.7,0.5,0.8
+Manitoba,"    South Africa, Republic of",270,150,120,0.5,0.5,0.4
+Manitoba,"    Sudan",390,185,200,0.7,0.6,0.7
+Manitoba,"    Tunisia",100,75,30,0.2,0.3,0.1
+Manitoba,"    Other places of birth in Africa",1235,580,655,2.1,2,2.2
+Manitoba,"  Asia",37420,18415,19005,64.1,63.7,64.5
+Manitoba,"    Afghanistan",135,55,75,0.2,0.2,0.3
+Manitoba,"    Bangladesh",580,265,315,1,0.9,1.1
+Manitoba,"    China",3585,1670,1915,6.1,5.8,6.5
+Manitoba,"    Hong Kong",210,100,115,0.4,0.3,0.4
+Manitoba,"    India",13340,6785,6550,22.9,23.5,22.2
+Manitoba,"    Iran",265,150,120,0.5,0.5,0.4
+Manitoba,"    Iraq",655,305,355,1.1,1.1,1.2
+Manitoba,"    Israel",505,250,255,0.9,0.9,0.9
+Manitoba,"    Japan",80,25,60,0.1,0.1,0.2
+Manitoba,"    Jordan",145,60,85,0.2,0.2,0.3
+Manitoba,"    Korea, South",870,440,425,1.5,1.5,1.4
+Manitoba,"    Lebanon",180,105,75,0.3,0.4,0.3
+Manitoba,"    Nepal",100,55,45,0.2,0.2,0.2
+Manitoba,"    Pakistan",1210,640,570,2.1,2.2,1.9
+Manitoba,"    Philippines",11705,5535,6165,20.1,19.2,20.9
+Manitoba,"    Saudi Arabia",130,70,65,0.2,0.2,0.2
+Manitoba,"    Sri Lanka",190,95,100,0.3,0.3,0.3
+Manitoba,"    Syria",1575,855,725,2.7,3,2.5
+Manitoba,"    Turkey",120,65,60,0.2,0.2,0.2
+Manitoba,"    United Arab Emirates",175,95,80,0.3,0.3,0.3
+Manitoba,"    Viet Nam",580,250,335,1,0.9,1.1
+Manitoba,"    Other places of birth in Asia",1075,545,530,1.8,1.9,1.8
+Manitoba,"  Oceania and other",215,120,100,0.4,0.4,0.3
+Manitoba,"    Australia",105,50,50,0.2,0.2,0.2
+Manitoba,"    Other places of birth",115,65,45,0.2,0.2,0.2
+Saskatchewan,"  Americas",12580,5910,6675,9.1,8.7,9.6
+Saskatchewan,"    Brazil",380,150,230,0.3,0.2,0.3
+Saskatchewan,"    Colombia",665,315,350,0.5,0.5,0.5
+Saskatchewan,"    El Salvador",620,280,345,0.5,0.4,0.5
+Saskatchewan,"    Guyana",165,65,95,0.1,0.1,0.1
+Saskatchewan,"    Haiti",60,35,25,0,0.1,0
+Saskatchewan,"    Jamaica",1360,660,700,1,1,1
+Saskatchewan,"    Mexico",1720,870,850,1.2,1.3,1.2
+Saskatchewan,"    Peru",160,45,120,0.1,0.1,0.2
+Saskatchewan,"    Trinidad and Tobago",200,65,135,0.1,0.1,0.2
+Saskatchewan,"    United States of America",5215,2375,2835,3.8,3.5,4.1
+Saskatchewan,"    Other places of birth in Americas",2030,1040,995,1.5,1.5,1.4
+Saskatchewan,"  Europe",21710,10705,11010,15.8,15.8,15.8
+Saskatchewan,"    Bosnia and Herzegovina",500,250,250,0.4,0.4,0.4
+Saskatchewan,"    Croatia",415,245,170,0.3,0.4,0.2
+Saskatchewan,"    France",310,115,190,0.2,0.2,0.3
+Saskatchewan,"    Germany",2100,980,1115,1.5,1.4,1.6
+Saskatchewan,"    Greece",500,290,210,0.4,0.4,0.3
+Saskatchewan,"    Hungary",325,175,145,0.2,0.3,0.2
+Saskatchewan,"    Italy",585,300,280,0.4,0.4,0.4
+Saskatchewan,"    Netherlands",965,560,400,0.7,0.8,0.6
+Saskatchewan,"    Poland",1080,455,625,0.8,0.7,0.9
+Saskatchewan,"    Portugal",200,95,110,0.1,0.1,0.2
+Saskatchewan,"    Romania",660,330,335,0.5,0.5,0.5
+Saskatchewan,"    Russian Federation",650,270,385,0.5,0.4,0.6
+Saskatchewan,"    Serbia",530,250,285,0.4,0.4,0.4
+Saskatchewan,"    Ukraine",3165,1505,1665,2.3,2.2,2.4
+Saskatchewan,"    United Kingdom",6785,3420,3365,4.9,5,4.8
+Saskatchewan,"    Other places of birth in Europe",2940,1455,1490,2.1,2.1,2.1
+Saskatchewan,"  Africa",16080,8440,7640,11.7,12.4,11
+Saskatchewan,"    Algeria",20,15,10,0,0,0
+Saskatchewan,"    Congo, Democratic Republic of the",665,335,330,0.5,0.5,0.5
+Saskatchewan,"    Egypt",805,415,385,0.6,0.6,0.6
+Saskatchewan,"    Eritrea",1025,535,490,0.7,0.8,0.7
+Saskatchewan,"    Ethiopia",775,380,400,0.6,0.6,0.6
+Saskatchewan,"    Morocco",190,110,80,0.1,0.2,0.1
+Saskatchewan,"    Nigeria",5030,2620,2410,3.7,3.9,3.5
+Saskatchewan,"    Somalia",485,240,250,0.4,0.4,0.4
+Saskatchewan,"    South Africa, Republic of",2075,1070,1005,1.5,1.6,1.4
+Saskatchewan,"    Other places of birth in Africa",5010,2720,2290,3.6,4,3.3
+Saskatchewan,"  Asia",86515,42500,44015,62.9,62.6,63.1
+Saskatchewan,"    Afghanistan",465,230,235,0.3,0.3,0.3
+Saskatchewan,"    Iran",1040,570,470,0.8,0.8,0.7
+Saskatchewan,"    Iraq",1440,740,700,1,1.1,1
+Saskatchewan,"    Lebanon",220,155,60,0.2,0.2,0.1
+Saskatchewan,"    Syria",1405,665,740,1,1,1.1
+Saskatchewan,"    Turkey",280,145,135,0.2,0.2,0.2
+Saskatchewan,"    China",8650,4065,4585,6.3,6,6.6
+Saskatchewan,"    Hong Kong",840,415,420,0.6,0.6,0.6
+Saskatchewan,"    Korea, South",1110,560,550,0.8,0.8,0.8
+Saskatchewan,"    Taiwan",175,80,95,0.1,0.1,0.1
+Saskatchewan,"    Philippines",35960,17025,18930,26.1,25.1,27.2
+Saskatchewan,"    Viet Nam",3245,1555,1690,2.4,2.3,2.4
+Saskatchewan,"    Bangladesh",3235,1720,1515,2.4,2.5,2.2
+Saskatchewan,"    India",15660,8165,7495,11.4,12,10.8
+Saskatchewan,"    Pakistan",7110,3630,3480,5.2,5.3,5
+Saskatchewan,"    Sri Lanka",435,220,215,0.3,0.3,0.3
+Saskatchewan,"    Other places of birth in Asia",5245,2555,2695,3.8,3.8,3.9
+Saskatchewan,"  Oceania and other places of birth",725,350,380,0.5,0.5,0.5
+Saskatchewan,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",43115,21470,21650,100,100,100
+Saskatchewan,"  Americas",2830,1420,1410,6.6,6.6,6.5
+Saskatchewan,"    Brazil",170,95,75,0.4,0.4,0.3
+Saskatchewan,"    Colombia",90,40,50,0.2,0.2,0.2
+Saskatchewan,"    Haiti",0,0,0,0,0,0
+Saskatchewan,"    Jamaica",560,295,265,1.3,1.4,1.2
+Saskatchewan,"    Mexico",560,315,250,1.3,1.5,1.2
+Saskatchewan,"    United States of America",990,465,520,2.3,2.2,2.4
+Saskatchewan,"    Venezuela",70,20,45,0.2,0.1,0.2
+Saskatchewan,"    Other places of birth in Americas",385,190,195,0.9,0.9,0.9
+Saskatchewan,"  Europe",2695,1435,1260,6.3,6.7,5.8
+Saskatchewan,"    France",65,30,30,0.2,0.1,0.1
+Saskatchewan,"    Germany",100,40,60,0.2,0.2,0.3
+Saskatchewan,"    Ireland",180,110,70,0.4,0.5,0.3
+Saskatchewan,"    Italy",50,30,15,0.1,0.1,0.1
+Saskatchewan,"    Russian Federation",100,35,65,0.2,0.2,0.3
+Saskatchewan,"    Ukraine",755,340,415,1.8,1.6,1.9
+Saskatchewan,"    United Kingdom",590,385,200,1.4,1.8,0.9
+Saskatchewan,"    Other places of birth in Europe",855,465,395,2,2.2,1.8
+Saskatchewan,"  Africa",7520,3960,3560,17.4,18.4,16.4
+Saskatchewan,"    Algeria",0,0,0,0,0,0
+Saskatchewan,"    Burundi",90,50,35,0.2,0.2,0.2
+Saskatchewan,"    Cameroon",50,20,35,0.1,0.1,0.2
+Saskatchewan,"    Congo, Democratic Republic of the",290,150,140,0.7,0.7,0.6
+Saskatchewan,"    Cote d'Ivoire",25,20,10,0.1,0.1,0
+Saskatchewan,"    Egypt",390,195,195,0.9,0.9,0.9
+Saskatchewan,"    Eritrea",595,310,285,1.4,1.4,1.3
+Saskatchewan,"    Ethiopia",315,175,140,0.7,0.8,0.6
+Saskatchewan,"    Morocco",85,45,40,0.2,0.2,0.2
+Saskatchewan,"    Nigeria",3305,1765,1545,7.7,8.2,7.1
+Saskatchewan,"    Somalia",130,60,70,0.3,0.3,0.3
+Saskatchewan,"    South Africa, Republic of",775,390,385,1.8,1.8,1.8
+Saskatchewan,"    Sudan",300,155,140,0.7,0.7,0.6
+Saskatchewan,"    Tunisia",60,40,20,0.1,0.2,0.1
+Saskatchewan,"    Other places of birth in Africa",1110,585,525,2.6,2.7,2.4
+Saskatchewan,"  Asia",29880,14550,15325,69.3,67.8,70.8
+Saskatchewan,"    Afghanistan",140,50,85,0.3,0.2,0.4
+Saskatchewan,"    Bangladesh",1220,615,610,2.8,2.9,2.8
+Saskatchewan,"    China",3690,1775,1910,8.6,8.3,8.8
+Saskatchewan,"    Hong Kong",140,75,65,0.3,0.3,0.3
+Saskatchewan,"    India",7940,4055,3885,18.4,18.9,17.9
+Saskatchewan,"    Iran",335,180,155,0.8,0.8,0.7
+Saskatchewan,"    Iraq",305,155,150,0.7,0.7,0.7
+Saskatchewan,"    Israel",50,20,25,0.1,0.1,0.1
+Saskatchewan,"    Japan",40,15,30,0.1,0.1,0.1
+Saskatchewan,"    Jordan",105,50,55,0.2,0.2,0.3
+Saskatchewan,"    Korea, South",275,135,140,0.6,0.6,0.6
+Saskatchewan,"    Lebanon",75,60,20,0.2,0.3,0.1
+Saskatchewan,"    Nepal",130,75,50,0.3,0.3,0.2
+Saskatchewan,"    Pakistan",1685,820,860,3.9,3.8,4
+Saskatchewan,"    Philippines",10460,4875,5585,24.3,22.7,25.8
+Saskatchewan,"    Saudi Arabia",285,125,160,0.7,0.6,0.7
+Saskatchewan,"    Sri Lanka",65,35,35,0.2,0.2,0.2
+Saskatchewan,"    Syria",1245,600,645,2.9,2.8,3
+Saskatchewan,"    Turkey",75,30,40,0.2,0.1,0.2
+Saskatchewan,"    United Arab Emirates",195,90,105,0.5,0.4,0.5
+Saskatchewan,"    Viet Nam",865,440,420,2,2,1.9
+Saskatchewan,"    Other places of birth in Asia",550,260,290,1.3,1.2,1.3
+Saskatchewan,"  Oceania and other",195,100,95,0.5,0.5,0.4
+Saskatchewan,"    Australia",95,40,50,0.2,0.2,0.2
+Saskatchewan,"    Other places of birth",100,55,40,0.2,0.3,0.2
+Alberta,"  Americas",110855,51790,59065,11.4,11.1,11.7
+Alberta,"    Brazil",3800,1590,2210,0.4,0.3,0.4
+Alberta,"    Colombia",10385,4855,5535,1.1,1,1.1
+Alberta,"    El Salvador",6940,3340,3600,0.7,0.7,0.7
+Alberta,"    Guyana",2375,1175,1205,0.2,0.3,0.2
+Alberta,"    Haiti",1370,745,625,0.1,0.2,0.1
+Alberta,"    Jamaica",8695,4160,4530,0.9,0.9,0.9
+Alberta,"    Mexico",17990,8935,9055,1.9,1.9,1.8
+Alberta,"    Peru",1905,825,1075,0.2,0.2,0.2
+Alberta,"    Trinidad and Tobago",3360,1560,1800,0.3,0.3,0.4
+Alberta,"    United States of America",30540,13490,17050,3.1,2.9,3.4
+Alberta,"    Other places of birth in Americas",23500,11110,12395,2.4,2.4,2.5
+Alberta,"  Europe",180590,90195,90395,18.6,19.3,18
+Alberta,"    Bosnia and Herzegovina",4335,2155,2185,0.4,0.5,0.4
+Alberta,"    Croatia",3405,1710,1700,0.4,0.4,0.3
+Alberta,"    France",2720,1330,1390,0.3,0.3,0.3
+Alberta,"    Germany",16635,8000,8635,1.7,1.7,1.7
+Alberta,"    Greece",1895,1035,855,0.2,0.2,0.2
+Alberta,"    Hungary",3080,1505,1580,0.3,0.3,0.3
+Alberta,"    Italy",6990,3605,3380,0.7,0.8,0.7
+Alberta,"    Netherlands",12730,6680,6050,1.3,1.4,1.2
+Alberta,"    Poland",15595,7280,8315,1.6,1.6,1.7
+Alberta,"    Portugal",3730,1895,1835,0.4,0.4,0.4
+Alberta,"    Romania",7190,3585,3605,0.7,0.8,0.7
+Alberta,"    Russian Federation",7470,3205,4260,0.8,0.7,0.8
+Alberta,"    Serbia",2220,1075,1145,0.2,0.2,0.2
+Alberta,"    Ukraine",8915,4050,4870,0.9,0.9,1
+Alberta,"    United Kingdom",56675,29555,27125,5.8,6.3,5.4
+Alberta,"    Other places of birth in Europe",26990,13535,13460,2.8,2.9,2.7
+Alberta,"  Africa",119295,60715,58580,12.3,13,11.7
+Alberta,"    Algeria",1220,665,560,0.1,0.1,0.1
+Alberta,"    Congo, Democratic Republic of the",3215,1640,1575,0.3,0.4,0.3
+Alberta,"    Egypt",6760,3660,3095,0.7,0.8,0.6
+Alberta,"    Eritrea",9720,5230,4495,1,1.1,0.9
+Alberta,"    Ethiopia",14420,7085,7340,1.5,1.5,1.5
+Alberta,"    Morocco",2130,1100,1035,0.2,0.2,0.2
+Alberta,"    Nigeria",21065,10925,10145,2.2,2.3,2
+Alberta,"    Somalia",8545,4260,4285,0.9,0.9,0.9
+Alberta,"    South Africa, Republic of",8960,4430,4535,0.9,0.9,0.9
+Alberta,"    Other places of birth in Africa",43250,21720,21530,4.5,4.6,4.3
+Alberta,"  Asia",549965,260520,289440,56.6,55.6,57.6
+Alberta,"    Afghanistan",6585,3235,3350,0.7,0.7,0.7
+Alberta,"    Iran",8865,4625,4245,0.9,1,0.8
+Alberta,"    Iraq",6220,3225,2990,0.6,0.7,0.6
+Alberta,"    Lebanon",9960,5375,4585,1,1.1,0.9
+Alberta,"    Syria",9975,5310,4665,1,1.1,0.9
+Alberta,"    Turkey",2830,1575,1260,0.3,0.3,0.3
+Alberta,"    China",61390,27935,33455,6.3,6,6.7
+Alberta,"    Hong Kong",18725,9090,9630,1.9,1.9,1.9
+Alberta,"    Korea, South",16180,7545,8635,1.7,1.6,1.7
+Alberta,"    Taiwan",3395,1415,1980,0.3,0.3,0.4
+Alberta,"    Philippines",167735,74205,93530,17.3,15.8,18.6
+Alberta,"    Viet Nam",27880,12700,15180,2.9,2.7,3
+Alberta,"    Bangladesh",6035,3080,2960,0.6,0.7,0.6
+Alberta,"    India",122150,61405,60740,12.6,13.1,12.1
+Alberta,"    Pakistan",30810,15690,15120,3.2,3.4,3
+Alberta,"    Sri Lanka",4930,2490,2445,0.5,0.5,0.5
+Alberta,"    Other places of birth in Asia",46305,21615,24690,4.8,4.6,4.9
+Alberta,"  Oceania and other places of birth",10275,5030,5240,1.1,1.1,1
+Alberta,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",193170,91815,101360,100,100,100
+Alberta,"  Americas",19300,8985,10320,10,9.8,10.2
+Alberta,"    Brazil",1365,555,810,0.7,0.6,0.8
+Alberta,"    Colombia",1310,535,775,0.7,0.6,0.8
+Alberta,"    Haiti",220,135,85,0.1,0.1,0.1
+Alberta,"    Jamaica",2130,985,1145,1.1,1.1,1.1
+Alberta,"    Mexico",4165,2140,2025,2.2,2.3,2
+Alberta,"    United States of America",5175,2460,2715,2.7,2.7,2.7
+Alberta,"    Venezuela",1220,525,695,0.6,0.6,0.7
+Alberta,"    Other places of birth in Americas",3715,1645,2070,1.9,1.8,2
+Alberta,"  Europe",15750,7955,7795,8.2,8.7,7.7
+Alberta,"    France",405,200,200,0.2,0.2,0.2
+Alberta,"    Germany",750,310,445,0.4,0.3,0.4
+Alberta,"    Ireland",1060,640,425,0.5,0.7,0.4
+Alberta,"    Italy",470,285,180,0.2,0.3,0.2
+Alberta,"    Russian Federation",1090,395,695,0.6,0.4,0.7
+Alberta,"    Ukraine",2045,920,1125,1.1,1,1.1
+Alberta,"    United Kingdom",3800,2170,1630,2,2.4,1.6
+Alberta,"    Other places of birth in Europe",6135,3045,3090,3.2,3.3,3
+Alberta,"  Africa",34320,16870,17450,17.8,18.4,17.2
+Alberta,"    Algeria",155,50,105,0.1,0.1,0.1
+Alberta,"    Burundi",450,220,230,0.2,0.2,0.2
+Alberta,"    Cameroon",905,385,520,0.5,0.4,0.5
+Alberta,"    Congo, Democratic Republic of the",920,450,465,0.5,0.5,0.5
+Alberta,"    Cote d'Ivoire",265,125,140,0.1,0.1,0.1
+Alberta,"    Egypt",1190,595,595,0.6,0.6,0.6
+Alberta,"    Eritrea",5120,2665,2450,2.7,2.9,2.4
+Alberta,"    Ethiopia",3960,1865,2100,2.1,2,2.1
+Alberta,"    Morocco",510,215,290,0.3,0.2,0.3
+Alberta,"    Nigeria",9840,4950,4890,5.1,5.4,4.8
+Alberta,"    Somalia",1960,970,985,1,1.1,1
+Alberta,"    South Africa, Republic of",1950,1025,930,1,1.1,0.9
+Alberta,"    Sudan",1135,530,605,0.6,0.6,0.6
+Alberta,"    Tunisia",250,150,105,0.1,0.2,0.1
+Alberta,"    Other places of birth in Africa",5725,2680,3040,3,2.9,3
+Alberta,"  Asia",122360,57210,65145,63.3,62.3,64.3
+Alberta,"    Afghanistan",1350,655,700,0.7,0.7,0.7
+Alberta,"    Bangladesh",1135,540,590,0.6,0.6,0.6
+Alberta,"    China",9495,4095,5400,4.9,4.5,5.3
+Alberta,"    Hong Kong",730,330,395,0.4,0.4,0.4
+Alberta,"    India",31815,16070,15745,16.5,17.5,15.5
+Alberta,"    Iran",1420,665,750,0.7,0.7,0.7
+Alberta,"    Iraq",1305,625,680,0.7,0.7,0.7
+Alberta,"    Israel",660,365,295,0.3,0.4,0.3
+Alberta,"    Japan",335,50,285,0.2,0.1,0.3
+Alberta,"    Jordan",455,235,220,0.2,0.3,0.2
+Alberta,"    Korea, South",3425,1440,1990,1.8,1.6,2
+Alberta,"    Lebanon",955,455,500,0.5,0.5,0.5
+Alberta,"    Nepal",1365,670,695,0.7,0.7,0.7
+Alberta,"    Pakistan",4085,1950,2130,2.1,2.1,2.1
+Alberta,"    Philippines",47605,21395,26215,24.6,23.3,25.9
+Alberta,"    Saudi Arabia",690,360,325,0.4,0.4,0.3
+Alberta,"    Sri Lanka",740,370,365,0.4,0.4,0.4
+Alberta,"    Syria",7295,3900,3400,3.8,4.2,3.4
+Alberta,"    Turkey",845,405,440,0.4,0.4,0.4
+Alberta,"    United Arab Emirates",690,375,315,0.4,0.4,0.3
+Alberta,"    Viet Nam",1760,580,1180,0.9,0.6,1.2
+Alberta,"    Other places of birth in Asia",4205,1670,2540,2.2,1.8,2.5
+Alberta,"  Oceania and other",1445,785,655,0.7,0.9,0.6
+Alberta,"    Australia",940,510,430,0.5,0.6,0.4
+Alberta,"    Other places of birth",500,280,220,0.3,0.3,0.2
+"British Columbia","  Americas",126075,58445,67635,8.8,8.8,8.9
+"British Columbia","    Brazil",8765,4120,4645,0.6,0.6,0.6
+"British Columbia","    Colombia",5450,2440,3010,0.4,0.4,0.4
+"British Columbia","    El Salvador",5770,2990,2780,0.4,0.4,0.4
+"British Columbia","    Guyana",1400,585,815,0.1,0.1,0.1
+"British Columbia","    Haiti",490,285,210,0,0,0
+"British Columbia","    Jamaica",4295,2190,2105,0.3,0.3,0.3
+"British Columbia","    Mexico",13385,5910,7480,0.9,0.9,1
+"British Columbia","    Peru",3510,1535,1975,0.2,0.2,0.3
+"British Columbia","    Trinidad and Tobago",2725,1255,1470,0.2,0.2,0.2
+"British Columbia","    United States of America",59920,27535,32380,4.2,4.1,4.3
+"British Columbia","    Other places of birth in Americas",20355,9600,10760,1.4,1.4,1.4
+"British Columbia","  Europe",307495,151050,156445,21.6,22.7,20.6
+"British Columbia","    Bosnia and Herzegovina",4510,2205,2305,0.3,0.3,0.3
+"British Columbia","    Croatia",5390,2670,2725,0.4,0.4,0.4
+"British Columbia","    France",7025,3650,3380,0.5,0.5,0.4
+"British Columbia","    Germany",30910,14710,16200,2.2,2.2,2.1
+"British Columbia","    Greece",3350,1895,1460,0.2,0.3,0.2
+"British Columbia","    Hungary",5115,2395,2720,0.4,0.4,0.4
+"British Columbia","    Italy",13410,6920,6490,0.9,1,0.9
+"British Columbia","    Netherlands",16070,7985,8085,1.1,1.2,1.1
+"British Columbia","    Poland",14305,6610,7700,1,1,1
+"British Columbia","    Portugal",7785,3765,4020,0.5,0.6,0.5
+"British Columbia","    Romania",9370,4490,4885,0.7,0.7,0.6
+"British Columbia","    Russian Federation",12170,5240,6930,0.9,0.8,0.9
+"British Columbia","    Serbia",4565,2275,2285,0.3,0.3,0.3
+"British Columbia","    Ukraine",9450,4390,5060,0.7,0.7,0.7
+"British Columbia","    United Kingdom",116525,58485,58045,8.2,8.8,7.6
+"British Columbia","    Other places of birth in Europe",47545,23380,24170,3.3,3.5,3.2
+"British Columbia","  Africa",53330,27245,26085,3.7,4.1,3.4
+"British Columbia","    Algeria",510,325,185,0,0,0
+"British Columbia","    Congo, Democratic Republic of the",1005,540,465,0.1,0.1,0.1
+"British Columbia","    Egypt",3310,1900,1410,0.2,0.3,0.2
+"British Columbia","    Eritrea",2485,1440,1050,0.2,0.2,0.1
+"British Columbia","    Ethiopia",2590,1305,1285,0.2,0.2,0.2
+"British Columbia","    Morocco",1270,610,655,0.1,0.1,0.1
+"British Columbia","    Nigeria",3585,1880,1700,0.3,0.3,0.2
+"British Columbia","    Somalia",1240,625,620,0.1,0.1,0.1
+"British Columbia","    South Africa, Republic of",15380,7710,7670,1.1,1.2,1
+"British Columbia","    Other places of birth in Africa",21955,10905,11050,1.5,1.6,1.5
+"British Columbia","  Asia",905585,412460,493125,63.5,62,64.9
+"British Columbia","    Afghanistan",6245,3065,3185,0.4,0.5,0.4
+"British Columbia","    Iran",45970,23175,22795,3.2,3.5,3
+"British Columbia","    Iraq",7000,3750,3245,0.5,0.6,0.4
+"British Columbia","    Lebanon",2455,1390,1065,0.2,0.2,0.1
+"British Columbia","    Syria",6545,3420,3130,0.5,0.5,0.4
+"British Columbia","    Turkey",3095,1690,1410,0.2,0.3,0.2
+"British Columbia","    China",217970,94905,123065,15.3,14.3,16.2
+"British Columbia","    Hong Kong",78855,36815,42035,5.5,5.5,5.5
+"British Columbia","    Korea, South",47520,21345,26180,3.3,3.2,3.4
+"British Columbia","    Taiwan",40445,18100,22340,2.8,2.7,2.9
+"British Columbia","    Philippines",131645,54350,77300,9.2,8.2,10.2
+"British Columbia","    Viet Nam",32390,14475,17915,2.3,2.2,2.4
+"British Columbia","    Bangladesh",3035,1520,1520,0.2,0.2,0.2
+"British Columbia","    India",197115,96630,100480,13.8,14.5,13.2
+"British Columbia","    Pakistan",13345,6910,6430,0.9,1,0.8
+"British Columbia","    Sri Lanka",5375,2595,2775,0.4,0.4,0.4
+"British Columbia","    Other places of birth in Asia",66580,28320,38260,4.7,4.3,5
+"British Columbia","  Oceania and other places of birth",33225,16430,16800,2.3,2.5,2.2
+"British Columbia","Total - Place of birth for the recent immigrant population in private households - 25% sample data",197420,94095,103330,100,100,100
+"British Columbia","  Americas",22835,10990,11850,11.6,11.7,11.5
+"British Columbia","    Brazil",5130,2430,2695,2.6,2.6,2.6
+"British Columbia","    Colombia",1075,495,580,0.5,0.5,0.6
+"British Columbia","    Haiti",35,25,15,0,0,0
+"British Columbia","    Jamaica",1005,515,490,0.5,0.5,0.5
+"British Columbia","    Mexico",3045,1450,1595,1.5,1.5,1.5
+"British Columbia","    United States of America",8760,4325,4430,4.4,4.6,4.3
+"British Columbia","    Venezuela",530,205,330,0.3,0.2,0.3
+"British Columbia","    Other places of birth in Americas",3265,1545,1720,1.7,1.6,1.7
+"British Columbia","  Europe",25290,13375,11920,12.8,14.2,11.5
+"British Columbia","    France",1730,935,795,0.9,1,0.8
+"British Columbia","    Germany",1380,680,705,0.7,0.7,0.7
+"British Columbia","    Ireland",2420,1485,935,1.2,1.6,0.9
+"British Columbia","    Italy",995,555,445,0.5,0.6,0.4
+"British Columbia","    Russian Federation",2075,835,1235,1.1,0.9,1.2
+"British Columbia","    Ukraine",1935,885,1045,1,0.9,1
+"British Columbia","    United Kingdom",7675,4510,3165,3.9,4.8,3.1
+"British Columbia","    Other places of birth in Europe",7090,3490,3605,3.6,3.7,3.5
+"British Columbia","  Africa",10465,5545,4915,5.3,5.9,4.8
+"British Columbia","    Algeria",65,40,20,0,0,0
+"British Columbia","    Burundi",110,35,75,0.1,0,0.1
+"British Columbia","    Cameroon",120,70,50,0.1,0.1,0
+"British Columbia","    Congo, Democratic Republic of the",340,205,140,0.2,0.2,0.1
+"British Columbia","    Cote d'Ivoire",40,25,10,0,0,0
+"British Columbia","    Egypt",610,350,255,0.3,0.4,0.2
+"British Columbia","    Eritrea",1515,935,585,0.8,1,0.6
+"British Columbia","    Ethiopia",620,340,275,0.3,0.4,0.3
+"British Columbia","    Morocco",275,115,160,0.1,0.1,0.2
+"British Columbia","    Nigeria",1770,925,845,0.9,1,0.8
+"British Columbia","    Somalia",255,130,125,0.1,0.1,0.1
+"British Columbia","    South Africa, Republic of",1965,945,1015,1,1,1
+"British Columbia","    Sudan",235,115,120,0.1,0.1,0.1
+"British Columbia","    Tunisia",115,60,55,0.1,0.1,0.1
+"British Columbia","    Other places of birth in Africa",2420,1245,1180,1.2,1.3,1.1
+"British Columbia","  Asia",134395,61590,72805,68.1,65.5,70.5
+"British Columbia","    Afghanistan",1325,700,625,0.7,0.7,0.6
+"British Columbia","    Bangladesh",655,340,315,0.3,0.4,0.3
+"British Columbia","    China",31450,13060,18390,15.9,13.9,17.8
+"British Columbia","    Hong Kong",2515,1125,1390,1.3,1.2,1.3
+"British Columbia","    India",39390,20140,19245,20,21.4,18.6
+"British Columbia","    Iran",5850,2865,2980,3,3,2.9
+"British Columbia","    Iraq",1545,840,705,0.8,0.9,0.7
+"British Columbia","    Israel",605,365,240,0.3,0.4,0.2
+"British Columbia","    Japan",2090,500,1590,1.1,0.5,1.5
+"British Columbia","    Jordan",395,200,195,0.2,0.2,0.2
+"British Columbia","    Korea, South",7220,2935,4280,3.7,3.1,4.1
+"British Columbia","    Lebanon",395,175,215,0.2,0.2,0.2
+"British Columbia","    Nepal",405,195,205,0.2,0.2,0.2
+"British Columbia","    Pakistan",2390,1300,1090,1.2,1.4,1.1
+"British Columbia","    Philippines",21220,9170,12055,10.7,9.7,11.7
+"British Columbia","    Saudi Arabia",565,340,230,0.3,0.4,0.2
+"British Columbia","    Sri Lanka",710,330,380,0.4,0.4,0.4
+"British Columbia","    Syria",4955,2635,2320,2.5,2.8,2.2
+"British Columbia","    Turkey",1025,615,410,0.5,0.7,0.4
+"British Columbia","    United Arab Emirates",620,305,320,0.3,0.3,0.3
+"British Columbia","    Viet Nam",2845,995,1850,1.4,1.1,1.8
+"British Columbia","    Other places of birth in Asia",6215,2450,3770,3.1,2.6,3.6
+"British Columbia","  Oceania and other",4440,2600,1840,2.2,2.8,1.8
+"British Columbia","    Australia",3280,1965,1315,1.7,2.1,1.3
+"British Columbia","    Other places of birth",1160,630,530,0.6,0.7,0.5
+Yukon,"  Americas",775,370,405,14.4,14.5,14.3
+Yukon,"    Brazil",10,0,0,0.2,0,0
+Yukon,"    Colombia",15,0,15,0.3,0,0.5
+Yukon,"    El Salvador",0,0,0,0,0,0
+Yukon,"    Guyana",0,0,0,0,0,0
+Yukon,"    Haiti",0,0,0,0,0,0
+Yukon,"    Jamaica",40,15,25,0.7,0.6,0.9
+Yukon,"    Mexico",65,35,30,1.2,1.4,1.1
+Yukon,"    Peru",0,0,0,0,0,0
+Yukon,"    Trinidad and Tobago",10,0,0,0.2,0,0
+Yukon,"    United States of America",530,275,255,9.8,10.8,9
+Yukon,"    Other places of birth in Americas",100,40,60,1.9,1.6,2.1
+Yukon,"  Europe",1890,955,935,35.1,37.5,33
+Yukon,"    Bosnia and Herzegovina",0,0,0,0,0,0
+Yukon,"    Croatia",20,15,0,0.4,0.6,0
+Yukon,"    France",175,90,85,3.2,3.5,3
+Yukon,"    Germany",475,225,245,8.8,8.8,8.6
+Yukon,"    Greece",10,10,0,0.2,0.4,0
+Yukon,"    Hungary",25,15,10,0.5,0.6,0.4
+Yukon,"    Italy",10,10,0,0.2,0.4,0
+Yukon,"    Netherlands",100,55,45,1.9,2.2,1.6
+Yukon,"    Poland",35,20,15,0.6,0.8,0.5
+Yukon,"    Portugal",10,10,0,0.2,0.4,0
+Yukon,"    Romania",30,10,20,0.6,0.4,0.7
+Yukon,"    Russian Federation",40,20,15,0.7,0.8,0.5
+Yukon,"    Serbia",0,0,0,0,0,0
+Yukon,"    Ukraine",20,10,10,0.4,0.4,0.4
+Yukon,"    United Kingdom",525,225,295,9.7,8.8,10.4
+Yukon,"    Other places of birth in Europe",430,235,190,8,9.2,6.7
+Yukon,"  Africa",200,105,95,3.7,4.1,3.4
+Yukon,"    Algeria",0,10,0,0,0.4,0
+Yukon,"    Congo, Democratic Republic of the",0,0,0,0,0,0
+Yukon,"    Egypt",10,0,0,0.2,0,0
+Yukon,"    Eritrea",10,0,0,0.2,0,0
+Yukon,"    Ethiopia",15,0,10,0.3,0,0.4
+Yukon,"    Morocco",10,10,0,0.2,0.4,0
+Yukon,"    Nigeria",30,20,0,0.6,0.8,0
+Yukon,"    Somalia",15,10,10,0.3,0.4,0.4
+Yukon,"    South Africa, Republic of",15,0,15,0.3,0,0.5
+Yukon,"    Other places of birth in Africa",100,55,50,1.9,2.2,1.8
+Yukon,"  Asia",2380,1050,1330,44.2,41.3,46.9
+Yukon,"    Afghanistan",0,0,0,0,0,0
+Yukon,"    Iran",10,0,0,0.2,0,0
+Yukon,"    Iraq",0,0,0,0,0,0
+Yukon,"    Lebanon",0,0,0,0,0,0
+Yukon,"    Syria",0,0,0,0,0,0
+Yukon,"    Turkey",15,10,0,0.3,0.4,0
+Yukon,"    China",230,85,150,4.3,3.3,5.3
+Yukon,"    Hong Kong",30,0,20,0.6,0,0.7
+Yukon,"    Korea, South",65,15,55,1.2,0.6,1.9
+Yukon,"    Taiwan",15,10,10,0.3,0.4,0.4
+Yukon,"    Philippines",1405,610,795,26.1,24,28
+Yukon,"    Viet Nam",40,0,35,0.7,0,1.2
+Yukon,"    Bangladesh",0,0,0,0,0,0
+Yukon,"    India",360,205,155,6.7,8.1,5.5
+Yukon,"    Pakistan",55,40,20,1,1.6,0.7
+Yukon,"    Sri Lanka",15,10,10,0.3,0.4,0.4
+Yukon,"    Other places of birth in Asia",125,50,75,2.3,2,2.6
+Yukon,"  Oceania and other places of birth",140,65,75,2.6,2.6,2.6
+Yukon,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",1125,570,555,100,100,100
+Yukon,"  Americas",140,70,70,12.4,12.3,12.6
+Yukon,"    Brazil",0,0,0,0,0,0
+Yukon,"    Colombia",0,0,0,0,0,0
+Yukon,"    Haiti",0,0,0,0,0,0
+Yukon,"    Jamaica",15,0,10,1.3,0,1.8
+Yukon,"    Mexico",40,20,20,3.6,3.5,3.6
+Yukon,"    United States of America",40,20,25,3.6,3.5,4.5
+Yukon,"    Venezuela",0,0,0,0,0,0
+Yukon,"    Other places of birth in Americas",35,15,15,3.1,2.6,2.7
+Yukon,"  Europe",260,140,115,23.1,24.6,20.7
+Yukon,"    France",40,30,15,3.6,5.3,2.7
+Yukon,"    Germany",75,30,45,6.7,5.3,8.1
+Yukon,"    Ireland",0,10,0,0,1.8,0
+Yukon,"    Italy",0,0,0,0,0,0
+Yukon,"    Russian Federation",0,0,0,0,0,0
+Yukon,"    Ukraine",0,0,0,0,0,0
+Yukon,"    United Kingdom",55,25,25,4.9,4.4,4.5
+Yukon,"    Other places of birth in Europe",80,50,30,7.1,8.8,5.4
+Yukon,"  Africa",60,40,20,5.3,7,3.6
+Yukon,"    Algeria",0,0,0,0,0,0
+Yukon,"    Burundi",0,0,0,0,0,0
+Yukon,"    Cameroon",0,0,0,0,0,0
+Yukon,"    Congo, Democratic Republic of the",0,0,0,0,0,0
+Yukon,"    Cote d'Ivoire",0,0,0,0,0,0
+Yukon,"    Egypt",0,0,0,0,0,0
+Yukon,"    Eritrea",0,0,0,0,0,0
+Yukon,"    Ethiopia",0,0,0,0,0,0
+Yukon,"    Morocco",0,0,0,0,0,0
+Yukon,"    Nigeria",15,15,0,1.3,2.6,0
+Yukon,"    Somalia",0,0,0,0,0,0
+Yukon,"    South Africa, Republic of",0,0,0,0,0,0
+Yukon,"    Sudan",0,0,0,0,0,0
+Yukon,"    Tunisia",0,0,0,0,0,0
+Yukon,"    Other places of birth in Africa",20,10,0,1.8,1.8,0
+Yukon,"  Asia",630,300,325,56,52.6,58.6
+Yukon,"    Afghanistan",0,0,0,0,0,0
+Yukon,"    Bangladesh",0,0,0,0,0,0
+Yukon,"    China",30,10,20,2.7,1.8,3.6
+Yukon,"    Hong Kong",0,0,0,0,0,0
+Yukon,"    India",260,155,100,23.1,27.2,18
+Yukon,"    Iran",0,0,0,0,0,0
+Yukon,"    Iraq",0,0,0,0,0,0
+Yukon,"    Israel",0,0,0,0,0,0
+Yukon,"    Japan",40,15,20,3.6,2.6,3.6
+Yukon,"    Jordan",0,0,0,0,0,0
+Yukon,"    Korea, South",25,10,20,2.2,1.8,3.6
+Yukon,"    Lebanon",0,0,0,0,0,0
+Yukon,"    Nepal",0,0,0,0,0,0
+Yukon,"    Pakistan",25,15,10,2.2,2.6,1.8
+Yukon,"    Philippines",230,95,140,20.4,16.7,25.2
+Yukon,"    Saudi Arabia",0,0,0,0,0,0
+Yukon,"    Sri Lanka",0,0,0,0,0,0
+Yukon,"    Syria",0,0,0,0,0,0
+Yukon,"    Turkey",0,0,0,0,0,0
+Yukon,"    United Arab Emirates",0,0,0,0,0,0
+Yukon,"    Viet Nam",0,0,0,0,0,0
+Yukon,"    Other places of birth in Asia",15,0,15,1.3,0,2.7
+Yukon,"  Oceania and other",35,20,20,3.1,3.5,3.6
+Yukon,"    Australia",25,10,20,2.2,1.8,3.6
+Yukon,"    Other places of birth",10,10,0,0.9,1.8,0
+"Northwest Territories","  Americas",375,165,215,9,8,10.3
+"Northwest Territories","    Brazil",10,0,10,0.2,0,0.5
+"Northwest Territories","    Colombia",15,0,15,0.4,0,0.7
+"Northwest Territories","    El Salvador",15,0,10,0.4,0,0.5
+"Northwest Territories","    Guyana",10,10,10,0.2,0.5,0.5
+"Northwest Territories","    Haiti",0,0,0,0,0,0
+"Northwest Territories","    Jamaica",55,25,35,1.3,1.2,1.7
+"Northwest Territories","    Mexico",25,0,15,0.6,0,0.7
+"Northwest Territories","    Peru",0,0,0,0,0,0
+"Northwest Territories","    Trinidad and Tobago",0,0,0,0,0,0
+"Northwest Territories","    United States of America",175,80,100,4.2,3.9,4.8
+"Northwest Territories","    Other places of birth in Americas",60,35,25,1.4,1.7,1.2
+"Northwest Territories","  Europe",745,420,320,18,20.4,15.3
+"Northwest Territories","    Bosnia and Herzegovina",10,0,0,0.2,0,0
+"Northwest Territories","    Croatia",0,0,0,0,0,0
+"Northwest Territories","    France",50,25,25,1.2,1.2,1.2
+"Northwest Territories","    Germany",115,65,50,2.8,3.2,2.4
+"Northwest Territories","    Greece",10,10,0,0.2,0.5,0
+"Northwest Territories","    Hungary",25,15,0,0.6,0.7,0
+"Northwest Territories","    Italy",35,20,15,0.8,1,0.7
+"Northwest Territories","    Netherlands",35,20,20,0.8,1,1
+"Northwest Territories","    Poland",15,10,0,0.4,0.5,0
+"Northwest Territories","    Portugal",10,0,10,0.2,0,0.5
+"Northwest Territories","    Romania",20,15,10,0.5,0.7,0.5
+"Northwest Territories","    Russian Federation",15,10,10,0.4,0.5,0.5
+"Northwest Territories","    Serbia",0,0,0,0,0,0
+"Northwest Territories","    Ukraine",0,0,0,0,0,0
+"Northwest Territories","    United Kingdom",275,155,120,6.6,7.5,5.8
+"Northwest Territories","    Other places of birth in Europe",120,70,55,2.9,3.4,2.6
+"Northwest Territories","  Africa",760,440,315,18.3,21.4,15.1
+"Northwest Territories","    Algeria",35,20,15,0.8,1,0.7
+"Northwest Territories","    Congo, Democratic Republic of the",0,0,0,0,0,0
+"Northwest Territories","    Egypt",10,0,0,0.2,0,0
+"Northwest Territories","    Eritrea",50,35,20,1.2,1.7,1
+"Northwest Territories","    Ethiopia",45,25,20,1.1,1.2,1
+"Northwest Territories","    Morocco",40,15,20,1,0.7,1
+"Northwest Territories","    Nigeria",55,40,15,1.3,1.9,0.7
+"Northwest Territories","    Somalia",65,55,10,1.6,2.7,0.5
+"Northwest Territories","    South Africa, Republic of",90,55,40,2.2,2.7,1.9
+"Northwest Territories","    Other places of birth in Africa",375,205,170,9,10,8.2
+"Northwest Territories","  Asia",2210,1010,1195,53.3,49.1,57.3
+"Northwest Territories","    Afghanistan",0,0,0,0,0,0
+"Northwest Territories","    Iran",20,10,10,0.5,0.5,0.5
+"Northwest Territories","    Iraq",0,0,0,0,0,0
+"Northwest Territories","    Lebanon",10,0,0,0.2,0,0
+"Northwest Territories","    Syria",40,30,15,1,1.5,0.7
+"Northwest Territories","    Turkey",0,0,0,0,0,0
+"Northwest Territories","    China",100,45,55,2.4,2.2,2.6
+"Northwest Territories","    Hong Kong",45,30,20,1.1,1.5,1
+"Northwest Territories","    Korea, South",45,15,35,1.1,0.7,1.7
+"Northwest Territories","    Taiwan",10,0,0,0.2,0,0
+"Northwest Territories","    Philippines",1175,515,665,28.3,25.1,31.9
+"Northwest Territories","    Viet Nam",165,60,105,4,2.9,5
+"Northwest Territories","    Bangladesh",75,35,40,1.8,1.7,1.9
+"Northwest Territories","    India",265,160,105,6.4,7.8,5
+"Northwest Territories","    Pakistan",75,35,40,1.8,1.7,1.9
+"Northwest Territories","    Sri Lanka",10,0,0,0.2,0,0
+"Northwest Territories","    Other places of birth in Asia",160,65,95,3.9,3.2,4.6
+"Northwest Territories","  Oceania and other places of birth",60,20,40,1.4,1,1.9
+"Northwest Territories","Total - Place of birth for the recent immigrant population in private households - 25% sample data",810,395,420,100,100,100
+"Northwest Territories","  Americas",50,25,25,6.2,6.3,6
+"Northwest Territories","    Brazil",0,0,0,0,0,0
+"Northwest Territories","    Colombia",0,0,0,0,0,0
+"Northwest Territories","    Haiti",0,0,0,0,0,0
+"Northwest Territories","    Jamaica",20,10,15,2.5,2.5,3.6
+"Northwest Territories","    Mexico",10,0,10,1.2,0,2.4
+"Northwest Territories","    United States of America",0,0,10,0,0,2.4
+"Northwest Territories","    Venezuela",0,0,0,0,0,0
+"Northwest Territories","    Other places of birth in Americas",10,10,0,1.2,2.5,0
+"Northwest Territories","  Europe",90,60,35,11.1,15.2,8.3
+"Northwest Territories","    France",30,10,15,3.7,2.5,3.6
+"Northwest Territories","    Germany",0,0,0,0,0,0
+"Northwest Territories","    Ireland",10,0,0,1.2,0,0
+"Northwest Territories","    Italy",0,0,0,0,0,0
+"Northwest Territories","    Russian Federation",0,0,0,0,0,0
+"Northwest Territories","    Ukraine",0,0,0,0,0,0
+"Northwest Territories","    United Kingdom",10,10,10,1.2,2.5,2.4
+"Northwest Territories","    Other places of birth in Europe",35,30,10,4.3,7.6,2.4
+"Northwest Territories","  Africa",175,75,100,21.6,19,23.8
+"Northwest Territories","    Algeria",0,0,0,0,0,0
+"Northwest Territories","    Burundi",0,0,0,0,0,0
+"Northwest Territories","    Cameroon",0,0,0,0,0,0
+"Northwest Territories","    Congo, Democratic Republic of the",0,0,0,0,0,0
+"Northwest Territories","    Cote d'Ivoire",0,0,0,0,0,0
+"Northwest Territories","    Egypt",10,0,0,1.2,0,0
+"Northwest Territories","    Eritrea",25,0,20,3.1,0,4.8
+"Northwest Territories","    Ethiopia",20,0,15,2.5,0,3.6
+"Northwest Territories","    Morocco",0,0,0,0,0,0
+"Northwest Territories","    Nigeria",10,10,0,1.2,2.5,0
+"Northwest Territories","    Somalia",20,15,0,2.5,3.8,0
+"Northwest Territories","    South Africa, Republic of",20,10,15,2.5,2.5,3.6
+"Northwest Territories","    Sudan",30,10,25,3.7,2.5,6
+"Northwest Territories","    Tunisia",0,0,0,0,0,0
+"Northwest Territories","    Other places of birth in Africa",40,20,15,4.9,5.1,3.6
+"Northwest Territories","  Asia",495,235,265,61.1,59.5,63.1
+"Northwest Territories","    Afghanistan",0,0,0,0,0,0
+"Northwest Territories","    Bangladesh",20,0,10,2.5,0,2.4
+"Northwest Territories","    China",20,10,10,2.5,2.5,2.4
+"Northwest Territories","    Hong Kong",0,0,0,0,0,0
+"Northwest Territories","    India",95,55,40,11.7,13.9,9.5
+"Northwest Territories","    Iran",0,0,0,0,0,0
+"Northwest Territories","    Iraq",0,0,0,0,0,0
+"Northwest Territories","    Israel",0,0,0,0,0,0
+"Northwest Territories","    Japan",0,0,0,0,0,0
+"Northwest Territories","    Jordan",10,10,0,1.2,2.5,0
+"Northwest Territories","    Korea, South",0,0,10,0,0,2.4
+"Northwest Territories","    Lebanon",0,0,0,0,0,0
+"Northwest Territories","    Nepal",0,0,0,0,0,0
+"Northwest Territories","    Pakistan",20,10,20,2.5,2.5,4.8
+"Northwest Territories","    Philippines",275,115,165,34,29.1,39.3
+"Northwest Territories","    Saudi Arabia",0,0,0,0,0,0
+"Northwest Territories","    Sri Lanka",0,0,0,0,0,0
+"Northwest Territories","    Syria",35,25,10,4.3,6.3,2.4
+"Northwest Territories","    Turkey",0,0,0,0,0,0
+"Northwest Territories","    United Arab Emirates",0,0,0,0,0,0
+"Northwest Territories","    Viet Nam",10,0,0,1.2,0,0
+"Northwest Territories","    Other places of birth in Asia",10,0,0,1.2,0,0
+"Northwest Territories","  Oceania and other",0,10,0,0,2.5,0
+"Northwest Territories","    Australia",0,0,0,0,0,0
+"Northwest Territories","    Other places of birth",0,0,0,0,0,0
+Nunavut,"  Americas",200,85,115,17.2,14.9,19.3
+Nunavut,"    Brazil",10,0,10,0.9,0,1.7
+Nunavut,"    Colombia",0,0,0,0,0,0
+Nunavut,"    El Salvador",0,0,0,0,0,0
+Nunavut,"    Guyana",10,0,0,0.9,0,0
+Nunavut,"    Haiti",10,0,0,0.9,0,0
+Nunavut,"    Jamaica",45,15,30,3.9,2.6,5
+Nunavut,"    Mexico",10,10,10,0.9,1.8,1.7
+Nunavut,"    Peru",0,0,0,0,0,0
+Nunavut,"    Trinidad and Tobago",10,10,0,0.9,1.8,0
+Nunavut,"    United States of America",65,25,35,5.6,4.4,5.9
+Nunavut,"    Other places of birth in Americas",40,25,15,3.4,4.4,2.5
+Nunavut,"  Europe",170,100,75,14.6,17.5,12.6
+Nunavut,"    Bosnia and Herzegovina",0,0,0,0,0,0
+Nunavut,"    Croatia",10,0,0,0.9,0,0
+Nunavut,"    France",15,0,10,1.3,0,1.7
+Nunavut,"    Germany",15,10,10,1.3,1.8,1.7
+Nunavut,"    Greece",0,0,0,0,0,0
+Nunavut,"    Hungary",10,0,0,0.9,0,0
+Nunavut,"    Italy",0,0,0,0,0,0
+Nunavut,"    Netherlands",0,0,0,0,0,0
+Nunavut,"    Poland",10,10,0,0.9,1.8,0
+Nunavut,"    Portugal",0,0,0,0,0,0
+Nunavut,"    Romania",10,10,10,0.9,1.8,1.7
+Nunavut,"    Russian Federation",10,10,10,0.9,1.8,1.7
+Nunavut,"    Serbia",0,0,0,0,0,0
+Nunavut,"    Ukraine",10,0,10,0.9,0,1.7
+Nunavut,"    United Kingdom",55,35,20,4.7,6.1,3.4
+Nunavut,"    Other places of birth in Europe",35,15,15,3,2.6,2.5
+Nunavut,"  Africa",305,170,135,26.2,29.8,22.7
+Nunavut,"    Algeria",0,0,0,0,0,0
+Nunavut,"    Congo, Democratic Republic of the",0,0,0,0,0,0
+Nunavut,"    Egypt",0,0,0,0,0,0
+Nunavut,"    Eritrea",0,0,0,0,0,0
+Nunavut,"    Ethiopia",20,15,0,1.7,2.6,0
+Nunavut,"    Morocco",0,0,0,0,0,0
+Nunavut,"    Nigeria",65,30,35,5.6,5.3,5.9
+Nunavut,"    Somalia",0,0,0,0,0,0
+Nunavut,"    South Africa, Republic of",10,10,10,0.9,1.8,1.7
+Nunavut,"    Other places of birth in Africa",190,100,90,16.3,17.5,15.1
+Nunavut,"  Asia",480,205,275,41.2,36,46.2
+Nunavut,"    Afghanistan",0,0,0,0,0,0
+Nunavut,"    Iran",10,0,0,0.9,0,0
+Nunavut,"    Iraq",0,0,0,0,0,0
+Nunavut,"    Lebanon",10,10,0,0.9,1.8,0
+Nunavut,"    Syria",0,0,0,0,0,0
+Nunavut,"    Turkey",0,0,0,0,0,0
+Nunavut,"    China",25,10,20,2.1,1.8,3.4
+Nunavut,"    Hong Kong",10,10,10,0.9,1.8,1.7
+Nunavut,"    Korea, South",10,0,0,0.9,0,0
+Nunavut,"    Taiwan",0,0,0,0,0,0
+Nunavut,"    Philippines",255,95,165,21.9,16.7,27.7
+Nunavut,"    Viet Nam",0,0,0,0,0,0
+Nunavut,"    Bangladesh",15,10,0,1.3,1.8,0
+Nunavut,"    India",65,35,30,5.6,6.1,5
+Nunavut,"    Pakistan",35,15,15,3,2.6,2.5
+Nunavut,"    Sri Lanka",15,10,10,1.3,1.8,1.7
+Nunavut,"    Other places of birth in Asia",35,10,20,3,1.8,3.4
+Nunavut,"  Oceania and other places of birth",10,10,0,0.9,1.8,0
+Nunavut,"Total - Place of birth for the recent immigrant population in private households - 25% sample data",240,100,140,100,100,100
+Nunavut,"  Americas",50,15,35,20.8,15,25
+Nunavut,"    Brazil",0,0,0,0,0,0
+Nunavut,"    Colombia",0,0,0,0,0,0
+Nunavut,"    Haiti",0,0,0,0,0,0
+Nunavut,"    Jamaica",15,0,10,6.3,0,7.1
+Nunavut,"    Mexico",0,0,0,0,0,0
+Nunavut,"    United States of America",15,0,15,6.3,0,10.7
+Nunavut,"    Venezuela",0,0,0,0,0,0
+Nunavut,"    Other places of birth in Americas",10,0,0,4.2,0,0
+Nunavut,"  Europe",10,10,0,4.2,10,0
+Nunavut,"    France",0,10,0,0,10,0
+Nunavut,"    Germany",0,0,0,0,0,0
+Nunavut,"    Ireland",0,0,0,0,0,0
+Nunavut,"    Italy",0,0,0,0,0,0
+Nunavut,"    Russian Federation",0,0,0,0,0,0
+Nunavut,"    Ukraine",0,0,0,0,0,0
+Nunavut,"    United Kingdom",0,0,0,0,0,0
+Nunavut,"    Other places of birth in Europe",0,0,0,0,0,0
+Nunavut,"  Africa",70,30,35,29.2,30,25
+Nunavut,"    Algeria",0,0,0,0,0,0
+Nunavut,"    Burundi",0,0,0,0,0,0
+Nunavut,"    Cameroon",10,10,10,4.2,10,7.1
+Nunavut,"    Congo, Democratic Republic of the",0,0,0,0,0,0
+Nunavut,"    Cote d'Ivoire",0,0,0,0,0,0
+Nunavut,"    Egypt",0,0,0,0,0,0
+Nunavut,"    Eritrea",0,0,0,0,0,0
+Nunavut,"    Ethiopia",15,10,0,6.3,10,0
+Nunavut,"    Morocco",0,0,0,0,0,0
+Nunavut,"    Nigeria",15,10,10,6.3,10,7.1
+Nunavut,"    Somalia",0,0,0,0,0,0
+Nunavut,"    South Africa, Republic of",0,0,0,0,0,0
+Nunavut,"    Sudan",0,0,0,0,0,0
+Nunavut,"    Tunisia",0,0,0,0,0,0
+Nunavut,"    Other places of birth in Africa",25,15,10,10.4,15,7.1
+Nunavut,"  Asia",105,40,65,43.8,40,46.4
+Nunavut,"    Afghanistan",0,0,0,0,0,0
+Nunavut,"    Bangladesh",10,10,0,4.2,10,0
+Nunavut,"    China",10,0,10,4.2,0,7.1
+Nunavut,"    Hong Kong",0,0,0,0,0,0
+Nunavut,"    India",25,10,10,10.4,10,7.1
+Nunavut,"    Iran",0,0,0,0,0,0
+Nunavut,"    Iraq",0,0,0,0,0,0
+Nunavut,"    Israel",0,0,0,0,0,0
+Nunavut,"    Japan",0,0,0,0,0,0
+Nunavut,"    Jordan",0,0,0,0,0,0
+Nunavut,"    Korea, South",0,0,0,0,0,0
+Nunavut,"    Lebanon",0,0,0,0,0,0
+Nunavut,"    Nepal",0,0,0,0,0,0
+Nunavut,"    Pakistan",0,0,10,0,0,7.1
+Nunavut,"    Philippines",50,20,35,20.8,20,25
+Nunavut,"    Saudi Arabia",0,0,0,0,0,0
+Nunavut,"    Sri Lanka",10,0,10,4.2,0,7.1
+Nunavut,"    Syria",0,0,0,0,0,0
+Nunavut,"    Turkey",0,0,0,0,0,0
+Nunavut,"    United Arab Emirates",0,0,0,0,0,0
+Nunavut,"    Viet Nam",0,0,0,0,0,0
+Nunavut,"    Other places of birth in Asia",0,0,10,0,0,7.1
+Nunavut,"  Oceania and other",0,10,0,0,10,0
+Nunavut,"    Australia",0,10,0,0,10,0
+Nunavut,"    Other places of birth",0,0,0,0,0,0

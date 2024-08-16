@@ -1,0 +1,68 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Estimates of the components of natural increase, quarterly","17100059","053-0001","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710005901",1;12,"CURRENT - a cube available to the public and that is current","Quarterly","1946-01-01","2023-07-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Estimates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Newfoundland and Labrador","[10]","2","1","",3,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",,
+"1","Northwest Territories including Nunavut","","13","1","t",4,
+"1","Northwest Territories","[61]","14","1","",5,
+"1","Nunavut","[62]","15","1","",5,
+"1","Canada","[11124]","1","","",,
+"2","Births","","1","","",2;8,
+"2","Deaths","","2","","",6;9,
+"2","Marriages","","3","","t",7;10;11,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3231","Vital Statistics - Birth Database"
+"3232","Vital Statistics - Marriage Database"
+"3233","Vital Statistics - Death Database"
+"3601","Quarterly Demographic Estimates"
+
+"Subject Code","Subject Name"
+"17","Population and demography"
+
+"Note ID",Note
+1,"Estimates for the quarter: Q1 = January to March; Q2 = April to June; Q3 = July to September; Q4 = October to December."
+2,"The number of births is final up to December 2021, updated from January 2022 to December 2022 and preliminary from January 2023."
+3,"Prior to 1949, data for Newfoundland and Labrador are unavailable."
+4,"Data for Northwest Territories and Nunavut are presented separately from July 1991."
+5,"Prior to July 1991, only data for Northwest Territories and Nunavut combined are available."
+6,"The number of deaths is final up to December 2021, updated from January 2022 to June 2022 and preliminary from July 2022."
+7,"The number of marriages is final up to December 2004."
+8,"Starting in the first quarter of 2023, estimates of births are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601). Before the first quarter of 2023, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3231). However, before the first quarter of 2010, the final estimates included in this table may differ from vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province or territory). Due to incomplete birth data in 2021 and 2022, the number of births was adjusted for Nova Scotia for the months of August to December 2021, and for Manitoba for all months in 2021 and 2022."
+9,"Starting in January 2021, estimates of deaths are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601). Before January 2021, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3233). However, before January 2013, the estimates included in this table may differ from vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province or territory)."
+10,"Final marriages were produced by the Centre for Population Health Data, Statistics Canada (See Definitions, data sources and methods record number 3232). However, the final estimates included in this table may differ from the data released by the Centre for Population Health Data, due to distribution of unknown province or territory."
+11,"Since the Centre for Population Health Data no longer releases marriage data, marriage estimates end with the October to December 2004 quarter."
+12,"The population growth, which is used to calculate population estimates, is comprised of the natural growth (Table 17100059), international migration (Table 17100040) and interprovincial migration (Tables 17100020 and 17100045)."
+
+"Correction ID","Correction Date","Correction Note"

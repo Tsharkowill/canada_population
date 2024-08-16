@@ -1,0 +1,4119 @@
+ref_date,region,num_deaths
+"1946-01-01 00:00:00",Canada,31629
+"1946-01-01 00:00:00","Prince Edward Island",272
+"1946-01-01 00:00:00","Nova Scotia",1723
+"1946-01-01 00:00:00","New Brunswick",1350
+"1946-01-01 00:00:00",Quebec,9557
+"1946-01-01 00:00:00",Ontario,10885
+"1946-01-01 00:00:00",Manitoba,1683
+"1946-01-01 00:00:00",Saskatchewan,1630
+"1946-01-01 00:00:00",Alberta,1765
+"1946-01-01 00:00:00","British Columbia",2618
+"1946-01-01 00:00:00",Yukon,23
+"1946-01-01 00:00:00","Northwest Territories including Nunavut",123
+"1946-04-01 00:00:00",Canada,28938
+"1946-04-01 00:00:00","Prince Edward Island",183
+"1946-04-01 00:00:00","Nova Scotia",1483
+"1946-04-01 00:00:00","New Brunswick",1204
+"1946-04-01 00:00:00",Quebec,8589
+"1946-04-01 00:00:00",Ontario,9961
+"1946-04-01 00:00:00",Manitoba,1666
+"1946-04-01 00:00:00",Saskatchewan,1627
+"1946-04-01 00:00:00",Alberta,1619
+"1946-04-01 00:00:00","British Columbia",2503
+"1946-04-01 00:00:00",Yukon,22
+"1946-04-01 00:00:00","Northwest Territories including Nunavut",81
+"1946-07-01 00:00:00",Canada,26021
+"1946-07-01 00:00:00","Prince Edward Island",218
+"1946-07-01 00:00:00","Nova Scotia",1337
+"1946-07-01 00:00:00","New Brunswick",1076
+"1946-07-01 00:00:00",Quebec,7529
+"1946-07-01 00:00:00",Ontario,8872
+"1946-07-01 00:00:00",Manitoba,1517
+"1946-07-01 00:00:00",Saskatchewan,1577
+"1946-07-01 00:00:00",Alberta,1489
+"1946-07-01 00:00:00","British Columbia",2326
+"1946-07-01 00:00:00",Yukon,14
+"1946-07-01 00:00:00","Northwest Territories including Nunavut",66
+"1946-10-01 00:00:00",Canada,28770
+"1946-10-01 00:00:00","Prince Edward Island",201
+"1946-10-01 00:00:00","Nova Scotia",1503
+"1946-10-01 00:00:00","New Brunswick",1236
+"1946-10-01 00:00:00",Quebec,8015
+"1946-10-01 00:00:00",Ontario,10040
+"1946-10-01 00:00:00",Manitoba,1671
+"1946-10-01 00:00:00",Saskatchewan,1588
+"1946-10-01 00:00:00",Alberta,1728
+"1946-10-01 00:00:00","British Columbia",2690
+"1946-10-01 00:00:00",Yukon,21
+"1946-10-01 00:00:00","Northwest Territories including Nunavut",77
+"1947-01-01 00:00:00",Canada,30985
+"1947-01-01 00:00:00","Prince Edward Island",299
+"1947-01-01 00:00:00","Nova Scotia",1628
+"1947-01-01 00:00:00","New Brunswick",1247
+"1947-01-01 00:00:00",Quebec,8815
+"1947-01-01 00:00:00",Ontario,10875
+"1947-01-01 00:00:00",Manitoba,1781
+"1947-01-01 00:00:00",Saskatchewan,1716
+"1947-01-01 00:00:00",Alberta,1778
+"1947-01-01 00:00:00","British Columbia",2716
+"1947-01-01 00:00:00",Yukon,22
+"1947-01-01 00:00:00","Northwest Territories including Nunavut",108
+"1947-04-01 00:00:00",Canada,30269
+"1947-04-01 00:00:00","Prince Edward Island",256
+"1947-04-01 00:00:00","Nova Scotia",1557
+"1947-04-01 00:00:00","New Brunswick",1276
+"1947-04-01 00:00:00",Quebec,8887
+"1947-04-01 00:00:00",Ontario,10609
+"1947-04-01 00:00:00",Manitoba,1670
+"1947-04-01 00:00:00",Saskatchewan,1663
+"1947-04-01 00:00:00",Alberta,1625
+"1947-04-01 00:00:00","British Columbia",2615
+"1947-04-01 00:00:00",Yukon,17
+"1947-04-01 00:00:00","Northwest Territories including Nunavut",94
+"1947-07-01 00:00:00",Canada,27229
+"1947-07-01 00:00:00","Prince Edward Island",233
+"1947-07-01 00:00:00","Nova Scotia",1357
+"1947-07-01 00:00:00","New Brunswick",1074
+"1947-07-01 00:00:00",Quebec,7821
+"1947-07-01 00:00:00",Ontario,9432
+"1947-07-01 00:00:00",Manitoba,1629
+"1947-07-01 00:00:00",Saskatchewan,1581
+"1947-07-01 00:00:00",Alberta,1534
+"1947-07-01 00:00:00","British Columbia",2455
+"1947-07-01 00:00:00",Yukon,22
+"1947-07-01 00:00:00","Northwest Territories including Nunavut",91
+"1947-10-01 00:00:00",Canada,29674
+"1947-10-01 00:00:00","Prince Edward Island",232
+"1947-10-01 00:00:00","Nova Scotia",1467
+"1947-10-01 00:00:00","New Brunswick",1235
+"1947-10-01 00:00:00",Quebec,8185
+"1947-10-01 00:00:00",Ontario,10703
+"1947-10-01 00:00:00",Manitoba,1670
+"1947-10-01 00:00:00",Saskatchewan,1650
+"1947-10-01 00:00:00",Alberta,1606
+"1947-10-01 00:00:00","British Columbia",2827
+"1947-10-01 00:00:00",Yukon,16
+"1947-10-01 00:00:00","Northwest Territories including Nunavut",83
+"1948-01-01 00:00:00",Canada,32815
+"1948-01-01 00:00:00","Prince Edward Island",242
+"1948-01-01 00:00:00","Nova Scotia",1719
+"1948-01-01 00:00:00","New Brunswick",1315
+"1948-01-01 00:00:00",Quebec,9460
+"1948-01-01 00:00:00",Ontario,11531
+"1948-01-01 00:00:00",Manitoba,1751
+"1948-01-01 00:00:00",Saskatchewan,1660
+"1948-01-01 00:00:00",Alberta,1851
+"1948-01-01 00:00:00","British Columbia",3206
+"1948-01-01 00:00:00",Yukon,19
+"1948-01-01 00:00:00","Northwest Territories including Nunavut",61
+"1948-04-01 00:00:00",Canada,30588
+"1948-04-01 00:00:00","Prince Edward Island",214
+"1948-04-01 00:00:00","Nova Scotia",1562
+"1948-04-01 00:00:00","New Brunswick",1321
+"1948-04-01 00:00:00",Quebec,8636
+"1948-04-01 00:00:00",Ontario,10793
+"1948-04-01 00:00:00",Manitoba,1690
+"1948-04-01 00:00:00",Saskatchewan,1642
+"1948-04-01 00:00:00",Alberta,1820
+"1948-04-01 00:00:00","British Columbia",2734
+"1948-04-01 00:00:00",Yukon,25
+"1948-04-01 00:00:00","Northwest Territories including Nunavut",151
+"1948-07-01 00:00:00",Canada,27530
+"1948-07-01 00:00:00","Prince Edward Island",204
+"1948-07-01 00:00:00","Nova Scotia",1391
+"1948-07-01 00:00:00","New Brunswick",1096
+"1948-07-01 00:00:00",Quebec,7917
+"1948-07-01 00:00:00",Ontario,9484
+"1948-07-01 00:00:00",Manitoba,1600
+"1948-07-01 00:00:00",Saskatchewan,1556
+"1948-07-01 00:00:00",Alberta,1606
+"1948-07-01 00:00:00","British Columbia",2569
+"1948-07-01 00:00:00",Yukon,30
+"1948-07-01 00:00:00","Northwest Territories including Nunavut",77
+"1948-10-01 00:00:00",Canada,28933
+"1948-10-01 00:00:00","Prince Edward Island",227
+"1948-10-01 00:00:00","Nova Scotia",1425
+"1948-10-01 00:00:00","New Brunswick",1227
+"1948-10-01 00:00:00",Quebec,7590
+"1948-10-01 00:00:00",Ontario,10556
+"1948-10-01 00:00:00",Manitoba,1634
+"1948-10-01 00:00:00",Saskatchewan,1638
+"1948-10-01 00:00:00",Alberta,1710
+"1948-10-01 00:00:00","British Columbia",2807
+"1948-10-01 00:00:00",Yukon,38
+"1948-10-01 00:00:00","Northwest Territories including Nunavut",81
+"1949-01-01 00:00:00",Canada,32764
+"1949-01-01 00:00:00","Newfoundland and Labrador",805
+"1949-01-01 00:00:00","Prince Edward Island",237
+"1949-01-01 00:00:00","Nova Scotia",1597
+"1949-01-01 00:00:00","New Brunswick",1310
+"1949-01-01 00:00:00",Quebec,8965
+"1949-01-01 00:00:00",Ontario,11509
+"1949-01-01 00:00:00",Manitoba,1750
+"1949-01-01 00:00:00",Saskatchewan,1684
+"1949-01-01 00:00:00",Alberta,1761
+"1949-01-01 00:00:00","British Columbia",3012
+"1949-01-01 00:00:00",Yukon,27
+"1949-01-01 00:00:00","Northwest Territories including Nunavut",107
+"1949-04-01 00:00:00",Canada,32154
+"1949-04-01 00:00:00","Newfoundland and Labrador",650
+"1949-04-01 00:00:00","Prince Edward Island",219
+"1949-04-01 00:00:00","Nova Scotia",1496
+"1949-04-01 00:00:00","New Brunswick",1273
+"1949-04-01 00:00:00",Quebec,9051
+"1949-04-01 00:00:00",Ontario,11035
+"1949-04-01 00:00:00",Manitoba,1787
+"1949-04-01 00:00:00",Saskatchewan,1774
+"1949-04-01 00:00:00",Alberta,1880
+"1949-04-01 00:00:00","British Columbia",2804
+"1949-04-01 00:00:00",Yukon,23
+"1949-04-01 00:00:00","Northwest Territories including Nunavut",162
+"1949-07-01 00:00:00",Canada,28759
+"1949-07-01 00:00:00","Newfoundland and Labrador",611
+"1949-07-01 00:00:00","Prince Edward Island",230
+"1949-07-01 00:00:00","Nova Scotia",1397
+"1949-07-01 00:00:00","New Brunswick",1084
+"1949-07-01 00:00:00",Quebec,7975
+"1949-07-01 00:00:00",Ontario,9836
+"1949-07-01 00:00:00",Manitoba,1717
+"1949-07-01 00:00:00",Saskatchewan,1517
+"1949-07-01 00:00:00",Alberta,1641
+"1949-07-01 00:00:00","British Columbia",2628
+"1949-07-01 00:00:00",Yukon,18
+"1949-07-01 00:00:00","Northwest Territories including Nunavut",105
+"1949-10-01 00:00:00",Canada,30890
+"1949-10-01 00:00:00","Newfoundland and Labrador",802
+"1949-10-01 00:00:00","Prince Edward Island",238
+"1949-10-01 00:00:00","Nova Scotia",1490
+"1949-10-01 00:00:00","New Brunswick",1209
+"1949-10-01 00:00:00",Quebec,8116
+"1949-10-01 00:00:00",Ontario,10999
+"1949-10-01 00:00:00",Manitoba,1665
+"1949-10-01 00:00:00",Saskatchewan,1621
+"1949-10-01 00:00:00",Alberta,1801
+"1949-10-01 00:00:00","British Columbia",2871
+"1949-10-01 00:00:00",Yukon,18
+"1949-10-01 00:00:00","Northwest Territories including Nunavut",60
+"1950-01-01 00:00:00",Canada,33059
+"1950-01-01 00:00:00","Newfoundland and Labrador",955
+"1950-01-01 00:00:00","Prince Edward Island",285
+"1950-01-01 00:00:00","Nova Scotia",1700
+"1950-01-01 00:00:00","New Brunswick",1341
+"1950-01-01 00:00:00",Quebec,8726
+"1950-01-01 00:00:00",Ontario,11716
+"1950-01-01 00:00:00",Manitoba,1726
+"1950-01-01 00:00:00",Saskatchewan,1650
+"1950-01-01 00:00:00",Alberta,1728
+"1950-01-01 00:00:00","British Columbia",3118
+"1950-01-01 00:00:00",Yukon,29
+"1950-01-01 00:00:00","Northwest Territories including Nunavut",85
+"1950-04-01 00:00:00",Canada,31826
+"1950-04-01 00:00:00","Newfoundland and Labrador",715
+"1950-04-01 00:00:00","Prince Edward Island",217
+"1950-04-01 00:00:00","Nova Scotia",1498
+"1950-04-01 00:00:00","New Brunswick",1232
+"1950-04-01 00:00:00",Quebec,8699
+"1950-04-01 00:00:00",Ontario,11167
+"1950-04-01 00:00:00",Manitoba,1807
+"1950-04-01 00:00:00",Saskatchewan,1620
+"1950-04-01 00:00:00",Alberta,1825
+"1950-04-01 00:00:00","British Columbia",2921
+"1950-04-01 00:00:00",Yukon,22
+"1950-04-01 00:00:00","Northwest Territories including Nunavut",103
+"1950-07-01 00:00:00",Canada,28765
+"1950-07-01 00:00:00","Newfoundland and Labrador",665
+"1950-07-01 00:00:00","Prince Edward Island",185
+"1950-07-01 00:00:00","Nova Scotia",1403
+"1950-07-01 00:00:00","New Brunswick",1100
+"1950-07-01 00:00:00",Quebec,7926
+"1950-07-01 00:00:00",Ontario,10137
+"1950-07-01 00:00:00",Manitoba,1489
+"1950-07-01 00:00:00",Saskatchewan,1475
+"1950-07-01 00:00:00",Alberta,1646
+"1950-07-01 00:00:00","British Columbia",2645
+"1950-07-01 00:00:00",Yukon,22
+"1950-07-01 00:00:00","Northwest Territories including Nunavut",72
+"1950-10-01 00:00:00",Canada,30570
+"1950-10-01 00:00:00","Newfoundland and Labrador",833
+"1950-10-01 00:00:00","Prince Edward Island",216
+"1950-10-01 00:00:00","Nova Scotia",1477
+"1950-10-01 00:00:00","New Brunswick",1222
+"1950-10-01 00:00:00",Quebec,8156
+"1950-10-01 00:00:00",Ontario,10928
+"1950-10-01 00:00:00",Manitoba,1588
+"1950-10-01 00:00:00",Saskatchewan,1498
+"1950-10-01 00:00:00",Alberta,1657
+"1950-10-01 00:00:00","British Columbia",2897
+"1950-10-01 00:00:00",Yukon,26
+"1950-10-01 00:00:00","Northwest Territories including Nunavut",72
+"1951-01-01 00:00:00",Canada,36129
+"1951-01-01 00:00:00","Newfoundland and Labrador",964
+"1951-01-01 00:00:00","Prince Edward Island",294
+"1951-01-01 00:00:00","Nova Scotia",1869
+"1951-01-01 00:00:00","New Brunswick",1464
+"1951-01-01 00:00:00",Quebec,9949
+"1951-01-01 00:00:00",Ontario,12703
+"1951-01-01 00:00:00",Manitoba,1959
+"1951-01-01 00:00:00",Saskatchewan,1721
+"1951-01-01 00:00:00",Alberta,1958
+"1951-01-01 00:00:00","British Columbia",3144
+"1951-01-01 00:00:00",Yukon,25
+"1951-01-01 00:00:00","Northwest Territories including Nunavut",79
+"1951-04-01 00:00:00",Canada,30125
+"1951-04-01 00:00:00","Newfoundland and Labrador",661
+"1951-04-01 00:00:00","Prince Edward Island",211
+"1951-04-01 00:00:00","Nova Scotia",1331
+"1951-04-01 00:00:00","New Brunswick",1129
+"1951-04-01 00:00:00",Quebec,8362
+"1951-04-01 00:00:00",Ontario,10492
+"1951-04-01 00:00:00",Manitoba,1628
+"1951-04-01 00:00:00",Saskatchewan,1550
+"1951-04-01 00:00:00",Alberta,1770
+"1951-04-01 00:00:00","British Columbia",2890
+"1951-04-01 00:00:00",Yukon,17
+"1951-04-01 00:00:00","Northwest Territories including Nunavut",84
+"1951-07-01 00:00:00",Canada,28371
+"1951-07-01 00:00:00","Newfoundland and Labrador",640
+"1951-07-01 00:00:00","Prince Edward Island",182
+"1951-07-01 00:00:00","Nova Scotia",1245
+"1951-07-01 00:00:00","New Brunswick",1071
+"1951-07-01 00:00:00",Quebec,7959
+"1951-07-01 00:00:00",Ontario,9749
+"1951-07-01 00:00:00",Manitoba,1499
+"1951-07-01 00:00:00",Saskatchewan,1553
+"1951-07-01 00:00:00",Alberta,1686
+"1951-07-01 00:00:00","British Columbia",2706
+"1951-07-01 00:00:00",Yukon,26
+"1951-07-01 00:00:00","Northwest Territories including Nunavut",55
+"1951-10-01 00:00:00",Canada,31198
+"1951-10-01 00:00:00","Newfoundland and Labrador",739
+"1951-10-01 00:00:00","Prince Edward Island",217
+"1951-10-01 00:00:00","Nova Scotia",1367
+"1951-10-01 00:00:00","New Brunswick",1209
+"1951-10-01 00:00:00",Quebec,8630
+"1951-10-01 00:00:00",Ontario,11037
+"1951-10-01 00:00:00",Manitoba,1649
+"1951-10-01 00:00:00",Saskatchewan,1616
+"1951-10-01 00:00:00",Alberta,1753
+"1951-10-01 00:00:00","British Columbia",2898
+"1951-10-01 00:00:00",Yukon,17
+"1951-10-01 00:00:00","Northwest Territories including Nunavut",66
+"1952-01-01 00:00:00",Canada,32694
+"1952-01-01 00:00:00","Newfoundland and Labrador",767
+"1952-01-01 00:00:00","Prince Edward Island",243
+"1952-01-01 00:00:00","Nova Scotia",1594
+"1952-01-01 00:00:00","New Brunswick",1232
+"1952-01-01 00:00:00",Quebec,9006
+"1952-01-01 00:00:00",Ontario,11426
+"1952-01-01 00:00:00",Manitoba,1706
+"1952-01-01 00:00:00",Saskatchewan,1660
+"1952-01-01 00:00:00",Alberta,1810
+"1952-01-01 00:00:00","British Columbia",3171
+"1952-01-01 00:00:00",Yukon,18
+"1952-01-01 00:00:00","Northwest Territories including Nunavut",61
+"1952-04-01 00:00:00",Canada,31895
+"1952-04-01 00:00:00","Newfoundland and Labrador",677
+"1952-04-01 00:00:00","Prince Edward Island",215
+"1952-04-01 00:00:00","Nova Scotia",1427
+"1952-04-01 00:00:00","New Brunswick",1182
+"1952-04-01 00:00:00",Quebec,8828
+"1952-04-01 00:00:00",Ontario,11269
+"1952-04-01 00:00:00",Manitoba,1607
+"1952-04-01 00:00:00",Saskatchewan,1681
+"1952-04-01 00:00:00",Alberta,1896
+"1952-04-01 00:00:00","British Columbia",2971
+"1952-04-01 00:00:00",Yukon,27
+"1952-04-01 00:00:00","Northwest Territories including Nunavut",115
+"1952-07-01 00:00:00",Canada,29616
+"1952-07-01 00:00:00","Newfoundland and Labrador",636
+"1952-07-01 00:00:00","Prince Edward Island",199
+"1952-07-01 00:00:00","Nova Scotia",1302
+"1952-07-01 00:00:00","New Brunswick",1048
+"1952-07-01 00:00:00",Quebec,8407
+"1952-07-01 00:00:00",Ontario,10264
+"1952-07-01 00:00:00",Manitoba,1557
+"1952-07-01 00:00:00",Saskatchewan,1565
+"1952-07-01 00:00:00",Alberta,1744
+"1952-07-01 00:00:00","British Columbia",2785
+"1952-07-01 00:00:00",Yukon,24
+"1952-07-01 00:00:00","Northwest Territories including Nunavut",85
+"1952-10-01 00:00:00",Canada,32180
+"1952-10-01 00:00:00","Newfoundland and Labrador",693
+"1952-10-01 00:00:00","Prince Edward Island",259
+"1952-10-01 00:00:00","Nova Scotia",1433
+"1952-10-01 00:00:00","New Brunswick",1185
+"1952-10-01 00:00:00",Quebec,8613
+"1952-10-01 00:00:00",Ontario,11443
+"1952-10-01 00:00:00",Manitoba,1682
+"1952-10-01 00:00:00",Saskatchewan,1719
+"1952-10-01 00:00:00",Alberta,1895
+"1952-10-01 00:00:00","British Columbia",3153
+"1952-10-01 00:00:00",Yukon,25
+"1952-10-01 00:00:00","Northwest Territories including Nunavut",80
+"1953-01-01 00:00:00",Canada,34469
+"1953-01-01 00:00:00","Newfoundland and Labrador",787
+"1953-01-01 00:00:00","Prince Edward Island",257
+"1953-01-01 00:00:00","Nova Scotia",1600
+"1953-01-01 00:00:00","New Brunswick",1288
+"1953-01-01 00:00:00",Quebec,9494
+"1953-01-01 00:00:00",Ontario,12126
+"1953-01-01 00:00:00",Manitoba,1921
+"1953-01-01 00:00:00",Saskatchewan,1728
+"1953-01-01 00:00:00",Alberta,2019
+"1953-01-01 00:00:00","British Columbia",3152
+"1953-01-01 00:00:00",Yukon,28
+"1953-01-01 00:00:00","Northwest Territories including Nunavut",69
+"1953-04-01 00:00:00",Canada,31840
+"1953-04-01 00:00:00","Newfoundland and Labrador",639
+"1953-04-01 00:00:00","Prince Edward Island",252
+"1953-04-01 00:00:00","Nova Scotia",1374
+"1953-04-01 00:00:00","New Brunswick",1169
+"1953-04-01 00:00:00",Quebec,8696
+"1953-04-01 00:00:00",Ontario,11282
+"1953-04-01 00:00:00",Manitoba,1730
+"1953-04-01 00:00:00",Saskatchewan,1671
+"1953-04-01 00:00:00",Alberta,1813
+"1953-04-01 00:00:00","British Columbia",3056
+"1953-04-01 00:00:00",Yukon,40
+"1953-04-01 00:00:00","Northwest Territories including Nunavut",118
+"1953-07-01 00:00:00",Canada,29944
+"1953-07-01 00:00:00","Newfoundland and Labrador",617
+"1953-07-01 00:00:00","Prince Edward Island",205
+"1953-07-01 00:00:00","Nova Scotia",1372
+"1953-07-01 00:00:00","New Brunswick",969
+"1953-07-01 00:00:00",Quebec,8095
+"1953-07-01 00:00:00",Ontario,10553
+"1953-07-01 00:00:00",Manitoba,1664
+"1953-07-01 00:00:00",Saskatchewan,1643
+"1953-07-01 00:00:00",Alberta,1844
+"1953-07-01 00:00:00","British Columbia",2884
+"1953-07-01 00:00:00",Yukon,29
+"1953-07-01 00:00:00","Northwest Territories including Nunavut",69
+"1953-10-01 00:00:00",Canada,31538
+"1953-10-01 00:00:00","Newfoundland and Labrador",690
+"1953-10-01 00:00:00","Prince Edward Island",212
+"1953-10-01 00:00:00","Nova Scotia",1462
+"1953-10-01 00:00:00","New Brunswick",1211
+"1953-10-01 00:00:00",Quebec,8184
+"1953-10-01 00:00:00",Ontario,11281
+"1953-10-01 00:00:00",Manitoba,1700
+"1953-10-01 00:00:00",Saskatchewan,1645
+"1953-10-01 00:00:00",Alberta,1970
+"1953-10-01 00:00:00","British Columbia",3126
+"1953-10-01 00:00:00",Yukon,19
+"1953-10-01 00:00:00","Northwest Territories including Nunavut",38
+"1954-01-01 00:00:00",Canada,31854
+"1954-01-01 00:00:00","Newfoundland and Labrador",755
+"1954-01-01 00:00:00","Prince Edward Island",255
+"1954-01-01 00:00:00","Nova Scotia",1500
+"1954-01-01 00:00:00","New Brunswick",1086
+"1954-01-01 00:00:00",Quebec,8563
+"1954-01-01 00:00:00",Ontario,11367
+"1954-01-01 00:00:00",Manitoba,1624
+"1954-01-01 00:00:00",Saskatchewan,1565
+"1954-01-01 00:00:00",Alberta,1973
+"1954-01-01 00:00:00","British Columbia",3082
+"1954-01-01 00:00:00",Yukon,16
+"1954-01-01 00:00:00","Northwest Territories including Nunavut",68
+"1954-04-01 00:00:00",Canada,31612
+"1954-04-01 00:00:00","Newfoundland and Labrador",712
+"1954-04-01 00:00:00","Prince Edward Island",238
+"1954-04-01 00:00:00","Nova Scotia",1394
+"1954-04-01 00:00:00","New Brunswick",1096
+"1954-04-01 00:00:00",Quebec,8494
+"1954-04-01 00:00:00",Ontario,11206
+"1954-04-01 00:00:00",Manitoba,1736
+"1954-04-01 00:00:00",Saskatchewan,1610
+"1954-04-01 00:00:00",Alberta,1831
+"1954-04-01 00:00:00","British Columbia",3186
+"1954-04-01 00:00:00",Yukon,26
+"1954-04-01 00:00:00","Northwest Territories including Nunavut",83
+"1954-07-01 00:00:00",Canada,29363
+"1954-07-01 00:00:00","Newfoundland and Labrador",682
+"1954-07-01 00:00:00","Prince Edward Island",223
+"1954-07-01 00:00:00","Nova Scotia",1327
+"1954-07-01 00:00:00","New Brunswick",993
+"1954-07-01 00:00:00",Quebec,7833
+"1954-07-01 00:00:00",Ontario,10303
+"1954-07-01 00:00:00",Manitoba,1657
+"1954-07-01 00:00:00",Saskatchewan,1543
+"1954-07-01 00:00:00",Alberta,1760
+"1954-07-01 00:00:00","British Columbia",2956
+"1954-07-01 00:00:00",Yukon,25
+"1954-07-01 00:00:00","Northwest Territories including Nunavut",61
+"1954-10-01 00:00:00",Canada,32026
+"1954-10-01 00:00:00","Newfoundland and Labrador",767
+"1954-10-01 00:00:00","Prince Edward Island",250
+"1954-10-01 00:00:00","Nova Scotia",1471
+"1954-10-01 00:00:00","New Brunswick",1111
+"1954-10-01 00:00:00",Quebec,8279
+"1954-10-01 00:00:00",Ontario,11639
+"1954-10-01 00:00:00",Manitoba,1702
+"1954-10-01 00:00:00",Saskatchewan,1605
+"1954-10-01 00:00:00",Alberta,1956
+"1954-10-01 00:00:00","British Columbia",3190
+"1954-10-01 00:00:00",Yukon,18
+"1954-10-01 00:00:00","Northwest Territories including Nunavut",38
+"1955-01-01 00:00:00",Canada,33115
+"1955-01-01 00:00:00","Newfoundland and Labrador",784
+"1955-01-01 00:00:00","Prince Edward Island",224
+"1955-01-01 00:00:00","Nova Scotia",1582
+"1955-01-01 00:00:00","New Brunswick",1133
+"1955-01-01 00:00:00",Quebec,8728
+"1955-01-01 00:00:00",Ontario,11727
+"1955-01-01 00:00:00",Manitoba,1751
+"1955-01-01 00:00:00",Saskatchewan,1720
+"1955-01-01 00:00:00",Alberta,2104
+"1955-01-01 00:00:00","British Columbia",3314
+"1955-01-01 00:00:00",Yukon,15
+"1955-01-01 00:00:00","Northwest Territories including Nunavut",33
+"1955-04-01 00:00:00",Canada,32392
+"1955-04-01 00:00:00","Newfoundland and Labrador",838
+"1955-04-01 00:00:00","Prince Edward Island",256
+"1955-04-01 00:00:00","Nova Scotia",1562
+"1955-04-01 00:00:00","New Brunswick",1105
+"1955-04-01 00:00:00",Quebec,8647
+"1955-04-01 00:00:00",Ontario,11275
+"1955-04-01 00:00:00",Manitoba,1699
+"1955-04-01 00:00:00",Saskatchewan,1624
+"1955-04-01 00:00:00",Alberta,2027
+"1955-04-01 00:00:00","British Columbia",3254
+"1955-04-01 00:00:00",Yukon,21
+"1955-04-01 00:00:00","Northwest Territories including Nunavut",84
+"1955-07-01 00:00:00",Canada,30465
+"1955-07-01 00:00:00","Newfoundland and Labrador",703
+"1955-07-01 00:00:00","Prince Edward Island",194
+"1955-07-01 00:00:00","Nova Scotia",1336
+"1955-07-01 00:00:00","New Brunswick",1043
+"1955-07-01 00:00:00",Quebec,8131
+"1955-07-01 00:00:00",Ontario,10870
+"1955-07-01 00:00:00",Manitoba,1629
+"1955-07-01 00:00:00",Saskatchewan,1648
+"1955-07-01 00:00:00",Alberta,1835
+"1955-07-01 00:00:00","British Columbia",2998
+"1955-07-01 00:00:00",Yukon,16
+"1955-07-01 00:00:00","Northwest Territories including Nunavut",62
+"1955-10-01 00:00:00",Canada,32504
+"1955-10-01 00:00:00","Newfoundland and Labrador",881
+"1955-10-01 00:00:00","Prince Edward Island",227
+"1955-10-01 00:00:00","Nova Scotia",1460
+"1955-10-01 00:00:00","New Brunswick",1154
+"1955-10-01 00:00:00",Quebec,8446
+"1955-10-01 00:00:00",Ontario,11562
+"1955-10-01 00:00:00",Manitoba,1774
+"1955-10-01 00:00:00",Saskatchewan,1669
+"1955-10-01 00:00:00",Alberta,1990
+"1955-10-01 00:00:00","British Columbia",3250
+"1955-10-01 00:00:00",Yukon,20
+"1955-10-01 00:00:00","Northwest Territories including Nunavut",71
+"1956-01-01 00:00:00",Canada,33793
+"1956-01-01 00:00:00","Newfoundland and Labrador",822
+"1956-01-01 00:00:00","Prince Edward Island",233
+"1956-01-01 00:00:00","Nova Scotia",1504
+"1956-01-01 00:00:00","New Brunswick",1189
+"1956-01-01 00:00:00",Quebec,8427
+"1956-01-01 00:00:00",Ontario,12567
+"1956-01-01 00:00:00",Manitoba,1795
+"1956-01-01 00:00:00",Saskatchewan,1668
+"1956-01-01 00:00:00",Alberta,2042
+"1956-01-01 00:00:00","British Columbia",3449
+"1956-01-01 00:00:00",Yukon,20
+"1956-01-01 00:00:00","Northwest Territories including Nunavut",77
+"1956-04-01 00:00:00",Canada,33181
+"1956-04-01 00:00:00","Newfoundland and Labrador",738
+"1956-04-01 00:00:00","Prince Edward Island",233
+"1956-04-01 00:00:00","Nova Scotia",1414
+"1956-04-01 00:00:00","New Brunswick",1177
+"1956-04-01 00:00:00",Quebec,9115
+"1956-04-01 00:00:00",Ontario,11718
+"1956-04-01 00:00:00",Manitoba,1795
+"1956-04-01 00:00:00",Saskatchewan,1695
+"1956-04-01 00:00:00",Alberta,1938
+"1956-04-01 00:00:00","British Columbia",3265
+"1956-04-01 00:00:00",Yukon,23
+"1956-04-01 00:00:00","Northwest Territories including Nunavut",70
+"1956-07-01 00:00:00",Canada,31110
+"1956-07-01 00:00:00","Newfoundland and Labrador",679
+"1956-07-01 00:00:00","Prince Edward Island",231
+"1956-07-01 00:00:00","Nova Scotia",1295
+"1956-07-01 00:00:00","New Brunswick",1077
+"1956-07-01 00:00:00",Quebec,8451
+"1956-07-01 00:00:00",Ontario,11006
+"1956-07-01 00:00:00",Manitoba,1646
+"1956-07-01 00:00:00",Saskatchewan,1561
+"1956-07-01 00:00:00",Alberta,1844
+"1956-07-01 00:00:00","British Columbia",3219
+"1956-07-01 00:00:00",Yukon,25
+"1956-07-01 00:00:00","Northwest Territories including Nunavut",76
+"1956-10-01 00:00:00",Canada,33877
+"1956-10-01 00:00:00","Newfoundland and Labrador",819
+"1956-10-01 00:00:00","Prince Edward Island",236
+"1956-10-01 00:00:00","Nova Scotia",1525
+"1956-10-01 00:00:00","New Brunswick",1215
+"1956-10-01 00:00:00",Quebec,9049
+"1956-10-01 00:00:00",Ontario,11940
+"1956-10-01 00:00:00",Manitoba,1822
+"1956-10-01 00:00:00",Saskatchewan,1742
+"1956-10-01 00:00:00",Alberta,1962
+"1956-10-01 00:00:00","British Columbia",3482
+"1956-10-01 00:00:00",Yukon,17
+"1956-10-01 00:00:00","Northwest Territories including Nunavut",68
+"1957-01-01 00:00:00",Canada,33914
+"1957-01-01 00:00:00","Newfoundland and Labrador",819
+"1957-01-01 00:00:00","Prince Edward Island",231
+"1957-01-01 00:00:00","Nova Scotia",1558
+"1957-01-01 00:00:00","New Brunswick",1190
+"1957-01-01 00:00:00",Quebec,9062
+"1957-01-01 00:00:00",Ontario,12102
+"1957-01-01 00:00:00",Manitoba,1780
+"1957-01-01 00:00:00",Saskatchewan,1645
+"1957-01-01 00:00:00",Alberta,1955
+"1957-01-01 00:00:00","British Columbia",3479
+"1957-01-01 00:00:00",Yukon,21
+"1957-01-01 00:00:00","Northwest Territories including Nunavut",72
+"1957-04-01 00:00:00",Canada,33219
+"1957-04-01 00:00:00","Newfoundland and Labrador",683
+"1957-04-01 00:00:00","Prince Edward Island",236
+"1957-04-01 00:00:00","Nova Scotia",1425
+"1957-04-01 00:00:00","New Brunswick",1144
+"1957-04-01 00:00:00",Quebec,9102
+"1957-04-01 00:00:00",Ontario,11908
+"1957-04-01 00:00:00",Manitoba,1813
+"1957-04-01 00:00:00",Saskatchewan,1619
+"1957-04-01 00:00:00",Alberta,2024
+"1957-04-01 00:00:00","British Columbia",3162
+"1957-04-01 00:00:00",Yukon,19
+"1957-04-01 00:00:00","Northwest Territories including Nunavut",84
+"1957-07-01 00:00:00",Canada,32084
+"1957-07-01 00:00:00","Newfoundland and Labrador",769
+"1957-07-01 00:00:00","Prince Edward Island",212
+"1957-07-01 00:00:00","Nova Scotia",1373
+"1957-07-01 00:00:00","New Brunswick",1033
+"1957-07-01 00:00:00",Quebec,8589
+"1957-07-01 00:00:00",Ontario,11426
+"1957-07-01 00:00:00",Manitoba,1810
+"1957-07-01 00:00:00",Saskatchewan,1614
+"1957-07-01 00:00:00",Alberta,1922
+"1957-07-01 00:00:00","British Columbia",3224
+"1957-07-01 00:00:00",Yukon,26
+"1957-07-01 00:00:00","Northwest Territories including Nunavut",86
+"1957-10-01 00:00:00",Canada,37362
+"1957-10-01 00:00:00","Newfoundland and Labrador",927
+"1957-10-01 00:00:00","Prince Edward Island",237
+"1957-10-01 00:00:00","Nova Scotia",1621
+"1957-10-01 00:00:00","New Brunswick",1228
+"1957-10-01 00:00:00",Quebec,9481
+"1957-10-01 00:00:00",Ontario,13728
+"1957-10-01 00:00:00",Manitoba,1965
+"1957-10-01 00:00:00",Saskatchewan,1865
+"1957-10-01 00:00:00",Alberta,2354
+"1957-10-01 00:00:00","British Columbia",3846
+"1957-10-01 00:00:00",Yukon,27
+"1957-10-01 00:00:00","Northwest Territories including Nunavut",83
+"1958-01-01 00:00:00",Canada,34625
+"1958-01-01 00:00:00","Newfoundland and Labrador",774
+"1958-01-01 00:00:00","Prince Edward Island",228
+"1958-01-01 00:00:00","Nova Scotia",1568
+"1958-01-01 00:00:00","New Brunswick",1152
+"1958-01-01 00:00:00",Quebec,9232
+"1958-01-01 00:00:00",Ontario,12726
+"1958-01-01 00:00:00",Manitoba,1744
+"1958-01-01 00:00:00",Saskatchewan,1671
+"1958-01-01 00:00:00",Alberta,2044
+"1958-01-01 00:00:00","British Columbia",3387
+"1958-01-01 00:00:00",Yukon,20
+"1958-01-01 00:00:00","Northwest Territories including Nunavut",79
+"1958-04-01 00:00:00",Canada,33694
+"1958-04-01 00:00:00","Newfoundland and Labrador",768
+"1958-04-01 00:00:00","Prince Edward Island",251
+"1958-04-01 00:00:00","Nova Scotia",1511
+"1958-04-01 00:00:00","New Brunswick",1117
+"1958-04-01 00:00:00",Quebec,9119
+"1958-04-01 00:00:00",Ontario,11990
+"1958-04-01 00:00:00",Manitoba,1767
+"1958-04-01 00:00:00",Saskatchewan,1632
+"1958-04-01 00:00:00",Alberta,2034
+"1958-04-01 00:00:00","British Columbia",3393
+"1958-04-01 00:00:00",Yukon,25
+"1958-04-01 00:00:00","Northwest Territories including Nunavut",87
+"1958-07-01 00:00:00",Canada,32158
+"1958-07-01 00:00:00","Newfoundland and Labrador",675
+"1958-07-01 00:00:00","Prince Edward Island",215
+"1958-07-01 00:00:00","Nova Scotia",1395
+"1958-07-01 00:00:00","New Brunswick",1044
+"1958-07-01 00:00:00",Quebec,8522
+"1958-07-01 00:00:00",Ontario,11423
+"1958-07-01 00:00:00",Manitoba,1810
+"1958-07-01 00:00:00",Saskatchewan,1542
+"1958-07-01 00:00:00",Alberta,2059
+"1958-07-01 00:00:00","British Columbia",3354
+"1958-07-01 00:00:00",Yukon,29
+"1958-07-01 00:00:00","Northwest Territories including Nunavut",90
+"1958-10-01 00:00:00",Canada,34724
+"1958-10-01 00:00:00","Newfoundland and Labrador",905
+"1958-10-01 00:00:00","Prince Edward Island",255
+"1958-10-01 00:00:00","Nova Scotia",1646
+"1958-10-01 00:00:00","New Brunswick",1215
+"1958-10-01 00:00:00",Quebec,8901
+"1958-10-01 00:00:00",Ontario,12538
+"1958-10-01 00:00:00",Manitoba,1824
+"1958-10-01 00:00:00",Saskatchewan,1638
+"1958-10-01 00:00:00",Alberta,2100
+"1958-10-01 00:00:00","British Columbia",3607
+"1958-10-01 00:00:00",Yukon,18
+"1958-10-01 00:00:00","Northwest Territories including Nunavut",77
+"1959-01-01 00:00:00",Canada,36130
+"1959-01-01 00:00:00","Newfoundland and Labrador",858
+"1959-01-01 00:00:00","Prince Edward Island",257
+"1959-01-01 00:00:00","Nova Scotia",1764
+"1959-01-01 00:00:00","New Brunswick",1237
+"1959-01-01 00:00:00",Quebec,9275
+"1959-01-01 00:00:00",Ontario,13238
+"1959-01-01 00:00:00",Manitoba,1808
+"1959-01-01 00:00:00",Saskatchewan,1776
+"1959-01-01 00:00:00",Alberta,2114
+"1959-01-01 00:00:00","British Columbia",3704
+"1959-01-01 00:00:00",Yukon,19
+"1959-01-01 00:00:00","Northwest Territories including Nunavut",80
+"1959-04-01 00:00:00",Canada,36276
+"1959-04-01 00:00:00","Newfoundland and Labrador",853
+"1959-04-01 00:00:00","Prince Edward Island",264
+"1959-04-01 00:00:00","Nova Scotia",1678
+"1959-04-01 00:00:00","New Brunswick",1283
+"1959-04-01 00:00:00",Quebec,9547
+"1959-04-01 00:00:00",Ontario,12912
+"1959-04-01 00:00:00",Manitoba,2014
+"1959-04-01 00:00:00",Saskatchewan,1910
+"1959-04-01 00:00:00",Alberta,2199
+"1959-04-01 00:00:00","British Columbia",3524
+"1959-04-01 00:00:00",Yukon,22
+"1959-04-01 00:00:00","Northwest Territories including Nunavut",70
+"1959-07-01 00:00:00",Canada,32808
+"1959-07-01 00:00:00","Newfoundland and Labrador",700
+"1959-07-01 00:00:00","Prince Edward Island",242
+"1959-07-01 00:00:00","Nova Scotia",1416
+"1959-07-01 00:00:00","New Brunswick",1075
+"1959-07-01 00:00:00",Quebec,8755
+"1959-07-01 00:00:00",Ontario,11728
+"1959-07-01 00:00:00",Manitoba,1750
+"1959-07-01 00:00:00",Saskatchewan,1637
+"1959-07-01 00:00:00",Alberta,1999
+"1959-07-01 00:00:00","British Columbia",3399
+"1959-07-01 00:00:00",Yukon,27
+"1959-07-01 00:00:00","Northwest Territories including Nunavut",80
+"1959-10-01 00:00:00",Canada,34699
+"1959-10-01 00:00:00","Newfoundland and Labrador",768
+"1959-10-01 00:00:00","Prince Edward Island",244
+"1959-10-01 00:00:00","Nova Scotia",1513
+"1959-10-01 00:00:00","New Brunswick",1152
+"1959-10-01 00:00:00",Quebec,8813
+"1959-10-01 00:00:00",Ontario,12722
+"1959-10-01 00:00:00",Manitoba,1849
+"1959-10-01 00:00:00",Saskatchewan,1680
+"1959-10-01 00:00:00",Alberta,2169
+"1959-10-01 00:00:00","British Columbia",3709
+"1959-10-01 00:00:00",Yukon,21
+"1959-10-01 00:00:00","Northwest Territories including Nunavut",59
+"1960-01-01 00:00:00",Canada,36028
+"1960-01-01 00:00:00","Newfoundland and Labrador",748
+"1960-01-01 00:00:00","Prince Edward Island",235
+"1960-01-01 00:00:00","Nova Scotia",1594
+"1960-01-01 00:00:00","New Brunswick",1179
+"1960-01-01 00:00:00",Quebec,8780
+"1960-01-01 00:00:00",Ontario,13550
+"1960-01-01 00:00:00",Manitoba,1945
+"1960-01-01 00:00:00",Saskatchewan,1675
+"1960-01-01 00:00:00",Alberta,2248
+"1960-01-01 00:00:00","British Columbia",3964
+"1960-01-01 00:00:00",Yukon,24
+"1960-01-01 00:00:00","Northwest Territories including Nunavut",86
+"1960-04-01 00:00:00",Canada,34660
+"1960-04-01 00:00:00","Newfoundland and Labrador",715
+"1960-04-01 00:00:00","Prince Edward Island",255
+"1960-04-01 00:00:00","Nova Scotia",1488
+"1960-04-01 00:00:00","New Brunswick",1195
+"1960-04-01 00:00:00",Quebec,8676
+"1960-04-01 00:00:00",Ontario,12705
+"1960-04-01 00:00:00",Manitoba,1855
+"1960-04-01 00:00:00",Saskatchewan,1725
+"1960-04-01 00:00:00",Alberta,2293
+"1960-04-01 00:00:00","British Columbia",3632
+"1960-04-01 00:00:00",Yukon,32
+"1960-04-01 00:00:00","Northwest Territories including Nunavut",89
+"1960-07-01 00:00:00",Canada,33206
+"1960-07-01 00:00:00","Newfoundland and Labrador",739
+"1960-07-01 00:00:00","Prince Edward Island",228
+"1960-07-01 00:00:00","Nova Scotia",1455
+"1960-07-01 00:00:00","New Brunswick",1079
+"1960-07-01 00:00:00",Quebec,8525
+"1960-07-01 00:00:00",Ontario,11930
+"1960-07-01 00:00:00",Manitoba,1750
+"1960-07-01 00:00:00",Saskatchewan,1740
+"1960-07-01 00:00:00",Alberta,2129
+"1960-07-01 00:00:00","British Columbia",3539
+"1960-07-01 00:00:00",Yukon,23
+"1960-07-01 00:00:00","Northwest Territories including Nunavut",69
+"1960-10-01 00:00:00",Canada,35799
+"1960-10-01 00:00:00","Newfoundland and Labrador",813
+"1960-10-01 00:00:00","Prince Edward Island",243
+"1960-10-01 00:00:00","Nova Scotia",1565
+"1960-10-01 00:00:00","New Brunswick",1217
+"1960-10-01 00:00:00",Quebec,9148
+"1960-10-01 00:00:00",Ontario,13299
+"1960-10-01 00:00:00",Manitoba,1921
+"1960-10-01 00:00:00",Saskatchewan,1728
+"1960-10-01 00:00:00",Alberta,2218
+"1960-10-01 00:00:00","British Columbia",3561
+"1960-10-01 00:00:00",Yukon,18
+"1960-10-01 00:00:00","Northwest Territories including Nunavut",68
+"1961-01-01 00:00:00",Canada,35912
+"1961-01-01 00:00:00","Newfoundland and Labrador",814
+"1961-01-01 00:00:00","Prince Edward Island",261
+"1961-01-01 00:00:00","Nova Scotia",1695
+"1961-01-01 00:00:00","New Brunswick",1237
+"1961-01-01 00:00:00",Quebec,9454
+"1961-01-01 00:00:00",Ontario,13127
+"1961-01-01 00:00:00",Manitoba,1738
+"1961-01-01 00:00:00",Saskatchewan,1746
+"1961-01-01 00:00:00",Alberta,2183
+"1961-01-01 00:00:00","British Columbia",3565
+"1961-01-01 00:00:00",Yukon,21
+"1961-01-01 00:00:00","Northwest Territories including Nunavut",71
+"1961-04-01 00:00:00",Canada,35642
+"1961-04-01 00:00:00","Newfoundland and Labrador",769
+"1961-04-01 00:00:00","Prince Edward Island",230
+"1961-04-01 00:00:00","Nova Scotia",1505
+"1961-04-01 00:00:00","New Brunswick",1159
+"1961-04-01 00:00:00",Quebec,9441
+"1961-04-01 00:00:00",Ontario,12865
+"1961-04-01 00:00:00",Manitoba,1965
+"1961-04-01 00:00:00",Saskatchewan,1768
+"1961-04-01 00:00:00",Alberta,2242
+"1961-04-01 00:00:00","British Columbia",3605
+"1961-04-01 00:00:00",Yukon,22
+"1961-04-01 00:00:00","Northwest Territories including Nunavut",71
+"1961-07-01 00:00:00",Canada,33553
+"1961-07-01 00:00:00","Newfoundland and Labrador",688
+"1961-07-01 00:00:00","Prince Edward Island",231
+"1961-07-01 00:00:00","Nova Scotia",1404
+"1961-07-01 00:00:00","New Brunswick",1087
+"1961-07-01 00:00:00",Quebec,8980
+"1961-07-01 00:00:00",Ontario,12017
+"1961-07-01 00:00:00",Manitoba,1760
+"1961-07-01 00:00:00",Saskatchewan,1718
+"1961-07-01 00:00:00",Alberta,2174
+"1961-07-01 00:00:00","British Columbia",3412
+"1961-07-01 00:00:00",Yukon,22
+"1961-07-01 00:00:00","Northwest Territories including Nunavut",60
+"1961-10-01 00:00:00",Canada,35878
+"1961-10-01 00:00:00","Newfoundland and Labrador",767
+"1961-10-01 00:00:00","Prince Edward Island",256
+"1961-10-01 00:00:00","Nova Scotia",1531
+"1961-10-01 00:00:00","New Brunswick",1212
+"1961-10-01 00:00:00",Quebec,9169
+"1961-10-01 00:00:00",Ontario,12988
+"1961-10-01 00:00:00",Manitoba,1906
+"1961-10-01 00:00:00",Saskatchewan,1875
+"1961-10-01 00:00:00",Alberta,2264
+"1961-10-01 00:00:00","British Columbia",3821
+"1961-10-01 00:00:00",Yukon,29
+"1961-10-01 00:00:00","Northwest Territories including Nunavut",60
+"1962-01-01 00:00:00",Canada,37534
+"1962-01-01 00:00:00","Newfoundland and Labrador",829
+"1962-01-01 00:00:00","Prince Edward Island",276
+"1962-01-01 00:00:00","Nova Scotia",1680
+"1962-01-01 00:00:00","New Brunswick",1268
+"1962-01-01 00:00:00",Quebec,9563
+"1962-01-01 00:00:00",Ontario,13771
+"1962-01-01 00:00:00",Manitoba,1988
+"1962-01-01 00:00:00",Saskatchewan,1780
+"1962-01-01 00:00:00",Alberta,2399
+"1962-01-01 00:00:00","British Columbia",3912
+"1962-01-01 00:00:00",Yukon,14
+"1962-01-01 00:00:00","Northwest Territories including Nunavut",54
+"1962-04-01 00:00:00",Canada,35955
+"1962-04-01 00:00:00","Newfoundland and Labrador",758
+"1962-04-01 00:00:00","Prince Edward Island",268
+"1962-04-01 00:00:00","Nova Scotia",1545
+"1962-04-01 00:00:00","New Brunswick",1235
+"1962-04-01 00:00:00",Quebec,9277
+"1962-04-01 00:00:00",Ontario,13081
+"1962-04-01 00:00:00",Manitoba,1804
+"1962-04-01 00:00:00",Saskatchewan,1782
+"1962-04-01 00:00:00",Alberta,2335
+"1962-04-01 00:00:00","British Columbia",3786
+"1962-04-01 00:00:00",Yukon,17
+"1962-04-01 00:00:00","Northwest Territories including Nunavut",67
+"1962-07-01 00:00:00",Canada,33970
+"1962-07-01 00:00:00","Newfoundland and Labrador",738
+"1962-07-01 00:00:00","Prince Edward Island",248
+"1962-07-01 00:00:00","Nova Scotia",1455
+"1962-07-01 00:00:00","New Brunswick",1142
+"1962-07-01 00:00:00",Quebec,8983
+"1962-07-01 00:00:00",Ontario,12062
+"1962-07-01 00:00:00",Manitoba,1790
+"1962-07-01 00:00:00",Saskatchewan,1732
+"1962-07-01 00:00:00",Alberta,2236
+"1962-07-01 00:00:00","British Columbia",3453
+"1962-07-01 00:00:00",Yukon,31
+"1962-07-01 00:00:00","Northwest Territories including Nunavut",100
+"1962-10-01 00:00:00",Canada,36240
+"1962-10-01 00:00:00","Newfoundland and Labrador",873
+"1962-10-01 00:00:00","Prince Edward Island",264
+"1962-10-01 00:00:00","Nova Scotia",1662
+"1962-10-01 00:00:00","New Brunswick",1143
+"1962-10-01 00:00:00",Quebec,9319
+"1962-10-01 00:00:00",Ontario,13242
+"1962-10-01 00:00:00",Manitoba,1871
+"1962-10-01 00:00:00",Saskatchewan,1710
+"1962-10-01 00:00:00",Alberta,2294
+"1962-10-01 00:00:00","British Columbia",3761
+"1962-10-01 00:00:00",Yukon,13
+"1962-10-01 00:00:00","Northwest Territories including Nunavut",88
+"1963-01-01 00:00:00",Canada,39054
+"1963-01-01 00:00:00","Newfoundland and Labrador",846
+"1963-01-01 00:00:00","Prince Edward Island",263
+"1963-01-01 00:00:00","Nova Scotia",1686
+"1963-01-01 00:00:00","New Brunswick",1294
+"1963-01-01 00:00:00",Quebec,10128
+"1963-01-01 00:00:00",Ontario,14528
+"1963-01-01 00:00:00",Manitoba,2169
+"1963-01-01 00:00:00",Saskatchewan,1874
+"1963-01-01 00:00:00",Alberta,2316
+"1963-01-01 00:00:00","British Columbia",3860
+"1963-01-01 00:00:00",Yukon,18
+"1963-01-01 00:00:00","Northwest Territories including Nunavut",72
+"1963-04-01 00:00:00",Canada,36763
+"1963-04-01 00:00:00","Newfoundland and Labrador",797
+"1963-04-01 00:00:00","Prince Edward Island",261
+"1963-04-01 00:00:00","Nova Scotia",1648
+"1963-04-01 00:00:00","New Brunswick",1254
+"1963-04-01 00:00:00",Quebec,9568
+"1963-04-01 00:00:00",Ontario,13159
+"1963-04-01 00:00:00",Manitoba,1950
+"1963-04-01 00:00:00",Saskatchewan,1913
+"1963-04-01 00:00:00",Alberta,2458
+"1963-04-01 00:00:00","British Columbia",3668
+"1963-04-01 00:00:00",Yukon,19
+"1963-04-01 00:00:00","Northwest Territories including Nunavut",68
+"1963-07-01 00:00:00",Canada,34670
+"1963-07-01 00:00:00","Newfoundland and Labrador",757
+"1963-07-01 00:00:00","Prince Edward Island",198
+"1963-07-01 00:00:00","Nova Scotia",1463
+"1963-07-01 00:00:00","New Brunswick",1084
+"1963-07-01 00:00:00",Quebec,9120
+"1963-07-01 00:00:00",Ontario,12494
+"1963-07-01 00:00:00",Manitoba,1841
+"1963-07-01 00:00:00",Saskatchewan,1768
+"1963-07-01 00:00:00",Alberta,2265
+"1963-07-01 00:00:00","British Columbia",3586
+"1963-07-01 00:00:00",Yukon,23
+"1963-07-01 00:00:00","Northwest Territories including Nunavut",71
+"1963-10-01 00:00:00",Canada,36880
+"1963-10-01 00:00:00","Newfoundland and Labrador",783
+"1963-10-01 00:00:00","Prince Edward Island",257
+"1963-10-01 00:00:00","Nova Scotia",1570
+"1963-10-01 00:00:00","New Brunswick",1183
+"1963-10-01 00:00:00",Quebec,9401
+"1963-10-01 00:00:00",Ontario,13436
+"1963-10-01 00:00:00",Manitoba,1968
+"1963-10-01 00:00:00",Saskatchewan,1886
+"1963-10-01 00:00:00",Alberta,2405
+"1963-10-01 00:00:00","British Columbia",3915
+"1963-10-01 00:00:00",Yukon,21
+"1963-10-01 00:00:00","Northwest Territories including Nunavut",55
+"1964-01-01 00:00:00",Canada,36724
+"1964-01-01 00:00:00","Newfoundland and Labrador",817
+"1964-01-01 00:00:00","Prince Edward Island",267
+"1964-01-01 00:00:00","Nova Scotia",1543
+"1964-01-01 00:00:00","New Brunswick",1183
+"1964-01-01 00:00:00",Quebec,9191
+"1964-01-01 00:00:00",Ontario,13097
+"1964-01-01 00:00:00",Manitoba,1886
+"1964-01-01 00:00:00",Saskatchewan,1841
+"1964-01-01 00:00:00",Alberta,2420
+"1964-01-01 00:00:00","British Columbia",4399
+"1964-01-01 00:00:00",Yukon,30
+"1964-01-01 00:00:00","Northwest Territories including Nunavut",50
+"1964-04-01 00:00:00",Canada,35845
+"1964-04-01 00:00:00","Newfoundland and Labrador",726
+"1964-04-01 00:00:00","Prince Edward Island",237
+"1964-04-01 00:00:00","Nova Scotia",1597
+"1964-04-01 00:00:00","New Brunswick",1143
+"1964-04-01 00:00:00",Quebec,9456
+"1964-04-01 00:00:00",Ontario,12850
+"1964-04-01 00:00:00",Manitoba,1928
+"1964-04-01 00:00:00",Saskatchewan,1760
+"1964-04-01 00:00:00",Alberta,2339
+"1964-04-01 00:00:00","British Columbia",3743
+"1964-04-01 00:00:00",Yukon,16
+"1964-04-01 00:00:00","Northwest Territories including Nunavut",50
+"1964-07-01 00:00:00",Canada,35550
+"1964-07-01 00:00:00","Newfoundland and Labrador",720
+"1964-07-01 00:00:00","Prince Edward Island",239
+"1964-07-01 00:00:00","Nova Scotia",1526
+"1964-07-01 00:00:00","New Brunswick",1218
+"1964-07-01 00:00:00",Quebec,9228
+"1964-07-01 00:00:00",Ontario,12639
+"1964-07-01 00:00:00",Manitoba,1914
+"1964-07-01 00:00:00",Saskatchewan,1838
+"1964-07-01 00:00:00",Alberta,2335
+"1964-07-01 00:00:00","British Columbia",3803
+"1964-07-01 00:00:00",Yukon,17
+"1964-07-01 00:00:00","Northwest Territories including Nunavut",73
+"1964-10-01 00:00:00",Canada,37731
+"1964-10-01 00:00:00","Newfoundland and Labrador",800
+"1964-10-01 00:00:00","Prince Edward Island",238
+"1964-10-01 00:00:00","Nova Scotia",1718
+"1964-10-01 00:00:00","New Brunswick",1192
+"1964-10-01 00:00:00",Quebec,9677
+"1964-10-01 00:00:00",Ontario,13618
+"1964-10-01 00:00:00",Manitoba,1993
+"1964-10-01 00:00:00",Saskatchewan,1934
+"1964-10-01 00:00:00",Alberta,2388
+"1964-10-01 00:00:00","British Columbia",4106
+"1964-10-01 00:00:00",Yukon,24
+"1964-10-01 00:00:00","Northwest Territories including Nunavut",43
+"1965-01-01 00:00:00",Canada,38200
+"1965-01-01 00:00:00","Newfoundland and Labrador",883
+"1965-01-01 00:00:00","Prince Edward Island",256
+"1965-01-01 00:00:00","Nova Scotia",1712
+"1965-01-01 00:00:00","New Brunswick",1148
+"1965-01-01 00:00:00",Quebec,9881
+"1965-01-01 00:00:00",Ontario,14144
+"1965-01-01 00:00:00",Manitoba,1896
+"1965-01-01 00:00:00",Saskatchewan,1838
+"1965-01-01 00:00:00",Alberta,2404
+"1965-01-01 00:00:00","British Columbia",3958
+"1965-01-01 00:00:00",Yukon,23
+"1965-01-01 00:00:00","Northwest Territories including Nunavut",57
+"1965-04-01 00:00:00",Canada,36530
+"1965-04-01 00:00:00","Newfoundland and Labrador",768
+"1965-04-01 00:00:00","Prince Edward Island",262
+"1965-04-01 00:00:00","Nova Scotia",1546
+"1965-04-01 00:00:00","New Brunswick",1205
+"1965-04-01 00:00:00",Quebec,9528
+"1965-04-01 00:00:00",Ontario,13330
+"1965-04-01 00:00:00",Manitoba,1888
+"1965-04-01 00:00:00",Saskatchewan,1840
+"1965-04-01 00:00:00",Alberta,2297
+"1965-04-01 00:00:00","British Columbia",3800
+"1965-04-01 00:00:00",Yukon,24
+"1965-04-01 00:00:00","Northwest Territories including Nunavut",42
+"1965-07-01 00:00:00",Canada,35926
+"1965-07-01 00:00:00","Newfoundland and Labrador",744
+"1965-07-01 00:00:00","Prince Edward Island",239
+"1965-07-01 00:00:00","Nova Scotia",1462
+"1965-07-01 00:00:00","New Brunswick",1196
+"1965-07-01 00:00:00",Quebec,9463
+"1965-07-01 00:00:00",Ontario,12742
+"1965-07-01 00:00:00",Manitoba,1925
+"1965-07-01 00:00:00",Saskatchewan,1822
+"1965-07-01 00:00:00",Alberta,2424
+"1965-07-01 00:00:00","British Columbia",3832
+"1965-07-01 00:00:00",Yukon,23
+"1965-07-01 00:00:00","Northwest Territories including Nunavut",54
+"1965-10-01 00:00:00",Canada,38283
+"1965-10-01 00:00:00","Newfoundland and Labrador",835
+"1965-10-01 00:00:00","Prince Edward Island",279
+"1965-10-01 00:00:00","Nova Scotia",1614
+"1965-10-01 00:00:00","New Brunswick",1161
+"1965-10-01 00:00:00",Quebec,9662
+"1965-10-01 00:00:00",Ontario,14130
+"1965-10-01 00:00:00",Manitoba,2007
+"1965-10-01 00:00:00",Saskatchewan,1917
+"1965-10-01 00:00:00",Alberta,2409
+"1965-10-01 00:00:00","British Columbia",4194
+"1965-10-01 00:00:00",Yukon,30
+"1965-10-01 00:00:00","Northwest Territories including Nunavut",45
+"1966-01-01 00:00:00",Canada,38189
+"1966-01-01 00:00:00","Newfoundland and Labrador",818
+"1966-01-01 00:00:00","Prince Edward Island",271
+"1966-01-01 00:00:00","Nova Scotia",1632
+"1966-01-01 00:00:00","New Brunswick",1164
+"1966-01-01 00:00:00",Quebec,9715
+"1966-01-01 00:00:00",Ontario,13550
+"1966-01-01 00:00:00",Manitoba,2106
+"1966-01-01 00:00:00",Saskatchewan,1882
+"1966-01-01 00:00:00",Alberta,2566
+"1966-01-01 00:00:00","British Columbia",4422
+"1966-01-01 00:00:00",Yukon,21
+"1966-01-01 00:00:00","Northwest Territories including Nunavut",42
+"1966-04-01 00:00:00",Canada,38463
+"1966-04-01 00:00:00","Newfoundland and Labrador",743
+"1966-04-01 00:00:00","Prince Edward Island",278
+"1966-04-01 00:00:00","Nova Scotia",1633
+"1966-04-01 00:00:00","New Brunswick",1211
+"1966-04-01 00:00:00",Quebec,9900
+"1966-04-01 00:00:00",Ontario,14348
+"1966-04-01 00:00:00",Manitoba,1972
+"1966-04-01 00:00:00",Saskatchewan,1846
+"1966-04-01 00:00:00",Alberta,2433
+"1966-04-01 00:00:00","British Columbia",4012
+"1966-04-01 00:00:00",Yukon,23
+"1966-04-01 00:00:00","Northwest Territories including Nunavut",64
+"1966-07-01 00:00:00",Canada,35675
+"1966-07-01 00:00:00","Newfoundland and Labrador",792
+"1966-07-01 00:00:00","Prince Edward Island",245
+"1966-07-01 00:00:00","Nova Scotia",1564
+"1966-07-01 00:00:00","New Brunswick",1155
+"1966-07-01 00:00:00",Quebec,9374
+"1966-07-01 00:00:00",Ontario,12738
+"1966-07-01 00:00:00",Manitoba,1927
+"1966-07-01 00:00:00",Saskatchewan,1785
+"1966-07-01 00:00:00",Alberta,2259
+"1966-07-01 00:00:00","British Columbia",3752
+"1966-07-01 00:00:00",Yukon,25
+"1966-07-01 00:00:00","Northwest Territories including Nunavut",59
+"1966-10-01 00:00:00",Canada,37536
+"1966-10-01 00:00:00","Newfoundland and Labrador",719
+"1966-10-01 00:00:00","Prince Edward Island",254
+"1966-10-01 00:00:00","Nova Scotia",1649
+"1966-10-01 00:00:00","New Brunswick",1241
+"1966-10-01 00:00:00",Quebec,9691
+"1966-10-01 00:00:00",Ontario,13535
+"1966-10-01 00:00:00",Manitoba,1933
+"1966-10-01 00:00:00",Saskatchewan,1914
+"1966-10-01 00:00:00",Alberta,2419
+"1966-10-01 00:00:00","British Columbia",4104
+"1966-10-01 00:00:00",Yukon,13
+"1966-10-01 00:00:00","Northwest Territories including Nunavut",64
+"1967-01-01 00:00:00",Canada,37305
+"1967-01-01 00:00:00","Newfoundland and Labrador",782
+"1967-01-01 00:00:00","Prince Edward Island",235
+"1967-01-01 00:00:00","Nova Scotia",1665
+"1967-01-01 00:00:00","New Brunswick",1236
+"1967-01-01 00:00:00",Quebec,9646
+"1967-01-01 00:00:00",Ontario,13605
+"1967-01-01 00:00:00",Manitoba,1973
+"1967-01-01 00:00:00",Saskatchewan,1738
+"1967-01-01 00:00:00",Alberta,2332
+"1967-01-01 00:00:00","British Columbia",4012
+"1967-01-01 00:00:00",Yukon,25
+"1967-01-01 00:00:00","Northwest Territories including Nunavut",56
+"1967-04-01 00:00:00",Canada,37343
+"1967-04-01 00:00:00","Newfoundland and Labrador",725
+"1967-04-01 00:00:00","Prince Edward Island",275
+"1967-04-01 00:00:00","Nova Scotia",1694
+"1967-04-01 00:00:00","New Brunswick",1172
+"1967-04-01 00:00:00",Quebec,9723
+"1967-04-01 00:00:00",Ontario,13611
+"1967-04-01 00:00:00",Manitoba,1872
+"1967-04-01 00:00:00",Saskatchewan,1835
+"1967-04-01 00:00:00",Alberta,2379
+"1967-04-01 00:00:00","British Columbia",3997
+"1967-04-01 00:00:00",Yukon,15
+"1967-04-01 00:00:00","Northwest Territories including Nunavut",45
+"1967-07-01 00:00:00",Canada,36809
+"1967-07-01 00:00:00","Newfoundland and Labrador",783
+"1967-07-01 00:00:00","Prince Edward Island",255
+"1967-07-01 00:00:00","Nova Scotia",1576
+"1967-07-01 00:00:00","New Brunswick",1280
+"1967-07-01 00:00:00",Quebec,9612
+"1967-07-01 00:00:00",Ontario,13169
+"1967-07-01 00:00:00",Manitoba,1848
+"1967-07-01 00:00:00",Saskatchewan,1912
+"1967-07-01 00:00:00",Alberta,2391
+"1967-07-01 00:00:00","British Columbia",3902
+"1967-07-01 00:00:00",Yukon,16
+"1967-07-01 00:00:00","Northwest Territories including Nunavut",65
+"1967-10-01 00:00:00",Canada,38826
+"1967-10-01 00:00:00","Newfoundland and Labrador",827
+"1967-10-01 00:00:00","Prince Edward Island",273
+"1967-10-01 00:00:00","Nova Scotia",1703
+"1967-10-01 00:00:00","New Brunswick",1206
+"1967-10-01 00:00:00",Quebec,9684
+"1967-10-01 00:00:00",Ontario,14493
+"1967-10-01 00:00:00",Manitoba,1936
+"1967-10-01 00:00:00",Saskatchewan,1956
+"1967-10-01 00:00:00",Alberta,2421
+"1967-10-01 00:00:00","British Columbia",4259
+"1967-10-01 00:00:00",Yukon,17
+"1967-10-01 00:00:00","Northwest Territories including Nunavut",51
+"1968-01-01 00:00:00",Canada,40802
+"1968-01-01 00:00:00","Newfoundland and Labrador",838
+"1968-01-01 00:00:00","Prince Edward Island",264
+"1968-01-01 00:00:00","Nova Scotia",1837
+"1968-01-01 00:00:00","New Brunswick",1308
+"1968-01-01 00:00:00",Quebec,10770
+"1968-01-01 00:00:00",Ontario,14848
+"1968-01-01 00:00:00",Manitoba,2092
+"1968-01-01 00:00:00",Saskatchewan,1885
+"1968-01-01 00:00:00",Alberta,2514
+"1968-01-01 00:00:00","British Columbia",4364
+"1968-01-01 00:00:00",Yukon,18
+"1968-01-01 00:00:00","Northwest Territories including Nunavut",64
+"1968-04-01 00:00:00",Canada,37435
+"1968-04-01 00:00:00","Newfoundland and Labrador",737
+"1968-04-01 00:00:00","Prince Edward Island",232
+"1968-04-01 00:00:00","Nova Scotia",1602
+"1968-04-01 00:00:00","New Brunswick",1192
+"1968-04-01 00:00:00",Quebec,9704
+"1968-04-01 00:00:00",Ontario,13440
+"1968-04-01 00:00:00",Manitoba,1986
+"1968-04-01 00:00:00",Saskatchewan,1907
+"1968-04-01 00:00:00",Alberta,2438
+"1968-04-01 00:00:00","British Columbia",4130
+"1968-04-01 00:00:00",Yukon,20
+"1968-04-01 00:00:00","Northwest Territories including Nunavut",47
+"1968-07-01 00:00:00",Canada,36729
+"1968-07-01 00:00:00","Newfoundland and Labrador",758
+"1968-07-01 00:00:00","Prince Edward Island",253
+"1968-07-01 00:00:00","Nova Scotia",1505
+"1968-07-01 00:00:00","New Brunswick",1215
+"1968-07-01 00:00:00",Quebec,9454
+"1968-07-01 00:00:00",Ontario,13332
+"1968-07-01 00:00:00",Manitoba,1911
+"1968-07-01 00:00:00",Saskatchewan,1847
+"1968-07-01 00:00:00",Alberta,2381
+"1968-07-01 00:00:00","British Columbia",3992
+"1968-07-01 00:00:00",Yukon,21
+"1968-07-01 00:00:00","Northwest Territories including Nunavut",60
+"1968-10-01 00:00:00",Canada,38230
+"1968-10-01 00:00:00","Newfoundland and Labrador",790
+"1968-10-01 00:00:00","Prince Edward Island",241
+"1968-10-01 00:00:00","Nova Scotia",1666
+"1968-10-01 00:00:00","New Brunswick",1190
+"1968-10-01 00:00:00",Quebec,9609
+"1968-10-01 00:00:00",Ontario,13932
+"1968-10-01 00:00:00",Manitoba,1889
+"1968-10-01 00:00:00",Saskatchewan,1859
+"1968-10-01 00:00:00",Alberta,2630
+"1968-10-01 00:00:00","British Columbia",4342
+"1968-10-01 00:00:00",Yukon,25
+"1968-10-01 00:00:00","Northwest Territories including Nunavut",57
+"1969-01-01 00:00:00",Canada,40175
+"1969-01-01 00:00:00","Newfoundland and Labrador",743
+"1969-01-01 00:00:00","Prince Edward Island",256
+"1969-01-01 00:00:00","Nova Scotia",1745
+"1969-01-01 00:00:00","New Brunswick",1208
+"1969-01-01 00:00:00",Quebec,10167
+"1969-01-01 00:00:00",Ontario,14499
+"1969-01-01 00:00:00",Manitoba,2153
+"1969-01-01 00:00:00",Saskatchewan,1961
+"1969-01-01 00:00:00",Alberta,2551
+"1969-01-01 00:00:00","British Columbia",4814
+"1969-01-01 00:00:00",Yukon,18
+"1969-01-01 00:00:00","Northwest Territories including Nunavut",60
+"1969-04-01 00:00:00",Canada,38164
+"1969-04-01 00:00:00","Newfoundland and Labrador",765
+"1969-04-01 00:00:00","Prince Edward Island",256
+"1969-04-01 00:00:00","Nova Scotia",1653
+"1969-04-01 00:00:00","New Brunswick",1234
+"1969-04-01 00:00:00",Quebec,10018
+"1969-04-01 00:00:00",Ontario,13638
+"1969-04-01 00:00:00",Manitoba,1920
+"1969-04-01 00:00:00",Saskatchewan,1870
+"1969-04-01 00:00:00",Alberta,2500
+"1969-04-01 00:00:00","British Columbia",4251
+"1969-04-01 00:00:00",Yukon,22
+"1969-04-01 00:00:00","Northwest Territories including Nunavut",37
+"1969-07-01 00:00:00",Canada,37290
+"1969-07-01 00:00:00","Newfoundland and Labrador",743
+"1969-07-01 00:00:00","Prince Edward Island",249
+"1969-07-01 00:00:00","Nova Scotia",1559
+"1969-07-01 00:00:00","New Brunswick",1223
+"1969-07-01 00:00:00",Quebec,9720
+"1969-07-01 00:00:00",Ontario,13418
+"1969-07-01 00:00:00",Manitoba,1928
+"1969-07-01 00:00:00",Saskatchewan,1861
+"1969-07-01 00:00:00",Alberta,2402
+"1969-07-01 00:00:00","British Columbia",4093
+"1969-07-01 00:00:00",Yukon,38
+"1969-07-01 00:00:00","Northwest Territories including Nunavut",56
+"1969-10-01 00:00:00",Canada,38848
+"1969-10-01 00:00:00","Newfoundland and Labrador",754
+"1969-10-01 00:00:00","Prince Edward Island",246
+"1969-10-01 00:00:00","Nova Scotia",1706
+"1969-10-01 00:00:00","New Brunswick",1184
+"1969-10-01 00:00:00",Quebec,10198
+"1969-10-01 00:00:00",Ontario,14152
+"1969-10-01 00:00:00",Manitoba,2039
+"1969-10-01 00:00:00",Saskatchewan,1800
+"1969-10-01 00:00:00",Alberta,2468
+"1969-10-01 00:00:00","British Columbia",4219
+"1969-10-01 00:00:00",Yukon,17
+"1969-10-01 00:00:00","Northwest Territories including Nunavut",65
+"1970-01-01 00:00:00",Canada,41197
+"1970-01-01 00:00:00","Newfoundland and Labrador",869
+"1970-01-01 00:00:00","Prince Edward Island",247
+"1970-01-01 00:00:00","Nova Scotia",1694
+"1970-01-01 00:00:00","New Brunswick",1302
+"1970-01-01 00:00:00",Quebec,10552
+"1970-01-01 00:00:00",Ontario,15333
+"1970-01-01 00:00:00",Manitoba,2097
+"1970-01-01 00:00:00",Saskatchewan,1989
+"1970-01-01 00:00:00",Alberta,2546
+"1970-01-01 00:00:00","British Columbia",4469
+"1970-01-01 00:00:00",Yukon,34
+"1970-01-01 00:00:00","Northwest Territories including Nunavut",65
+"1970-04-01 00:00:00",Canada,37790
+"1970-04-01 00:00:00","Newfoundland and Labrador",786
+"1970-04-01 00:00:00","Prince Edward Island",262
+"1970-04-01 00:00:00","Nova Scotia",1615
+"1970-04-01 00:00:00","New Brunswick",1153
+"1970-04-01 00:00:00",Quebec,9933
+"1970-04-01 00:00:00",Ontario,13512
+"1970-04-01 00:00:00",Manitoba,1922
+"1970-04-01 00:00:00",Saskatchewan,1828
+"1970-04-01 00:00:00",Alberta,2566
+"1970-04-01 00:00:00","British Columbia",4121
+"1970-04-01 00:00:00",Yukon,27
+"1970-04-01 00:00:00","Northwest Territories including Nunavut",65
+"1970-07-01 00:00:00",Canada,37729
+"1970-07-01 00:00:00","Newfoundland and Labrador",799
+"1970-07-01 00:00:00","Prince Edward Island",260
+"1970-07-01 00:00:00","Nova Scotia",1647
+"1970-07-01 00:00:00","New Brunswick",1198
+"1970-07-01 00:00:00",Quebec,10017
+"1970-07-01 00:00:00",Ontario,13424
+"1970-07-01 00:00:00",Manitoba,1879
+"1970-07-01 00:00:00",Saskatchewan,1796
+"1970-07-01 00:00:00",Alberta,2502
+"1970-07-01 00:00:00","British Columbia",4114
+"1970-07-01 00:00:00",Yukon,23
+"1970-07-01 00:00:00","Northwest Territories including Nunavut",70
+"1970-10-01 00:00:00",Canada,39245
+"1970-10-01 00:00:00","Newfoundland and Labrador",840
+"1970-10-01 00:00:00","Prince Edward Island",246
+"1970-10-01 00:00:00","Nova Scotia",1767
+"1970-10-01 00:00:00","New Brunswick",1292
+"1970-10-01 00:00:00",Quebec,9890
+"1970-10-01 00:00:00",Ontario,14500
+"1970-10-01 00:00:00",Manitoba,1958
+"1970-10-01 00:00:00",Saskatchewan,1859
+"1970-10-01 00:00:00",Alberta,2498
+"1970-10-01 00:00:00","British Columbia",4316
+"1970-10-01 00:00:00",Yukon,25
+"1970-10-01 00:00:00","Northwest Territories including Nunavut",54
+"1971-01-01 00:00:00",Canada,40731
+"1971-01-01 00:00:00","Newfoundland and Labrador",867
+"1971-01-01 00:00:00","Prince Edward Island",277
+"1971-01-01 00:00:00","Nova Scotia",1731
+"1971-01-01 00:00:00","New Brunswick",1258
+"1971-01-01 00:00:00",Quebec,10543
+"1971-01-01 00:00:00",Ontario,14957
+"1971-01-01 00:00:00",Manitoba,2103
+"1971-01-01 00:00:00",Saskatchewan,1837
+"1971-01-01 00:00:00",Alberta,2698
+"1971-01-01 00:00:00","British Columbia",4368
+"1971-01-01 00:00:00",Yukon,34
+"1971-01-01 00:00:00","Northwest Territories including Nunavut",58
+"1971-04-01 00:00:00",Canada,38527
+"1971-04-01 00:00:00","Newfoundland and Labrador",738
+"1971-04-01 00:00:00","Prince Edward Island",245
+"1971-04-01 00:00:00","Nova Scotia",1635
+"1971-04-01 00:00:00","New Brunswick",1217
+"1971-04-01 00:00:00",Quebec,10123
+"1971-04-01 00:00:00",Ontario,13641
+"1971-04-01 00:00:00",Manitoba,1949
+"1971-04-01 00:00:00",Saskatchewan,1823
+"1971-04-01 00:00:00",Alberta,2506
+"1971-04-01 00:00:00","British Columbia",4588
+"1971-04-01 00:00:00",Yukon,22
+"1971-04-01 00:00:00","Northwest Territories including Nunavut",40
+"1971-07-01 00:00:00",Canada,37697
+"1971-07-01 00:00:00","Newfoundland and Labrador",766
+"1971-07-01 00:00:00","Prince Edward Island",244
+"1971-07-01 00:00:00","Nova Scotia",1566
+"1971-07-01 00:00:00","New Brunswick",1154
+"1971-07-01 00:00:00",Quebec,9802
+"1971-07-01 00:00:00",Ontario,13505
+"1971-07-01 00:00:00",Manitoba,1924
+"1971-07-01 00:00:00",Saskatchewan,1841
+"1971-07-01 00:00:00",Alberta,2555
+"1971-07-01 00:00:00","British Columbia",4235
+"1971-07-01 00:00:00",Yukon,33
+"1971-07-01 00:00:00","Northwest Territories including Nunavut",72
+"1971-10-01 00:00:00",Canada,40317
+"1971-10-01 00:00:00","Newfoundland and Labrador",828
+"1971-10-01 00:00:00","Prince Edward Island",241
+"1971-10-01 00:00:00","Nova Scotia",1750
+"1971-10-01 00:00:00","New Brunswick",1314
+"1971-10-01 00:00:00",Quebec,10270
+"1971-10-01 00:00:00",Ontario,14520
+"1971-10-01 00:00:00",Manitoba,2049
+"1971-10-01 00:00:00",Saskatchewan,1912
+"1971-10-01 00:00:00",Alberta,2766
+"1971-10-01 00:00:00","British Columbia",4592
+"1971-10-01 00:00:00",Yukon,15
+"1971-10-01 00:00:00","Northwest Territories including Nunavut",60
+"1972-01-01 00:00:00",Canada,42608
+"1972-01-01 00:00:00","Newfoundland and Labrador",904
+"1972-01-01 00:00:00","Prince Edward Island",296
+"1972-01-01 00:00:00","Nova Scotia",1844
+"1972-01-01 00:00:00","New Brunswick",1355
+"1972-01-01 00:00:00",Quebec,11220
+"1972-01-01 00:00:00",Ontario,15344
+"1972-01-01 00:00:00",Manitoba,2091
+"1972-01-01 00:00:00",Saskatchewan,2030
+"1972-01-01 00:00:00",Alberta,2827
+"1972-01-01 00:00:00","British Columbia",4613
+"1972-01-01 00:00:00",Yukon,27
+"1972-01-01 00:00:00","Northwest Territories including Nunavut",57
+"1972-04-01 00:00:00",Canada,38911
+"1972-04-01 00:00:00","Newfoundland and Labrador",771
+"1972-04-01 00:00:00","Prince Edward Island",229
+"1972-04-01 00:00:00","Nova Scotia",1638
+"1972-04-01 00:00:00","New Brunswick",1177
+"1972-04-01 00:00:00",Quebec,10060
+"1972-04-01 00:00:00",Ontario,14202
+"1972-04-01 00:00:00",Manitoba,1958
+"1972-04-01 00:00:00",Saskatchewan,1780
+"1972-04-01 00:00:00",Alberta,2638
+"1972-04-01 00:00:00","British Columbia",4358
+"1972-04-01 00:00:00",Yukon,29
+"1972-04-01 00:00:00","Northwest Territories including Nunavut",71
+"1972-07-01 00:00:00",Canada,39488
+"1972-07-01 00:00:00","Newfoundland and Labrador",814
+"1972-07-01 00:00:00","Prince Edward Island",242
+"1972-07-01 00:00:00","Nova Scotia",1689
+"1972-07-01 00:00:00","New Brunswick",1203
+"1972-07-01 00:00:00",Quebec,10403
+"1972-07-01 00:00:00",Ontario,14211
+"1972-07-01 00:00:00",Manitoba,2075
+"1972-07-01 00:00:00",Saskatchewan,1883
+"1972-07-01 00:00:00",Alberta,2568
+"1972-07-01 00:00:00","British Columbia",4294
+"1972-07-01 00:00:00",Yukon,29
+"1972-07-01 00:00:00","Northwest Territories including Nunavut",77
+"1972-10-01 00:00:00",Canada,41406
+"1972-10-01 00:00:00","Newfoundland and Labrador",860
+"1972-10-01 00:00:00","Prince Edward Island",285
+"1972-10-01 00:00:00","Nova Scotia",1733
+"1972-10-01 00:00:00","New Brunswick",1247
+"1972-10-01 00:00:00",Quebec,10628
+"1972-10-01 00:00:00",Ontario,15148
+"1972-10-01 00:00:00",Manitoba,2101
+"1972-10-01 00:00:00",Saskatchewan,1897
+"1972-10-01 00:00:00",Alberta,2666
+"1972-10-01 00:00:00","British Columbia",4756
+"1972-10-01 00:00:00",Yukon,18
+"1972-10-01 00:00:00","Northwest Territories including Nunavut",67
+"1973-01-01 00:00:00",Canada,42222
+"1973-01-01 00:00:00","Newfoundland and Labrador",872
+"1973-01-01 00:00:00","Prince Edward Island",267
+"1973-01-01 00:00:00","Nova Scotia",1757
+"1973-01-01 00:00:00","New Brunswick",1362
+"1973-01-01 00:00:00",Quebec,11055
+"1973-01-01 00:00:00",Ontario,15396
+"1973-01-01 00:00:00",Manitoba,2083
+"1973-01-01 00:00:00",Saskatchewan,1955
+"1973-01-01 00:00:00",Alberta,2808
+"1973-01-01 00:00:00","British Columbia",4583
+"1973-01-01 00:00:00",Yukon,20
+"1973-01-01 00:00:00","Northwest Territories including Nunavut",64
+"1973-04-01 00:00:00",Canada,39502
+"1973-04-01 00:00:00","Newfoundland and Labrador",854
+"1973-04-01 00:00:00","Prince Edward Island",219
+"1973-04-01 00:00:00","Nova Scotia",1718
+"1973-04-01 00:00:00","New Brunswick",1211
+"1973-04-01 00:00:00",Quebec,10315
+"1973-04-01 00:00:00",Ontario,14278
+"1973-04-01 00:00:00",Manitoba,1977
+"1973-04-01 00:00:00",Saskatchewan,1856
+"1973-04-01 00:00:00",Alberta,2708
+"1973-04-01 00:00:00","British Columbia",4288
+"1973-04-01 00:00:00",Yukon,26
+"1973-04-01 00:00:00","Northwest Territories including Nunavut",52
+"1973-07-01 00:00:00",Canada,41077
+"1973-07-01 00:00:00","Newfoundland and Labrador",797
+"1973-07-01 00:00:00","Prince Edward Island",275
+"1973-07-01 00:00:00","Nova Scotia",1673
+"1973-07-01 00:00:00","New Brunswick",1230
+"1973-07-01 00:00:00",Quebec,10757
+"1973-07-01 00:00:00",Ontario,15186
+"1973-07-01 00:00:00",Manitoba,2057
+"1973-07-01 00:00:00",Saskatchewan,1893
+"1973-07-01 00:00:00",Alberta,2609
+"1973-07-01 00:00:00","British Columbia",4489
+"1973-07-01 00:00:00",Yukon,37
+"1973-07-01 00:00:00","Northwest Territories including Nunavut",74
+"1973-10-01 00:00:00",Canada,41238
+"1973-10-01 00:00:00","Newfoundland and Labrador",882
+"1973-10-01 00:00:00","Prince Edward Island",259
+"1973-10-01 00:00:00","Nova Scotia",1780
+"1973-10-01 00:00:00","New Brunswick",1281
+"1973-10-01 00:00:00",Quebec,10539
+"1973-10-01 00:00:00",Ontario,15016
+"1973-10-01 00:00:00",Manitoba,2079
+"1973-10-01 00:00:00",Saskatchewan,1942
+"1973-10-01 00:00:00",Alberta,2638
+"1973-10-01 00:00:00","British Columbia",4735
+"1973-10-01 00:00:00",Yukon,28
+"1973-10-01 00:00:00","Northwest Territories including Nunavut",59
+"1974-01-01 00:00:00",Canada,41885
+"1974-01-01 00:00:00","Newfoundland and Labrador",815
+"1974-01-01 00:00:00","Prince Edward Island",251
+"1974-01-01 00:00:00","Nova Scotia",1722
+"1974-01-01 00:00:00","New Brunswick",1269
+"1974-01-01 00:00:00",Quebec,10837
+"1974-01-01 00:00:00",Ontario,15252
+"1974-01-01 00:00:00",Manitoba,2231
+"1974-01-01 00:00:00",Saskatchewan,1966
+"1974-01-01 00:00:00",Alberta,2728
+"1974-01-01 00:00:00","British Columbia",4737
+"1974-01-01 00:00:00",Yukon,27
+"1974-01-01 00:00:00","Northwest Territories including Nunavut",50
+"1974-04-01 00:00:00",Canada,42084
+"1974-04-01 00:00:00","Newfoundland and Labrador",868
+"1974-04-01 00:00:00","Prince Edward Island",288
+"1974-04-01 00:00:00","Nova Scotia",1847
+"1974-04-01 00:00:00","New Brunswick",1365
+"1974-04-01 00:00:00",Quebec,10813
+"1974-04-01 00:00:00",Ontario,14922
+"1974-04-01 00:00:00",Manitoba,2044
+"1974-04-01 00:00:00",Saskatchewan,2005
+"1974-04-01 00:00:00",Alberta,2970
+"1974-04-01 00:00:00","British Columbia",4869
+"1974-04-01 00:00:00",Yukon,38
+"1974-04-01 00:00:00","Northwest Territories including Nunavut",55
+"1974-07-01 00:00:00",Canada,40445
+"1974-07-01 00:00:00","Newfoundland and Labrador",811
+"1974-07-01 00:00:00","Prince Edward Island",258
+"1974-07-01 00:00:00","Nova Scotia",1667
+"1974-07-01 00:00:00","New Brunswick",1228
+"1974-07-01 00:00:00",Quebec,10541
+"1974-07-01 00:00:00",Ontario,14443
+"1974-07-01 00:00:00",Manitoba,2021
+"1974-07-01 00:00:00",Saskatchewan,1951
+"1974-07-01 00:00:00",Alberta,2691
+"1974-07-01 00:00:00","British Columbia",4754
+"1974-07-01 00:00:00",Yukon,28
+"1974-07-01 00:00:00","Northwest Territories including Nunavut",52
+"1974-10-01 00:00:00",Canada,42380
+"1974-10-01 00:00:00","Newfoundland and Labrador",792
+"1974-10-01 00:00:00","Prince Edward Island",291
+"1974-10-01 00:00:00","Nova Scotia",1663
+"1974-10-01 00:00:00","New Brunswick",1343
+"1974-10-01 00:00:00",Quebec,10576
+"1974-10-01 00:00:00",Ontario,15939
+"1974-10-01 00:00:00",Manitoba,2134
+"1974-10-01 00:00:00",Saskatchewan,1892
+"1974-10-01 00:00:00",Alberta,2863
+"1974-10-01 00:00:00","British Columbia",4817
+"1974-10-01 00:00:00",Yukon,21
+"1974-10-01 00:00:00","Northwest Territories including Nunavut",49
+"1975-01-01 00:00:00",Canada,45680
+"1975-01-01 00:00:00","Newfoundland and Labrador",868
+"1975-01-01 00:00:00","Prince Edward Island",317
+"1975-01-01 00:00:00","Nova Scotia",1767
+"1975-01-01 00:00:00","New Brunswick",1399
+"1975-01-01 00:00:00",Quebec,12454
+"1975-01-01 00:00:00",Ontario,16419
+"1975-01-01 00:00:00",Manitoba,2182
+"1975-01-01 00:00:00",Saskatchewan,2000
+"1975-01-01 00:00:00",Alberta,3066
+"1975-01-01 00:00:00","British Columbia",5125
+"1975-01-01 00:00:00",Yukon,27
+"1975-01-01 00:00:00","Northwest Territories including Nunavut",56
+"1975-04-01 00:00:00",Canada,40246
+"1975-04-01 00:00:00","Newfoundland and Labrador",766
+"1975-04-01 00:00:00","Prince Edward Island",234
+"1975-04-01 00:00:00","Nova Scotia",1679
+"1975-04-01 00:00:00","New Brunswick",1196
+"1975-04-01 00:00:00",Quebec,10545
+"1975-04-01 00:00:00",Ontario,14431
+"1975-04-01 00:00:00",Manitoba,2057
+"1975-04-01 00:00:00",Saskatchewan,1838
+"1975-04-01 00:00:00",Alberta,2692
+"1975-04-01 00:00:00","British Columbia",4725
+"1975-04-01 00:00:00",Yukon,29
+"1975-04-01 00:00:00","Northwest Territories including Nunavut",54
+"1975-07-01 00:00:00",Canada,40230
+"1975-07-01 00:00:00","Newfoundland and Labrador",795
+"1975-07-01 00:00:00","Prince Edward Island",248
+"1975-07-01 00:00:00","Nova Scotia",1653
+"1975-07-01 00:00:00","New Brunswick",1250
+"1975-07-01 00:00:00",Quebec,10345
+"1975-07-01 00:00:00",Ontario,14588
+"1975-07-01 00:00:00",Manitoba,2150
+"1975-07-01 00:00:00",Saskatchewan,1864
+"1975-07-01 00:00:00",Alberta,2725
+"1975-07-01 00:00:00","British Columbia",4540
+"1975-07-01 00:00:00",Yukon,24
+"1975-07-01 00:00:00","Northwest Territories including Nunavut",48
+"1975-10-01 00:00:00",Canada,41020
+"1975-10-01 00:00:00","Newfoundland and Labrador",790
+"1975-10-01 00:00:00","Prince Edward Island",258
+"1975-10-01 00:00:00","Nova Scotia",1700
+"1975-10-01 00:00:00","New Brunswick",1305
+"1975-10-01 00:00:00",Quebec,10070
+"1975-10-01 00:00:00",Ontario,15166
+"1975-10-01 00:00:00",Manitoba,1996
+"1975-10-01 00:00:00",Saskatchewan,1970
+"1975-10-01 00:00:00",Alberta,2914
+"1975-10-01 00:00:00","British Columbia",4761
+"1975-10-01 00:00:00",Yukon,32
+"1975-10-01 00:00:00","Northwest Territories including Nunavut",58
+"1976-01-01 00:00:00",Canada,45033
+"1976-01-01 00:00:00","Newfoundland and Labrador",902
+"1976-01-01 00:00:00","Prince Edward Island",285
+"1976-01-01 00:00:00","Nova Scotia",1788
+"1976-01-01 00:00:00","New Brunswick",1361
+"1976-01-01 00:00:00",Quebec,11722
+"1976-01-01 00:00:00",Ontario,16340
+"1976-01-01 00:00:00",Manitoba,2146
+"1976-01-01 00:00:00",Saskatchewan,2086
+"1976-01-01 00:00:00",Alberta,3027
+"1976-01-01 00:00:00","British Columbia",5283
+"1976-01-01 00:00:00",Yukon,33
+"1976-01-01 00:00:00","Northwest Territories including Nunavut",60
+"1976-04-01 00:00:00",Canada,40145
+"1976-04-01 00:00:00","Newfoundland and Labrador",773
+"1976-04-01 00:00:00","Prince Edward Island",271
+"1976-04-01 00:00:00","Nova Scotia",1751
+"1976-04-01 00:00:00","New Brunswick",1307
+"1976-04-01 00:00:00",Quebec,10332
+"1976-04-01 00:00:00",Ontario,14488
+"1976-04-01 00:00:00",Manitoba,1959
+"1976-04-01 00:00:00",Saskatchewan,1845
+"1976-04-01 00:00:00",Alberta,2833
+"1976-04-01 00:00:00","British Columbia",4496
+"1976-04-01 00:00:00",Yukon,25
+"1976-04-01 00:00:00","Northwest Territories including Nunavut",65
+"1976-07-01 00:00:00",Canada,39596
+"1976-07-01 00:00:00","Newfoundland and Labrador",814
+"1976-07-01 00:00:00","Prince Edward Island",271
+"1976-07-01 00:00:00","Nova Scotia",1603
+"1976-07-01 00:00:00","New Brunswick",1186
+"1976-07-01 00:00:00",Quebec,10052
+"1976-07-01 00:00:00",Ontario,14513
+"1976-07-01 00:00:00",Manitoba,1996
+"1976-07-01 00:00:00",Saskatchewan,1846
+"1976-07-01 00:00:00",Alberta,2785
+"1976-07-01 00:00:00","British Columbia",4460
+"1976-07-01 00:00:00",Yukon,29
+"1976-07-01 00:00:00","Northwest Territories including Nunavut",41
+"1976-10-01 00:00:00",Canada,42235
+"1976-10-01 00:00:00","Newfoundland and Labrador",834
+"1976-10-01 00:00:00","Prince Edward Island",268
+"1976-10-01 00:00:00","Nova Scotia",1813
+"1976-10-01 00:00:00","New Brunswick",1348
+"1976-10-01 00:00:00",Quebec,10905
+"1976-10-01 00:00:00",Ontario,15304
+"1976-10-01 00:00:00",Manitoba,2161
+"1976-10-01 00:00:00",Saskatchewan,2032
+"1976-10-01 00:00:00",Alberta,2939
+"1976-10-01 00:00:00","British Columbia",4549
+"1976-10-01 00:00:00",Yukon,36
+"1976-10-01 00:00:00","Northwest Territories including Nunavut",46
+"1977-01-01 00:00:00",Canada,42383
+"1977-01-01 00:00:00","Newfoundland and Labrador",787
+"1977-01-01 00:00:00","Prince Edward Island",267
+"1977-01-01 00:00:00","Nova Scotia",1802
+"1977-01-01 00:00:00","New Brunswick",1292
+"1977-01-01 00:00:00",Quebec,11306
+"1977-01-01 00:00:00",Ontario,15393
+"1977-01-01 00:00:00",Manitoba,1942
+"1977-01-01 00:00:00",Saskatchewan,1932
+"1977-01-01 00:00:00",Alberta,2885
+"1977-01-01 00:00:00","British Columbia",4711
+"1977-01-01 00:00:00",Yukon,18
+"1977-01-01 00:00:00","Northwest Territories including Nunavut",48
+"1977-04-01 00:00:00",Canada,41533
+"1977-04-01 00:00:00","Newfoundland and Labrador",757
+"1977-04-01 00:00:00","Prince Edward Island",271
+"1977-04-01 00:00:00","Nova Scotia",1857
+"1977-04-01 00:00:00","New Brunswick",1334
+"1977-04-01 00:00:00",Quebec,10752
+"1977-04-01 00:00:00",Ontario,15016
+"1977-04-01 00:00:00",Manitoba,2106
+"1977-04-01 00:00:00",Saskatchewan,2020
+"1977-04-01 00:00:00",Alberta,2852
+"1977-04-01 00:00:00","British Columbia",4487
+"1977-04-01 00:00:00",Yukon,27
+"1977-04-01 00:00:00","Northwest Territories including Nunavut",54
+"1977-07-01 00:00:00",Canada,40064
+"1977-07-01 00:00:00","Newfoundland and Labrador",779
+"1977-07-01 00:00:00","Prince Edward Island",254
+"1977-07-01 00:00:00","Nova Scotia",1615
+"1977-07-01 00:00:00","New Brunswick",1256
+"1977-07-01 00:00:00",Quebec,10399
+"1977-07-01 00:00:00",Ontario,14632
+"1977-07-01 00:00:00",Manitoba,1940
+"1977-07-01 00:00:00",Saskatchewan,1695
+"1977-07-01 00:00:00",Alberta,2869
+"1977-07-01 00:00:00","British Columbia",4545
+"1977-07-01 00:00:00",Yukon,34
+"1977-07-01 00:00:00","Northwest Territories including Nunavut",46
+"1977-10-01 00:00:00",Canada,43518
+"1977-10-01 00:00:00","Newfoundland and Labrador",815
+"1977-10-01 00:00:00","Prince Edward Island",254
+"1977-10-01 00:00:00","Nova Scotia",1689
+"1977-10-01 00:00:00","New Brunswick",1303
+"1977-10-01 00:00:00",Quebec,11002
+"1977-10-01 00:00:00",Ontario,16384
+"1977-10-01 00:00:00",Manitoba,2190
+"1977-10-01 00:00:00",Saskatchewan,1947
+"1977-10-01 00:00:00",Alberta,3003
+"1977-10-01 00:00:00","British Columbia",4853
+"1977-10-01 00:00:00",Yukon,26
+"1977-10-01 00:00:00","Northwest Territories including Nunavut",52
+"1978-01-01 00:00:00",Canada,44779
+"1978-01-01 00:00:00","Newfoundland and Labrador",772
+"1978-01-01 00:00:00","Prince Edward Island",274
+"1978-01-01 00:00:00","Nova Scotia",1793
+"1978-01-01 00:00:00","New Brunswick",1391
+"1978-01-01 00:00:00",Quebec,11877
+"1978-01-01 00:00:00",Ontario,16328
+"1978-01-01 00:00:00",Manitoba,2135
+"1978-01-01 00:00:00",Saskatchewan,2120
+"1978-01-01 00:00:00",Alberta,3067
+"1978-01-01 00:00:00","British Columbia",4957
+"1978-01-01 00:00:00",Yukon,18
+"1978-01-01 00:00:00","Northwest Territories including Nunavut",47
+"1978-04-01 00:00:00",Canada,40669
+"1978-04-01 00:00:00","Newfoundland and Labrador",773
+"1978-04-01 00:00:00","Prince Edward Island",237
+"1978-04-01 00:00:00","Nova Scotia",1668
+"1978-04-01 00:00:00","New Brunswick",1239
+"1978-04-01 00:00:00",Quebec,10504
+"1978-04-01 00:00:00",Ontario,14784
+"1978-04-01 00:00:00",Manitoba,1968
+"1978-04-01 00:00:00",Saskatchewan,1895
+"1978-04-01 00:00:00",Alberta,2968
+"1978-04-01 00:00:00","British Columbia",4562
+"1978-04-01 00:00:00",Yukon,19
+"1978-04-01 00:00:00","Northwest Territories including Nunavut",52
+"1978-07-01 00:00:00",Canada,40302
+"1978-07-01 00:00:00","Newfoundland and Labrador",795
+"1978-07-01 00:00:00","Prince Edward Island",228
+"1978-07-01 00:00:00","Nova Scotia",1663
+"1978-07-01 00:00:00","New Brunswick",1202
+"1978-07-01 00:00:00",Quebec,10447
+"1978-07-01 00:00:00",Ontario,14511
+"1978-07-01 00:00:00",Manitoba,2055
+"1978-07-01 00:00:00",Saskatchewan,1836
+"1978-07-01 00:00:00",Alberta,2882
+"1978-07-01 00:00:00","British Columbia",4592
+"1978-07-01 00:00:00",Yukon,32
+"1978-07-01 00:00:00","Northwest Territories including Nunavut",59
+"1978-10-01 00:00:00",Canada,42429
+"1978-10-01 00:00:00","Newfoundland and Labrador",775
+"1978-10-01 00:00:00","Prince Edward Island",255
+"1978-10-01 00:00:00","Nova Scotia",1753
+"1978-10-01 00:00:00","New Brunswick",1351
+"1978-10-01 00:00:00",Quebec,10724
+"1978-10-01 00:00:00",Ontario,15493
+"1978-10-01 00:00:00",Manitoba,2139
+"1978-10-01 00:00:00",Saskatchewan,1898
+"1978-10-01 00:00:00",Alberta,3027
+"1978-10-01 00:00:00","British Columbia",4947
+"1978-10-01 00:00:00",Yukon,20
+"1978-10-01 00:00:00","Northwest Territories including Nunavut",47
+"1979-01-01 00:00:00",Canada,42251
+"1979-01-01 00:00:00","Newfoundland and Labrador",764
+"1979-01-01 00:00:00","Prince Edward Island",261
+"1979-01-01 00:00:00","Nova Scotia",1767
+"1979-01-01 00:00:00","New Brunswick",1327
+"1979-01-01 00:00:00",Quebec,10933
+"1979-01-01 00:00:00",Ontario,15259
+"1979-01-01 00:00:00",Manitoba,2058
+"1979-01-01 00:00:00",Saskatchewan,1790
+"1979-01-01 00:00:00",Alberta,3084
+"1979-01-01 00:00:00","British Columbia",4909
+"1979-01-01 00:00:00",Yukon,42
+"1979-01-01 00:00:00","Northwest Territories including Nunavut",57
+"1979-04-01 00:00:00",Canada,40823
+"1979-04-01 00:00:00","Newfoundland and Labrador",810
+"1979-04-01 00:00:00","Prince Edward Island",222
+"1979-04-01 00:00:00","Nova Scotia",1685
+"1979-04-01 00:00:00","New Brunswick",1237
+"1979-04-01 00:00:00",Quebec,10415
+"1979-04-01 00:00:00",Ontario,14985
+"1979-04-01 00:00:00",Manitoba,2009
+"1979-04-01 00:00:00",Saskatchewan,1794
+"1979-04-01 00:00:00",Alberta,2945
+"1979-04-01 00:00:00","British Columbia",4653
+"1979-04-01 00:00:00",Yukon,25
+"1979-04-01 00:00:00","Northwest Territories including Nunavut",43
+"1979-07-01 00:00:00",Canada,41432
+"1979-07-01 00:00:00","Newfoundland and Labrador",748
+"1979-07-01 00:00:00","Prince Edward Island",254
+"1979-07-01 00:00:00","Nova Scotia",1603
+"1979-07-01 00:00:00","New Brunswick",1306
+"1979-07-01 00:00:00",Quebec,10829
+"1979-07-01 00:00:00",Ontario,15058
+"1979-07-01 00:00:00",Manitoba,2020
+"1979-07-01 00:00:00",Saskatchewan,1866
+"1979-07-01 00:00:00",Alberta,3015
+"1979-07-01 00:00:00","British Columbia",4640
+"1979-07-01 00:00:00",Yukon,36
+"1979-07-01 00:00:00","Northwest Territories including Nunavut",57
+"1979-10-01 00:00:00",Canada,43677
+"1979-10-01 00:00:00","Newfoundland and Labrador",814
+"1979-10-01 00:00:00","Prince Edward Island",285
+"1979-10-01 00:00:00","Nova Scotia",1788
+"1979-10-01 00:00:00","New Brunswick",1302
+"1979-10-01 00:00:00",Quebec,11134
+"1979-10-01 00:00:00",Ontario,16166
+"1979-10-01 00:00:00",Manitoba,2130
+"1979-10-01 00:00:00",Saskatchewan,1919
+"1979-10-01 00:00:00",Alberta,3065
+"1979-10-01 00:00:00","British Columbia",5002
+"1979-10-01 00:00:00",Yukon,24
+"1979-10-01 00:00:00","Northwest Territories including Nunavut",48
+"1980-01-01 00:00:00",Canada,44839
+"1980-01-01 00:00:00","Newfoundland and Labrador",895
+"1980-01-01 00:00:00","Prince Edward Island",274
+"1980-01-01 00:00:00","Nova Scotia",1842
+"1980-01-01 00:00:00","New Brunswick",1418
+"1980-01-01 00:00:00",Quebec,11576
+"1980-01-01 00:00:00",Ontario,16663
+"1980-01-01 00:00:00",Manitoba,2100
+"1980-01-01 00:00:00",Saskatchewan,1897
+"1980-01-01 00:00:00",Alberta,3187
+"1980-01-01 00:00:00","British Columbia",4896
+"1980-01-01 00:00:00",Yukon,35
+"1980-01-01 00:00:00","Northwest Territories including Nunavut",56
+"1980-04-01 00:00:00",Canada,41512
+"1980-04-01 00:00:00","Newfoundland and Labrador",828
+"1980-04-01 00:00:00","Prince Edward Island",252
+"1980-04-01 00:00:00","Nova Scotia",1704
+"1980-04-01 00:00:00","New Brunswick",1253
+"1980-04-01 00:00:00",Quebec,10600
+"1980-04-01 00:00:00",Ontario,14950
+"1980-04-01 00:00:00",Manitoba,2138
+"1980-04-01 00:00:00",Saskatchewan,1960
+"1980-04-01 00:00:00",Alberta,3042
+"1980-04-01 00:00:00","British Columbia",4699
+"1980-04-01 00:00:00",Yukon,33
+"1980-04-01 00:00:00","Northwest Territories including Nunavut",53
+"1980-07-01 00:00:00",Canada,41154
+"1980-07-01 00:00:00","Newfoundland and Labrador",781
+"1980-07-01 00:00:00","Prince Edward Island",232
+"1980-07-01 00:00:00","Nova Scotia",1719
+"1980-07-01 00:00:00","New Brunswick",1264
+"1980-07-01 00:00:00",Quebec,10285
+"1980-07-01 00:00:00",Ontario,14950
+"1980-07-01 00:00:00",Manitoba,2033
+"1980-07-01 00:00:00",Saskatchewan,1908
+"1980-07-01 00:00:00",Alberta,3170
+"1980-07-01 00:00:00","British Columbia",4704
+"1980-07-01 00:00:00",Yukon,35
+"1980-07-01 00:00:00","Northwest Territories including Nunavut",73
+"1980-10-01 00:00:00",Canada,43968
+"1980-10-01 00:00:00","Newfoundland and Labrador",841
+"1980-10-01 00:00:00","Prince Edward Island",277
+"1980-10-01 00:00:00","Nova Scotia",1739
+"1980-10-01 00:00:00","New Brunswick",1362
+"1980-10-01 00:00:00",Quebec,11051
+"1980-10-01 00:00:00",Ontario,16183
+"1980-10-01 00:00:00",Manitoba,2165
+"1980-10-01 00:00:00",Saskatchewan,1886
+"1980-10-01 00:00:00",Alberta,3311
+"1980-10-01 00:00:00","British Columbia",5072
+"1980-10-01 00:00:00",Yukon,25
+"1980-10-01 00:00:00","Northwest Territories including Nunavut",56
+"1981-01-01 00:00:00",Canada,43651
+"1981-01-01 00:00:00","Newfoundland and Labrador",777
+"1981-01-01 00:00:00","Prince Edward Island",278
+"1981-01-01 00:00:00","Nova Scotia",1859
+"1981-01-01 00:00:00","New Brunswick",1310
+"1981-01-01 00:00:00",Quebec,10895
+"1981-01-01 00:00:00",Ontario,16314
+"1981-01-01 00:00:00",Manitoba,2096
+"1981-01-01 00:00:00",Saskatchewan,1854
+"1981-01-01 00:00:00",Alberta,3148
+"1981-01-01 00:00:00","British Columbia",5055
+"1981-01-01 00:00:00",Yukon,21
+"1981-01-01 00:00:00","Northwest Territories including Nunavut",44
+"1981-04-01 00:00:00",Canada,41762
+"1981-04-01 00:00:00","Newfoundland and Labrador",833
+"1981-04-01 00:00:00","Prince Edward Island",215
+"1981-04-01 00:00:00","Nova Scotia",1689
+"1981-04-01 00:00:00","New Brunswick",1205
+"1981-04-01 00:00:00",Quebec,10537
+"1981-04-01 00:00:00",Ontario,15247
+"1981-04-01 00:00:00",Manitoba,2068
+"1981-04-01 00:00:00",Saskatchewan,1866
+"1981-04-01 00:00:00",Alberta,3122
+"1981-04-01 00:00:00","British Columbia",4898
+"1981-04-01 00:00:00",Yukon,36
+"1981-04-01 00:00:00","Northwest Territories including Nunavut",46
+"1981-07-01 00:00:00",Canada,41624
+"1981-07-01 00:00:00","Newfoundland and Labrador",793
+"1981-07-01 00:00:00","Prince Edward Island",232
+"1981-07-01 00:00:00","Nova Scotia",1663
+"1981-07-01 00:00:00","New Brunswick",1236
+"1981-07-01 00:00:00",Quebec,10444
+"1981-07-01 00:00:00",Ontario,15105
+"1981-07-01 00:00:00",Manitoba,2228
+"1981-07-01 00:00:00",Saskatchewan,1850
+"1981-07-01 00:00:00",Alberta,3138
+"1981-07-01 00:00:00","British Columbia",4841
+"1981-07-01 00:00:00",Yukon,47
+"1981-07-01 00:00:00","Northwest Territories including Nunavut",47
+"1981-10-01 00:00:00",Canada,43992
+"1981-10-01 00:00:00","Newfoundland and Labrador",827
+"1981-10-01 00:00:00","Prince Edward Island",267
+"1981-10-01 00:00:00","Nova Scotia",1747
+"1981-10-01 00:00:00","New Brunswick",1388
+"1981-10-01 00:00:00",Quebec,10808
+"1981-10-01 00:00:00",Ontario,16172
+"1981-10-01 00:00:00",Manitoba,2256
+"1981-10-01 00:00:00",Saskatchewan,1953
+"1981-10-01 00:00:00",Alberta,3415
+"1981-10-01 00:00:00","British Columbia",5063
+"1981-10-01 00:00:00",Yukon,37
+"1981-10-01 00:00:00","Northwest Territories including Nunavut",59
+"1982-01-01 00:00:00",Canada,43955
+"1982-01-01 00:00:00","Newfoundland and Labrador",888
+"1982-01-01 00:00:00","Prince Edward Island",245
+"1982-01-01 00:00:00","Nova Scotia",1771
+"1982-01-01 00:00:00","New Brunswick",1218
+"1982-01-01 00:00:00",Quebec,11009
+"1982-01-01 00:00:00",Ontario,16146
+"1982-01-01 00:00:00",Manitoba,2153
+"1982-01-01 00:00:00",Saskatchewan,2025
+"1982-01-01 00:00:00",Alberta,3233
+"1982-01-01 00:00:00","British Columbia",5181
+"1982-01-01 00:00:00",Yukon,27
+"1982-01-01 00:00:00","Northwest Territories including Nunavut",59
+"1982-04-01 00:00:00",Canada,42781
+"1982-04-01 00:00:00","Newfoundland and Labrador",814
+"1982-04-01 00:00:00","Prince Edward Island",263
+"1982-04-01 00:00:00","Nova Scotia",1742
+"1982-04-01 00:00:00","New Brunswick",1309
+"1982-04-01 00:00:00",Quebec,10603
+"1982-04-01 00:00:00",Ontario,15524
+"1982-04-01 00:00:00",Manitoba,2142
+"1982-04-01 00:00:00",Saskatchewan,1994
+"1982-04-01 00:00:00",Alberta,3216
+"1982-04-01 00:00:00","British Columbia",5080
+"1982-04-01 00:00:00",Yukon,30
+"1982-04-01 00:00:00","Northwest Territories including Nunavut",64
+"1982-07-01 00:00:00",Canada,42045
+"1982-07-01 00:00:00","Newfoundland and Labrador",772
+"1982-07-01 00:00:00","Prince Edward Island",248
+"1982-07-01 00:00:00","Nova Scotia",1673
+"1982-07-01 00:00:00","New Brunswick",1266
+"1982-07-01 00:00:00",Quebec,10645
+"1982-07-01 00:00:00",Ontario,15536
+"1982-07-01 00:00:00",Manitoba,2029
+"1982-07-01 00:00:00",Saskatchewan,1881
+"1982-07-01 00:00:00",Alberta,3069
+"1982-07-01 00:00:00","British Columbia",4825
+"1982-07-01 00:00:00",Yukon,32
+"1982-07-01 00:00:00","Northwest Territories including Nunavut",69
+"1982-10-01 00:00:00",Canada,45632
+"1982-10-01 00:00:00","Newfoundland and Labrador",911
+"1982-10-01 00:00:00","Prince Edward Island",224
+"1982-10-01 00:00:00","Nova Scotia",1755
+"1982-10-01 00:00:00","New Brunswick",1404
+"1982-10-01 00:00:00",Quebec,11240
+"1982-10-01 00:00:00",Ontario,16490
+"1982-10-01 00:00:00",Manitoba,2166
+"1982-10-01 00:00:00",Saskatchewan,2302
+"1982-10-01 00:00:00",Alberta,3450
+"1982-10-01 00:00:00","British Columbia",5621
+"1982-10-01 00:00:00",Yukon,29
+"1982-10-01 00:00:00","Northwest Territories including Nunavut",40
+"1983-01-01 00:00:00",Canada,45676
+"1983-01-01 00:00:00","Newfoundland and Labrador",944
+"1983-01-01 00:00:00","Prince Edward Island",257
+"1983-01-01 00:00:00","Nova Scotia",1926
+"1983-01-01 00:00:00","New Brunswick",1430
+"1983-01-01 00:00:00",Quebec,12060
+"1983-01-01 00:00:00",Ontario,16675
+"1983-01-01 00:00:00",Manitoba,2220
+"1983-01-01 00:00:00",Saskatchewan,1915
+"1983-01-01 00:00:00",Alberta,3273
+"1983-01-01 00:00:00","British Columbia",4907
+"1983-01-01 00:00:00",Yukon,24
+"1983-01-01 00:00:00","Northwest Territories including Nunavut",45
+"1983-04-01 00:00:00",Canada,43169
+"1983-04-01 00:00:00","Newfoundland and Labrador",838
+"1983-04-01 00:00:00","Prince Edward Island",282
+"1983-04-01 00:00:00","Nova Scotia",1731
+"1983-04-01 00:00:00","New Brunswick",1256
+"1983-04-01 00:00:00",Quebec,10998
+"1983-04-01 00:00:00",Ontario,16194
+"1983-04-01 00:00:00",Manitoba,2021
+"1983-04-01 00:00:00",Saskatchewan,1871
+"1983-04-01 00:00:00",Alberta,2954
+"1983-04-01 00:00:00","British Columbia",4924
+"1983-04-01 00:00:00",Yukon,32
+"1983-04-01 00:00:00","Northwest Territories including Nunavut",68
+"1983-07-01 00:00:00",Canada,41397
+"1983-07-01 00:00:00","Newfoundland and Labrador",822
+"1983-07-01 00:00:00","Prince Edward Island",267
+"1983-07-01 00:00:00","Nova Scotia",1655
+"1983-07-01 00:00:00","New Brunswick",1195
+"1983-07-01 00:00:00",Quebec,10120
+"1983-07-01 00:00:00",Ontario,15261
+"1983-07-01 00:00:00",Manitoba,2118
+"1983-07-01 00:00:00",Saskatchewan,1957
+"1983-07-01 00:00:00",Alberta,3121
+"1983-07-01 00:00:00","British Columbia",4781
+"1983-07-01 00:00:00",Yukon,23
+"1983-07-01 00:00:00","Northwest Territories including Nunavut",77
+"1983-10-01 00:00:00",Canada,44242
+"1983-10-01 00:00:00","Newfoundland and Labrador",894
+"1983-10-01 00:00:00","Prince Edward Island",244
+"1983-10-01 00:00:00","Nova Scotia",1735
+"1983-10-01 00:00:00","New Brunswick",1325
+"1983-10-01 00:00:00",Quebec,11097
+"1983-10-01 00:00:00",Ontario,16377
+"1983-10-01 00:00:00",Manitoba,2162
+"1983-10-01 00:00:00",Saskatchewan,1868
+"1983-10-01 00:00:00",Alberta,3240
+"1983-10-01 00:00:00","British Columbia",5215
+"1983-10-01 00:00:00",Yukon,34
+"1983-10-01 00:00:00","Northwest Territories including Nunavut",51
+"1984-01-01 00:00:00",Canada,44855
+"1984-01-01 00:00:00","Newfoundland and Labrador",887
+"1984-01-01 00:00:00","Prince Edward Island",317
+"1984-01-01 00:00:00","Nova Scotia",1919
+"1984-01-01 00:00:00","New Brunswick",1330
+"1984-01-01 00:00:00",Quebec,11366
+"1984-01-01 00:00:00",Ontario,16368
+"1984-01-01 00:00:00",Manitoba,2104
+"1984-01-01 00:00:00",Saskatchewan,1892
+"1984-01-01 00:00:00",Alberta,3222
+"1984-01-01 00:00:00","British Columbia",5377
+"1984-01-01 00:00:00",Yukon,25
+"1984-01-01 00:00:00","Northwest Territories including Nunavut",48
+"1984-04-01 00:00:00",Canada,43665
+"1984-04-01 00:00:00","Newfoundland and Labrador",945
+"1984-04-01 00:00:00","Prince Edward Island",278
+"1984-04-01 00:00:00","Nova Scotia",1746
+"1984-04-01 00:00:00","New Brunswick",1319
+"1984-04-01 00:00:00",Quebec,11047
+"1984-04-01 00:00:00",Ontario,16052
+"1984-04-01 00:00:00",Manitoba,2058
+"1984-04-01 00:00:00",Saskatchewan,1958
+"1984-04-01 00:00:00",Alberta,3155
+"1984-04-01 00:00:00","British Columbia",5019
+"1984-04-01 00:00:00",Yukon,23
+"1984-04-01 00:00:00","Northwest Territories including Nunavut",65
+"1984-07-01 00:00:00",Canada,42473
+"1984-07-01 00:00:00","Newfoundland and Labrador",874
+"1984-07-01 00:00:00","Prince Edward Island",238
+"1984-07-01 00:00:00","Nova Scotia",1567
+"1984-07-01 00:00:00","New Brunswick",1297
+"1984-07-01 00:00:00",Quebec,10802
+"1984-07-01 00:00:00",Ontario,15531
+"1984-07-01 00:00:00",Manitoba,2048
+"1984-07-01 00:00:00",Saskatchewan,1944
+"1984-07-01 00:00:00",Alberta,3110
+"1984-07-01 00:00:00","British Columbia",4969
+"1984-07-01 00:00:00",Yukon,29
+"1984-07-01 00:00:00","Northwest Territories including Nunavut",64
+"1984-10-01 00:00:00",Canada,44734
+"1984-10-01 00:00:00","Newfoundland and Labrador",814
+"1984-10-01 00:00:00","Prince Edward Island",276
+"1984-10-01 00:00:00","Nova Scotia",1681
+"1984-10-01 00:00:00","New Brunswick",1326
+"1984-10-01 00:00:00",Quebec,11234
+"1984-10-01 00:00:00",Ontario,16752
+"1984-10-01 00:00:00",Manitoba,2080
+"1984-10-01 00:00:00",Saskatchewan,1916
+"1984-10-01 00:00:00",Alberta,3243
+"1984-10-01 00:00:00","British Columbia",5321
+"1984-10-01 00:00:00",Yukon,31
+"1984-10-01 00:00:00","Northwest Territories including Nunavut",60
+"1985-01-01 00:00:00",Canada,47473
+"1985-01-01 00:00:00","Newfoundland and Labrador",874
+"1985-01-01 00:00:00","Prince Edward Island",297
+"1985-01-01 00:00:00","Nova Scotia",1892
+"1985-01-01 00:00:00","New Brunswick",1349
+"1985-01-01 00:00:00",Quebec,12204
+"1985-01-01 00:00:00",Ontario,17943
+"1985-01-01 00:00:00",Manitoba,2178
+"1985-01-01 00:00:00",Saskatchewan,1911
+"1985-01-01 00:00:00",Alberta,3320
+"1985-01-01 00:00:00","British Columbia",5415
+"1985-01-01 00:00:00",Yukon,29
+"1985-01-01 00:00:00","Northwest Territories including Nunavut",61
+"1985-04-01 00:00:00",Canada,44405
+"1985-04-01 00:00:00","Newfoundland and Labrador",916
+"1985-04-01 00:00:00","Prince Edward Island",279
+"1985-04-01 00:00:00","Nova Scotia",1848
+"1985-04-01 00:00:00","New Brunswick",1316
+"1985-04-01 00:00:00",Quebec,11122
+"1985-04-01 00:00:00",Ontario,16210
+"1985-04-01 00:00:00",Manitoba,2165
+"1985-04-01 00:00:00",Saskatchewan,2101
+"1985-04-01 00:00:00",Alberta,3269
+"1985-04-01 00:00:00","British Columbia",5099
+"1985-04-01 00:00:00",Yukon,35
+"1985-04-01 00:00:00","Northwest Territories including Nunavut",45
+"1985-07-01 00:00:00",Canada,42895
+"1985-07-01 00:00:00","Newfoundland and Labrador",897
+"1985-07-01 00:00:00","Prince Edward Island",246
+"1985-07-01 00:00:00","Nova Scotia",1667
+"1985-07-01 00:00:00","New Brunswick",1254
+"1985-07-01 00:00:00",Quebec,11002
+"1985-07-01 00:00:00",Ontario,15475
+"1985-07-01 00:00:00",Manitoba,2177
+"1985-07-01 00:00:00",Saskatchewan,1887
+"1985-07-01 00:00:00",Alberta,3153
+"1985-07-01 00:00:00","British Columbia",5056
+"1985-07-01 00:00:00",Yukon,28
+"1985-07-01 00:00:00","Northwest Territories including Nunavut",53
+"1985-10-01 00:00:00",Canada,46550
+"1985-10-01 00:00:00","Newfoundland and Labrador",870
+"1985-10-01 00:00:00","Prince Edward Island",288
+"1985-10-01 00:00:00","Nova Scotia",1908
+"1985-10-01 00:00:00","New Brunswick",1311
+"1985-10-01 00:00:00",Quebec,11379
+"1985-10-01 00:00:00",Ontario,17119
+"1985-10-01 00:00:00",Manitoba,2236
+"1985-10-01 00:00:00",Saskatchewan,2132
+"1985-10-01 00:00:00",Alberta,3489
+"1985-10-01 00:00:00","British Columbia",5732
+"1985-10-01 00:00:00",Yukon,31
+"1985-10-01 00:00:00","Northwest Territories including Nunavut",55
+"1986-01-01 00:00:00",Canada,49461
+"1986-01-01 00:00:00","Newfoundland and Labrador",869
+"1986-01-01 00:00:00","Prince Edward Island",293
+"1986-01-01 00:00:00","Nova Scotia",1894
+"1986-01-01 00:00:00","New Brunswick",1502
+"1986-01-01 00:00:00",Quebec,13030
+"1986-01-01 00:00:00",Ontario,18349
+"1986-01-01 00:00:00",Manitoba,2324
+"1986-01-01 00:00:00",Saskatchewan,2161
+"1986-01-01 00:00:00",Alberta,3471
+"1986-01-01 00:00:00","British Columbia",5485
+"1986-01-01 00:00:00",Yukon,21
+"1986-01-01 00:00:00","Northwest Territories including Nunavut",62
+"1986-04-01 00:00:00",Canada,44447
+"1986-04-01 00:00:00","Newfoundland and Labrador",939
+"1986-04-01 00:00:00","Prince Edward Island",264
+"1986-04-01 00:00:00","Nova Scotia",1801
+"1986-04-01 00:00:00","New Brunswick",1327
+"1986-04-01 00:00:00",Quebec,11143
+"1986-04-01 00:00:00",Ontario,16206
+"1986-04-01 00:00:00",Manitoba,2170
+"1986-04-01 00:00:00",Saskatchewan,1948
+"1986-04-01 00:00:00",Alberta,3381
+"1986-04-01 00:00:00","British Columbia",5171
+"1986-04-01 00:00:00",Yukon,29
+"1986-04-01 00:00:00","Northwest Territories including Nunavut",68
+"1986-07-01 00:00:00",Canada,43679
+"1986-07-01 00:00:00","Newfoundland and Labrador",814
+"1986-07-01 00:00:00","Prince Edward Island",297
+"1986-07-01 00:00:00","Nova Scotia",1733
+"1986-07-01 00:00:00","New Brunswick",1288
+"1986-07-01 00:00:00",Quebec,11070
+"1986-07-01 00:00:00",Ontario,15937
+"1986-07-01 00:00:00",Manitoba,2169
+"1986-07-01 00:00:00",Saskatchewan,1907
+"1986-07-01 00:00:00",Alberta,3255
+"1986-07-01 00:00:00","British Columbia",5120
+"1986-07-01 00:00:00",Yukon,34
+"1986-07-01 00:00:00","Northwest Territories including Nunavut",55
+"1986-10-01 00:00:00",Canada,46637
+"1986-10-01 00:00:00","Newfoundland and Labrador",918
+"1986-10-01 00:00:00","Prince Edward Island",267
+"1986-10-01 00:00:00","Nova Scotia",1827
+"1986-10-01 00:00:00","New Brunswick",1341
+"1986-10-01 00:00:00",Quebec,11649
+"1986-10-01 00:00:00",Ontario,17373
+"1986-10-01 00:00:00",Manitoba,2248
+"1986-10-01 00:00:00",Saskatchewan,2045
+"1986-10-01 00:00:00",Alberta,3453
+"1986-10-01 00:00:00","British Columbia",5437
+"1986-10-01 00:00:00",Yukon,29
+"1986-10-01 00:00:00","Northwest Territories including Nunavut",50
+"1987-01-01 00:00:00",Canada,46987
+"1987-01-01 00:00:00","Newfoundland and Labrador",961
+"1987-01-01 00:00:00","Prince Edward Island",292
+"1987-01-01 00:00:00","Nova Scotia",1916
+"1987-01-01 00:00:00","New Brunswick",1350
+"1987-01-01 00:00:00",Quebec,12165
+"1987-01-01 00:00:00",Ontario,17437
+"1987-01-01 00:00:00",Manitoba,2154
+"1987-01-01 00:00:00",Saskatchewan,1962
+"1987-01-01 00:00:00",Alberta,3283
+"1987-01-01 00:00:00","British Columbia",5392
+"1987-01-01 00:00:00",Yukon,29
+"1987-01-01 00:00:00","Northwest Territories including Nunavut",46
+"1987-04-01 00:00:00",Canada,45296
+"1987-04-01 00:00:00","Newfoundland and Labrador",885
+"1987-04-01 00:00:00","Prince Edward Island",273
+"1987-04-01 00:00:00","Nova Scotia",1742
+"1987-04-01 00:00:00","New Brunswick",1363
+"1987-04-01 00:00:00",Quebec,11505
+"1987-04-01 00:00:00",Ontario,16643
+"1987-04-01 00:00:00",Manitoba,2183
+"1987-04-01 00:00:00",Saskatchewan,1948
+"1987-04-01 00:00:00",Alberta,3347
+"1987-04-01 00:00:00","British Columbia",5338
+"1987-04-01 00:00:00",Yukon,16
+"1987-04-01 00:00:00","Northwest Territories including Nunavut",53
+"1987-07-01 00:00:00",Canada,45426
+"1987-07-01 00:00:00","Newfoundland and Labrador",885
+"1987-07-01 00:00:00","Prince Edward Island",268
+"1987-07-01 00:00:00","Nova Scotia",1641
+"1987-07-01 00:00:00","New Brunswick",1271
+"1987-07-01 00:00:00",Quebec,11870
+"1987-07-01 00:00:00",Ontario,16686
+"1987-07-01 00:00:00",Manitoba,2126
+"1987-07-01 00:00:00",Saskatchewan,1956
+"1987-07-01 00:00:00",Alberta,3282
+"1987-07-01 00:00:00","British Columbia",5364
+"1987-07-01 00:00:00",Yukon,29
+"1987-07-01 00:00:00","Northwest Territories including Nunavut",48
+"1987-10-01 00:00:00",Canada,47244
+"1987-10-01 00:00:00","Newfoundland and Labrador",898
+"1987-10-01 00:00:00","Prince Edward Island",283
+"1987-10-01 00:00:00","Nova Scotia",1813
+"1987-10-01 00:00:00","New Brunswick",1424
+"1987-10-01 00:00:00",Quebec,12076
+"1987-10-01 00:00:00",Ontario,17353
+"1987-10-01 00:00:00",Manitoba,2247
+"1987-10-01 00:00:00",Saskatchewan,1942
+"1987-10-01 00:00:00",Alberta,3404
+"1987-10-01 00:00:00","British Columbia",5720
+"1987-10-01 00:00:00",Yukon,34
+"1987-10-01 00:00:00","Northwest Territories including Nunavut",50
+"1988-01-01 00:00:00",Canada,50833
+"1988-01-01 00:00:00","Newfoundland and Labrador",955
+"1988-01-01 00:00:00","Prince Edward Island",294
+"1988-01-01 00:00:00","Nova Scotia",1893
+"1988-01-01 00:00:00","New Brunswick",1387
+"1988-01-01 00:00:00",Quebec,12879
+"1988-01-01 00:00:00",Ontario,19037
+"1988-01-01 00:00:00",Manitoba,2434
+"1988-01-01 00:00:00",Saskatchewan,2157
+"1988-01-01 00:00:00",Alberta,3674
+"1988-01-01 00:00:00","British Columbia",6038
+"1988-01-01 00:00:00",Yukon,34
+"1988-01-01 00:00:00","Northwest Territories including Nunavut",51
+"1988-04-01 00:00:00",Canada,46414
+"1988-04-01 00:00:00","Newfoundland and Labrador",874
+"1988-04-01 00:00:00","Prince Edward Island",267
+"1988-04-01 00:00:00","Nova Scotia",1843
+"1988-04-01 00:00:00","New Brunswick",1390
+"1988-04-01 00:00:00",Quebec,11580
+"1988-04-01 00:00:00",Ontario,17156
+"1988-04-01 00:00:00",Manitoba,2259
+"1988-04-01 00:00:00",Saskatchewan,2024
+"1988-04-01 00:00:00",Alberta,3379
+"1988-04-01 00:00:00","British Columbia",5543
+"1988-04-01 00:00:00",Yukon,38
+"1988-04-01 00:00:00","Northwest Territories including Nunavut",61
+"1988-07-01 00:00:00",Canada,45503
+"1988-07-01 00:00:00","Newfoundland and Labrador",867
+"1988-07-01 00:00:00","Prince Edward Island",254
+"1988-07-01 00:00:00","Nova Scotia",1799
+"1988-07-01 00:00:00","New Brunswick",1287
+"1988-07-01 00:00:00",Quebec,11532
+"1988-07-01 00:00:00",Ontario,17058
+"1988-07-01 00:00:00",Manitoba,2100
+"1988-07-01 00:00:00",Saskatchewan,1904
+"1988-07-01 00:00:00",Alberta,3296
+"1988-07-01 00:00:00","British Columbia",5319
+"1988-07-01 00:00:00",Yukon,33
+"1988-07-01 00:00:00","Northwest Territories including Nunavut",54
+"1988-10-01 00:00:00",Canada,47261
+"1988-10-01 00:00:00","Newfoundland and Labrador",895
+"1988-10-01 00:00:00","Prince Edward Island",297
+"1988-10-01 00:00:00","Nova Scotia",1877
+"1988-10-01 00:00:00","New Brunswick",1386
+"1988-10-01 00:00:00",Quebec,11780
+"1988-10-01 00:00:00",Ontario,17428
+"1988-10-01 00:00:00",Manitoba,2307
+"1988-10-01 00:00:00",Saskatchewan,2015
+"1988-10-01 00:00:00",Alberta,3545
+"1988-10-01 00:00:00","British Columbia",5646
+"1988-10-01 00:00:00",Yukon,31
+"1988-10-01 00:00:00","Northwest Territories including Nunavut",54
+"1989-01-01 00:00:00",Canada,49096
+"1989-01-01 00:00:00","Newfoundland and Labrador",905
+"1989-01-01 00:00:00","Prince Edward Island",251
+"1989-01-01 00:00:00","Nova Scotia",1974
+"1989-01-01 00:00:00","New Brunswick",1478
+"1989-01-01 00:00:00",Quebec,12718
+"1989-01-01 00:00:00",Ontario,18027
+"1989-01-01 00:00:00",Manitoba,2210
+"1989-01-01 00:00:00",Saskatchewan,1991
+"1989-01-01 00:00:00",Alberta,3452
+"1989-01-01 00:00:00","British Columbia",5999
+"1989-01-01 00:00:00",Yukon,25
+"1989-01-01 00:00:00","Northwest Territories including Nunavut",66
+"1989-04-01 00:00:00",Canada,46548
+"1989-04-01 00:00:00","Newfoundland and Labrador",944
+"1989-04-01 00:00:00","Prince Edward Island",283
+"1989-04-01 00:00:00","Nova Scotia",1806
+"1989-04-01 00:00:00","New Brunswick",1315
+"1989-04-01 00:00:00",Quebec,11859
+"1989-04-01 00:00:00",Ontario,17144
+"1989-04-01 00:00:00",Manitoba,2162
+"1989-04-01 00:00:00",Saskatchewan,1965
+"1989-04-01 00:00:00",Alberta,3394
+"1989-04-01 00:00:00","British Columbia",5595
+"1989-04-01 00:00:00",Yukon,19
+"1989-04-01 00:00:00","Northwest Territories including Nunavut",62
+"1989-07-01 00:00:00",Canada,45320
+"1989-07-01 00:00:00","Newfoundland and Labrador",867
+"1989-07-01 00:00:00","Prince Edward Island",258
+"1989-07-01 00:00:00","Nova Scotia",1695
+"1989-07-01 00:00:00","New Brunswick",1284
+"1989-07-01 00:00:00",Quebec,11383
+"1989-07-01 00:00:00",Ontario,16920
+"1989-07-01 00:00:00",Manitoba,2104
+"1989-07-01 00:00:00",Saskatchewan,1906
+"1989-07-01 00:00:00",Alberta,3335
+"1989-07-01 00:00:00","British Columbia",5475
+"1989-07-01 00:00:00",Yukon,31
+"1989-07-01 00:00:00","Northwest Territories including Nunavut",62
+"1989-10-01 00:00:00",Canada,50001
+"1989-10-01 00:00:00","Newfoundland and Labrador",1002
+"1989-10-01 00:00:00","Prince Edward Island",297
+"1989-10-01 00:00:00","Nova Scotia",2041
+"1989-10-01 00:00:00","New Brunswick",1419
+"1989-10-01 00:00:00",Quebec,12345
+"1989-10-01 00:00:00",Ontario,18816
+"1989-10-01 00:00:00",Manitoba,2343
+"1989-10-01 00:00:00",Saskatchewan,2058
+"1989-10-01 00:00:00",Alberta,3673
+"1989-10-01 00:00:00","British Columbia",5928
+"1989-10-01 00:00:00",Yukon,20
+"1989-10-01 00:00:00","Northwest Territories including Nunavut",59
+"1990-01-01 00:00:00",Canada,50625
+"1990-01-01 00:00:00","Newfoundland and Labrador",1047
+"1990-01-01 00:00:00","Prince Edward Island",274
+"1990-01-01 00:00:00","Nova Scotia",2069
+"1990-01-01 00:00:00","New Brunswick",1532
+"1990-01-01 00:00:00",Quebec,13223
+"1990-01-01 00:00:00",Ontario,18300
+"1990-01-01 00:00:00",Manitoba,2275
+"1990-01-01 00:00:00",Saskatchewan,2052
+"1990-01-01 00:00:00",Alberta,3587
+"1990-01-01 00:00:00","British Columbia",6193
+"1990-01-01 00:00:00",Yukon,25
+"1990-01-01 00:00:00","Northwest Territories including Nunavut",48
+"1990-04-01 00:00:00",Canada,46662
+"1990-04-01 00:00:00","Newfoundland and Labrador",978
+"1990-04-01 00:00:00","Prince Edward Island",274
+"1990-04-01 00:00:00","Nova Scotia",1757
+"1990-04-01 00:00:00","New Brunswick",1318
+"1990-04-01 00:00:00",Quebec,11744
+"1990-04-01 00:00:00",Ontario,17238
+"1990-04-01 00:00:00",Manitoba,2165
+"1990-04-01 00:00:00",Saskatchewan,2043
+"1990-04-01 00:00:00",Alberta,3384
+"1990-04-01 00:00:00","British Columbia",5671
+"1990-04-01 00:00:00",Yukon,24
+"1990-04-01 00:00:00","Northwest Territories including Nunavut",66
+"1990-07-01 00:00:00",Canada,46012
+"1990-07-01 00:00:00","Newfoundland and Labrador",892
+"1990-07-01 00:00:00","Prince Edward Island",303
+"1990-07-01 00:00:00","Nova Scotia",1725
+"1990-07-01 00:00:00","New Brunswick",1244
+"1990-07-01 00:00:00",Quebec,11486
+"1990-07-01 00:00:00",Ontario,17100
+"1990-07-01 00:00:00",Manitoba,2231
+"1990-07-01 00:00:00",Saskatchewan,1867
+"1990-07-01 00:00:00",Alberta,3426
+"1990-07-01 00:00:00","British Columbia",5651
+"1990-07-01 00:00:00",Yukon,34
+"1990-07-01 00:00:00","Northwest Territories including Nunavut",53
+"1990-10-01 00:00:00",Canada,48674
+"1990-10-01 00:00:00","Newfoundland and Labrador",967
+"1990-10-01 00:00:00","Prince Edward Island",292
+"1990-10-01 00:00:00","Nova Scotia",1837
+"1990-10-01 00:00:00","New Brunswick",1332
+"1990-10-01 00:00:00",Quebec,11967
+"1990-10-01 00:00:00",Ontario,18180
+"1990-10-01 00:00:00",Manitoba,2192
+"1990-10-01 00:00:00",Saskatchewan,2082
+"1990-10-01 00:00:00",Alberta,3671
+"1990-10-01 00:00:00","British Columbia",6062
+"1990-10-01 00:00:00",Yukon,32
+"1990-10-01 00:00:00","Northwest Territories including Nunavut",60
+"1991-01-01 00:00:00",Canada,49928
+"1991-01-01 00:00:00","Newfoundland and Labrador",981
+"1991-01-01 00:00:00","Prince Edward Island",288
+"1991-01-01 00:00:00","Nova Scotia",1940
+"1991-01-01 00:00:00","New Brunswick",1389
+"1991-01-01 00:00:00",Quebec,12795
+"1991-01-01 00:00:00",Ontario,18594
+"1991-01-01 00:00:00",Manitoba,2198
+"1991-01-01 00:00:00",Saskatchewan,2054
+"1991-01-01 00:00:00",Alberta,3653
+"1991-01-01 00:00:00","British Columbia",5979
+"1991-01-01 00:00:00",Yukon,16
+"1991-01-01 00:00:00","Northwest Territories including Nunavut",41
+"1991-04-01 00:00:00",Canada,47825
+"1991-04-01 00:00:00","Newfoundland and Labrador",976
+"1991-04-01 00:00:00","Prince Edward Island",316
+"1991-04-01 00:00:00","Nova Scotia",1746
+"1991-04-01 00:00:00","New Brunswick",1389
+"1991-04-01 00:00:00",Quebec,11994
+"1991-04-01 00:00:00",Ontario,17633
+"1991-04-01 00:00:00",Manitoba,2149
+"1991-04-01 00:00:00",Saskatchewan,1918
+"1991-04-01 00:00:00",Alberta,3585
+"1991-04-01 00:00:00","British Columbia",6034
+"1991-04-01 00:00:00",Yukon,34
+"1991-04-01 00:00:00","Northwest Territories including Nunavut",51
+"1991-07-01 00:00:00",Canada,46329
+"1991-07-01 00:00:00","Newfoundland and Labrador",872
+"1991-07-01 00:00:00","Prince Edward Island",279
+"1991-07-01 00:00:00","Nova Scotia",1742
+"1991-07-01 00:00:00","New Brunswick",1308
+"1991-07-01 00:00:00",Quebec,11364
+"1991-07-01 00:00:00",Ontario,17387
+"1991-07-01 00:00:00",Manitoba,2202
+"1991-07-01 00:00:00",Saskatchewan,1979
+"1991-07-01 00:00:00",Alberta,3485
+"1991-07-01 00:00:00","British Columbia",5611
+"1991-07-01 00:00:00",Yukon,26
+"1991-07-01 00:00:00","Northwest Territories",44
+"1991-07-01 00:00:00",Nunavut,30
+"1991-10-01 00:00:00",Canada,51487
+"1991-10-01 00:00:00","Newfoundland and Labrador",969
+"1991-10-01 00:00:00","Prince Edward Island",305
+"1991-10-01 00:00:00","Nova Scotia",1827
+"1991-10-01 00:00:00","New Brunswick",1383
+"1991-10-01 00:00:00",Quebec,12968
+"1991-10-01 00:00:00",Ontario,19304
+"1991-10-01 00:00:00",Manitoba,2394
+"1991-10-01 00:00:00",Saskatchewan,2147
+"1991-10-01 00:00:00",Alberta,3728
+"1991-10-01 00:00:00","British Columbia",6353
+"1991-10-01 00:00:00",Yukon,38
+"1991-10-01 00:00:00","Northwest Territories",38
+"1991-10-01 00:00:00",Nunavut,33
+"1992-01-01 00:00:00",Canada,51436
+"1992-01-01 00:00:00","Newfoundland and Labrador",1010
+"1992-01-01 00:00:00","Prince Edward Island",298
+"1992-01-01 00:00:00","Nova Scotia",2013
+"1992-01-01 00:00:00","New Brunswick",1509
+"1992-01-01 00:00:00",Quebec,12969
+"1992-01-01 00:00:00",Ontario,19119
+"1992-01-01 00:00:00",Manitoba,2239
+"1992-01-01 00:00:00",Saskatchewan,2021
+"1992-01-01 00:00:00",Alberta,3762
+"1992-01-01 00:00:00","British Columbia",6409
+"1992-01-01 00:00:00",Yukon,29
+"1992-01-01 00:00:00","Northwest Territories",33
+"1992-01-01 00:00:00",Nunavut,25
+"1992-04-01 00:00:00",Canada,47715
+"1992-04-01 00:00:00","Newfoundland and Labrador",940
+"1992-04-01 00:00:00","Prince Edward Island",285
+"1992-04-01 00:00:00","Nova Scotia",1904
+"1992-04-01 00:00:00","New Brunswick",1299
+"1992-04-01 00:00:00",Quebec,11889
+"1992-04-01 00:00:00",Ontario,17801
+"1992-04-01 00:00:00",Manitoba,2164
+"1992-04-01 00:00:00",Saskatchewan,1914
+"1992-04-01 00:00:00",Alberta,3526
+"1992-04-01 00:00:00","British Columbia",5908
+"1992-04-01 00:00:00",Yukon,28
+"1992-04-01 00:00:00","Northwest Territories",36
+"1992-04-01 00:00:00",Nunavut,21
+"1992-07-01 00:00:00",Canada,46890
+"1992-07-01 00:00:00","Newfoundland and Labrador",895
+"1992-07-01 00:00:00","Prince Edward Island",265
+"1992-07-01 00:00:00","Nova Scotia",1702
+"1992-07-01 00:00:00","New Brunswick",1355
+"1992-07-01 00:00:00",Quebec,11586
+"1992-07-01 00:00:00",Ontario,17340
+"1992-07-01 00:00:00",Manitoba,2230
+"1992-07-01 00:00:00",Saskatchewan,1867
+"1992-07-01 00:00:00",Alberta,3617
+"1992-07-01 00:00:00","British Columbia",5927
+"1992-07-01 00:00:00",Yukon,36
+"1992-07-01 00:00:00","Northwest Territories",37
+"1992-07-01 00:00:00",Nunavut,33
+"1992-10-01 00:00:00",Canada,50494
+"1992-10-01 00:00:00","Newfoundland and Labrador",953
+"1992-10-01 00:00:00","Prince Edward Island",266
+"1992-10-01 00:00:00","Nova Scotia",1925
+"1992-10-01 00:00:00","New Brunswick",1446
+"1992-10-01 00:00:00",Quebec,12380
+"1992-10-01 00:00:00",Ontario,18946
+"1992-10-01 00:00:00",Manitoba,2347
+"1992-10-01 00:00:00",Saskatchewan,1991
+"1992-10-01 00:00:00",Alberta,3774
+"1992-10-01 00:00:00","British Columbia",6371
+"1992-10-01 00:00:00",Yukon,24
+"1992-10-01 00:00:00","Northwest Territories",38
+"1992-10-01 00:00:00",Nunavut,33
+"1993-01-01 00:00:00",Canada,54204
+"1993-01-01 00:00:00","Newfoundland and Labrador",980
+"1993-01-01 00:00:00","Prince Edward Island",303
+"1993-01-01 00:00:00","Nova Scotia",1954
+"1993-01-01 00:00:00","New Brunswick",1527
+"1993-01-01 00:00:00",Quebec,14033
+"1993-01-01 00:00:00",Ontario,19888
+"1993-01-01 00:00:00",Manitoba,2403
+"1993-01-01 00:00:00",Saskatchewan,2077
+"1993-01-01 00:00:00",Alberta,3753
+"1993-01-01 00:00:00","British Columbia",7196
+"1993-01-01 00:00:00",Yukon,35
+"1993-01-01 00:00:00","Northwest Territories",27
+"1993-01-01 00:00:00",Nunavut,28
+"1993-04-01 00:00:00",Canada,50220
+"1993-04-01 00:00:00","Newfoundland and Labrador",987
+"1993-04-01 00:00:00","Prince Edward Island",288
+"1993-04-01 00:00:00","Nova Scotia",1979
+"1993-04-01 00:00:00","New Brunswick",1474
+"1993-04-01 00:00:00",Quebec,12649
+"1993-04-01 00:00:00",Ontario,18464
+"1993-04-01 00:00:00",Manitoba,2267
+"1993-04-01 00:00:00",Saskatchewan,2078
+"1993-04-01 00:00:00",Alberta,3794
+"1993-04-01 00:00:00","British Columbia",6135
+"1993-04-01 00:00:00",Yukon,30
+"1993-04-01 00:00:00","Northwest Territories",41
+"1993-04-01 00:00:00",Nunavut,34
+"1993-07-01 00:00:00",Canada,48135
+"1993-07-01 00:00:00","Newfoundland and Labrador",897
+"1993-07-01 00:00:00","Prince Edward Island",255
+"1993-07-01 00:00:00","Nova Scotia",1750
+"1993-07-01 00:00:00","New Brunswick",1309
+"1993-07-01 00:00:00",Quebec,12041
+"1993-07-01 00:00:00",Ontario,17984
+"1993-07-01 00:00:00",Manitoba,2230
+"1993-07-01 00:00:00",Saskatchewan,1964
+"1993-07-01 00:00:00",Alberta,3663
+"1993-07-01 00:00:00","British Columbia",5949
+"1993-07-01 00:00:00",Yukon,27
+"1993-07-01 00:00:00","Northwest Territories",37
+"1993-07-01 00:00:00",Nunavut,29
+"1993-10-01 00:00:00",Canada,52353
+"1993-10-01 00:00:00","Newfoundland and Labrador",1026
+"1993-10-01 00:00:00","Prince Edward Island",299
+"1993-10-01 00:00:00","Nova Scotia",1876
+"1993-10-01 00:00:00","New Brunswick",1496
+"1993-10-01 00:00:00",Quebec,12988
+"1993-10-01 00:00:00",Ontario,19517
+"1993-10-01 00:00:00",Manitoba,2399
+"1993-10-01 00:00:00",Saskatchewan,2045
+"1993-10-01 00:00:00",Alberta,4128
+"1993-10-01 00:00:00","British Columbia",6484
+"1993-10-01 00:00:00",Yukon,31
+"1993-10-01 00:00:00","Northwest Territories",38
+"1993-10-01 00:00:00",Nunavut,26
+"1994-01-01 00:00:00",Canada,55849
+"1994-01-01 00:00:00","Newfoundland and Labrador",1099
+"1994-01-01 00:00:00","Prince Edward Island",281
+"1994-01-01 00:00:00","Nova Scotia",2166
+"1994-01-01 00:00:00","New Brunswick",1635
+"1994-01-01 00:00:00",Quebec,14044
+"1994-01-01 00:00:00",Ontario,21042
+"1994-01-01 00:00:00",Manitoba,2421
+"1994-01-01 00:00:00",Saskatchewan,2141
+"1994-01-01 00:00:00",Alberta,4103
+"1994-01-01 00:00:00","British Columbia",6832
+"1994-01-01 00:00:00",Yukon,32
+"1994-01-01 00:00:00","Northwest Territories",32
+"1994-01-01 00:00:00",Nunavut,21
+"1994-04-01 00:00:00",Canada,50127
+"1994-04-01 00:00:00","Newfoundland and Labrador",955
+"1994-04-01 00:00:00","Prince Edward Island",285
+"1994-04-01 00:00:00","Nova Scotia",1752
+"1994-04-01 00:00:00","New Brunswick",1433
+"1994-04-01 00:00:00",Quebec,12507
+"1994-04-01 00:00:00",Ontario,18759
+"1994-04-01 00:00:00",Manitoba,2134
+"1994-04-01 00:00:00",Saskatchewan,2123
+"1994-04-01 00:00:00",Alberta,3863
+"1994-04-01 00:00:00","British Columbia",6211
+"1994-04-01 00:00:00",Yukon,38
+"1994-04-01 00:00:00","Northwest Territories",43
+"1994-04-01 00:00:00",Nunavut,24
+"1994-07-01 00:00:00",Canada,48607
+"1994-07-01 00:00:00","Newfoundland and Labrador",964
+"1994-07-01 00:00:00","Prince Edward Island",285
+"1994-07-01 00:00:00","Nova Scotia",1836
+"1994-07-01 00:00:00","New Brunswick",1388
+"1994-07-01 00:00:00",Quebec,12106
+"1994-07-01 00:00:00",Ontario,18030
+"1994-07-01 00:00:00",Manitoba,2160
+"1994-07-01 00:00:00",Saskatchewan,1967
+"1994-07-01 00:00:00",Alberta,3633
+"1994-07-01 00:00:00","British Columbia",6144
+"1994-07-01 00:00:00",Yukon,31
+"1994-07-01 00:00:00","Northwest Territories",33
+"1994-07-01 00:00:00",Nunavut,30
+"1994-10-01 00:00:00",Canada,52494
+"1994-10-01 00:00:00","Newfoundland and Labrador",1032
+"1994-10-01 00:00:00","Prince Edward Island",263
+"1994-10-01 00:00:00","Nova Scotia",2016
+"1994-10-01 00:00:00","New Brunswick",1461
+"1994-10-01 00:00:00",Quebec,12708
+"1994-10-01 00:00:00",Ontario,19657
+"1994-10-01 00:00:00",Manitoba,2433
+"1994-10-01 00:00:00",Saskatchewan,2077
+"1994-10-01 00:00:00",Alberta,4014
+"1994-10-01 00:00:00","British Columbia",6752
+"1994-10-01 00:00:00",Yukon,23
+"1994-10-01 00:00:00","Northwest Territories",35
+"1994-10-01 00:00:00",Nunavut,23
+"1995-01-01 00:00:00",Canada,56323
+"1995-01-01 00:00:00","Newfoundland and Labrador",1038
+"1995-01-01 00:00:00","Prince Edward Island",313
+"1995-01-01 00:00:00","Nova Scotia",2087
+"1995-01-01 00:00:00","New Brunswick",1554
+"1995-01-01 00:00:00",Quebec,14473
+"1995-01-01 00:00:00",Ontario,20975
+"1995-01-01 00:00:00",Manitoba,2530
+"1995-01-01 00:00:00",Saskatchewan,2196
+"1995-01-01 00:00:00",Alberta,4125
+"1995-01-01 00:00:00","British Columbia",6961
+"1995-01-01 00:00:00",Yukon,22
+"1995-01-01 00:00:00","Northwest Territories",29
+"1995-01-01 00:00:00",Nunavut,20
+"1995-04-01 00:00:00",Canada,51965
+"1995-04-01 00:00:00","Newfoundland and Labrador",953
+"1995-04-01 00:00:00","Prince Edward Island",278
+"1995-04-01 00:00:00","Nova Scotia",1912
+"1995-04-01 00:00:00","New Brunswick",1496
+"1995-04-01 00:00:00",Quebec,12917
+"1995-04-01 00:00:00",Ontario,19490
+"1995-04-01 00:00:00",Manitoba,2357
+"1995-04-01 00:00:00",Saskatchewan,2104
+"1995-04-01 00:00:00",Alberta,3919
+"1995-04-01 00:00:00","British Columbia",6435
+"1995-04-01 00:00:00",Yukon,43
+"1995-04-01 00:00:00","Northwest Territories",40
+"1995-04-01 00:00:00",Nunavut,21
+"1995-07-01 00:00:00",Canada,49219
+"1995-07-01 00:00:00","Newfoundland and Labrador",888
+"1995-07-01 00:00:00","Prince Edward Island",265
+"1995-07-01 00:00:00","Nova Scotia",1743
+"1995-07-01 00:00:00","New Brunswick",1408
+"1995-07-01 00:00:00",Quebec,12164
+"1995-07-01 00:00:00",Ontario,18337
+"1995-07-01 00:00:00",Manitoba,2248
+"1995-07-01 00:00:00",Saskatchewan,2061
+"1995-07-01 00:00:00",Alberta,3771
+"1995-07-01 00:00:00","British Columbia",6231
+"1995-07-01 00:00:00",Yukon,45
+"1995-07-01 00:00:00","Northwest Territories",27
+"1995-07-01 00:00:00",Nunavut,31
+"1995-10-01 00:00:00",Canada,53226
+"1995-10-01 00:00:00","Newfoundland and Labrador",1056
+"1995-10-01 00:00:00","Prince Edward Island",297
+"1995-10-01 00:00:00","Nova Scotia",1945
+"1995-10-01 00:00:00","New Brunswick",1480
+"1995-10-01 00:00:00",Quebec,13180
+"1995-10-01 00:00:00",Ontario,19677
+"1995-10-01 00:00:00",Manitoba,2523
+"1995-10-01 00:00:00",Saskatchewan,2134
+"1995-10-01 00:00:00",Alberta,4080
+"1995-10-01 00:00:00","British Columbia",6748
+"1995-10-01 00:00:00",Yukon,47
+"1995-10-01 00:00:00","Northwest Territories",35
+"1995-10-01 00:00:00",Nunavut,24
+"1996-01-01 00:00:00",Canada,55962
+"1996-01-01 00:00:00","Newfoundland and Labrador",1053
+"1996-01-01 00:00:00","Prince Edward Island",334
+"1996-01-01 00:00:00","Nova Scotia",2149
+"1996-01-01 00:00:00","New Brunswick",1570
+"1996-01-01 00:00:00",Quebec,14119
+"1996-01-01 00:00:00",Ontario,20695
+"1996-01-01 00:00:00",Manitoba,2438
+"1996-01-01 00:00:00",Saskatchewan,2177
+"1996-01-01 00:00:00",Alberta,4142
+"1996-01-01 00:00:00","British Columbia",7210
+"1996-01-01 00:00:00",Yukon,19
+"1996-01-01 00:00:00","Northwest Territories",34
+"1996-01-01 00:00:00",Nunavut,22
+"1996-04-01 00:00:00",Canada,51359
+"1996-04-01 00:00:00","Newfoundland and Labrador",957
+"1996-04-01 00:00:00","Prince Edward Island",302
+"1996-04-01 00:00:00","Nova Scotia",1861
+"1996-04-01 00:00:00","New Brunswick",1408
+"1996-04-01 00:00:00",Quebec,12636
+"1996-04-01 00:00:00",Ontario,19028
+"1996-04-01 00:00:00",Manitoba,2298
+"1996-04-01 00:00:00",Saskatchewan,2094
+"1996-04-01 00:00:00",Alberta,3894
+"1996-04-01 00:00:00","British Columbia",6783
+"1996-04-01 00:00:00",Yukon,34
+"1996-04-01 00:00:00","Northwest Territories",36
+"1996-04-01 00:00:00",Nunavut,28
+"1996-07-01 00:00:00",Canada,49897
+"1996-07-01 00:00:00","Newfoundland and Labrador",953
+"1996-07-01 00:00:00","Prince Edward Island",318
+"1996-07-01 00:00:00","Nova Scotia",1823
+"1996-07-01 00:00:00","New Brunswick",1388
+"1996-07-01 00:00:00",Quebec,12313
+"1996-07-01 00:00:00",Ontario,18383
+"1996-07-01 00:00:00",Manitoba,2285
+"1996-07-01 00:00:00",Saskatchewan,2067
+"1996-07-01 00:00:00",Alberta,3948
+"1996-07-01 00:00:00","British Columbia",6305
+"1996-07-01 00:00:00",Yukon,33
+"1996-07-01 00:00:00","Northwest Territories",41
+"1996-07-01 00:00:00",Nunavut,40
+"1996-10-01 00:00:00",Canada,55662
+"1996-10-01 00:00:00","Newfoundland and Labrador",965
+"1996-10-01 00:00:00","Prince Edward Island",314
+"1996-10-01 00:00:00","Nova Scotia",1918
+"1996-10-01 00:00:00","New Brunswick",1530
+"1996-10-01 00:00:00",Quebec,13273
+"1996-10-01 00:00:00",Ontario,21005
+"1996-10-01 00:00:00",Manitoba,2477
+"1996-10-01 00:00:00",Saskatchewan,2427
+"1996-10-01 00:00:00",Alberta,4408
+"1996-10-01 00:00:00","British Columbia",7240
+"1996-10-01 00:00:00",Yukon,34
+"1996-10-01 00:00:00","Northwest Territories",41
+"1996-10-01 00:00:00",Nunavut,30
+"1997-01-01 00:00:00",Canada,59109
+"1997-01-01 00:00:00","Newfoundland and Labrador",1141
+"1997-01-01 00:00:00","Prince Edward Island",315
+"1997-01-01 00:00:00","Nova Scotia",2253
+"1997-01-01 00:00:00","New Brunswick",1678
+"1997-01-01 00:00:00",Quebec,15426
+"1997-01-01 00:00:00",Ontario,21583
+"1997-01-01 00:00:00",Manitoba,2626
+"1997-01-01 00:00:00",Saskatchewan,2264
+"1997-01-01 00:00:00",Alberta,4296
+"1997-01-01 00:00:00","British Columbia",7415
+"1997-01-01 00:00:00",Yukon,38
+"1997-01-01 00:00:00","Northwest Territories",33
+"1997-01-01 00:00:00",Nunavut,41
+"1997-04-01 00:00:00",Canada,52553
+"1997-04-01 00:00:00","Newfoundland and Labrador",1122
+"1997-04-01 00:00:00","Prince Edward Island",245
+"1997-04-01 00:00:00","Nova Scotia",1985
+"1997-04-01 00:00:00","New Brunswick",1485
+"1997-04-01 00:00:00",Quebec,13193
+"1997-04-01 00:00:00",Ontario,19453
+"1997-04-01 00:00:00",Manitoba,2238
+"1997-04-01 00:00:00",Saskatchewan,2128
+"1997-04-01 00:00:00",Alberta,3983
+"1997-04-01 00:00:00","British Columbia",6639
+"1997-04-01 00:00:00",Yukon,22
+"1997-04-01 00:00:00","Northwest Territories",30
+"1997-04-01 00:00:00",Nunavut,30
+"1997-07-01 00:00:00",Canada,49686
+"1997-07-01 00:00:00","Newfoundland and Labrador",1016
+"1997-07-01 00:00:00","Prince Edward Island",222
+"1997-07-01 00:00:00","Nova Scotia",1839
+"1997-07-01 00:00:00","New Brunswick",1350
+"1997-07-01 00:00:00",Quebec,12283
+"1997-07-01 00:00:00",Ontario,18265
+"1997-07-01 00:00:00",Manitoba,2277
+"1997-07-01 00:00:00",Saskatchewan,2034
+"1997-07-01 00:00:00",Alberta,3893
+"1997-07-01 00:00:00","British Columbia",6413
+"1997-07-01 00:00:00",Yukon,33
+"1997-07-01 00:00:00","Northwest Territories",36
+"1997-07-01 00:00:00",Nunavut,25
+"1997-10-01 00:00:00",Canada,54321
+"1997-10-01 00:00:00","Newfoundland and Labrador",1039
+"1997-10-01 00:00:00","Prince Edward Island",248
+"1997-10-01 00:00:00","Nova Scotia",1967
+"1997-10-01 00:00:00","New Brunswick",1431
+"1997-10-01 00:00:00",Quebec,13497
+"1997-10-01 00:00:00",Ontario,20240
+"1997-10-01 00:00:00",Manitoba,2370
+"1997-10-01 00:00:00",Saskatchewan,2211
+"1997-10-01 00:00:00",Alberta,4280
+"1997-10-01 00:00:00","British Columbia",6945
+"1997-10-01 00:00:00",Yukon,30
+"1997-10-01 00:00:00","Northwest Territories",39
+"1997-10-01 00:00:00",Nunavut,24
+"1998-01-01 00:00:00",Canada,61737
+"1998-01-01 00:00:00","Newfoundland and Labrador",1234
+"1998-01-01 00:00:00","Prince Edward Island",363
+"1998-01-01 00:00:00","Nova Scotia",2343
+"1998-01-01 00:00:00","New Brunswick",1780
+"1998-01-01 00:00:00",Quebec,15788
+"1998-01-01 00:00:00",Ontario,22573
+"1998-01-01 00:00:00",Manitoba,2687
+"1998-01-01 00:00:00",Saskatchewan,2423
+"1998-01-01 00:00:00",Alberta,4676
+"1998-01-01 00:00:00","British Columbia",7773
+"1998-01-01 00:00:00",Yukon,26
+"1998-01-01 00:00:00","Northwest Territories",38
+"1998-01-01 00:00:00",Nunavut,33
+"1998-04-01 00:00:00",Canada,51944
+"1998-04-01 00:00:00","Newfoundland and Labrador",1051
+"1998-04-01 00:00:00","Prince Edward Island",299
+"1998-04-01 00:00:00","Nova Scotia",1914
+"1998-04-01 00:00:00","New Brunswick",1571
+"1998-04-01 00:00:00",Quebec,12797
+"1998-04-01 00:00:00",Ontario,19068
+"1998-04-01 00:00:00",Manitoba,2239
+"1998-04-01 00:00:00",Saskatchewan,2191
+"1998-04-01 00:00:00",Alberta,3966
+"1998-04-01 00:00:00","British Columbia",6747
+"1998-04-01 00:00:00",Yukon,41
+"1998-04-01 00:00:00","Northwest Territories",24
+"1998-04-01 00:00:00",Nunavut,36
+"1998-07-01 00:00:00",Canada,49947
+"1998-07-01 00:00:00","Newfoundland and Labrador",917
+"1998-07-01 00:00:00","Prince Edward Island",256
+"1998-07-01 00:00:00","Nova Scotia",1807
+"1998-07-01 00:00:00","New Brunswick",1371
+"1998-07-01 00:00:00",Quebec,12322
+"1998-07-01 00:00:00",Ontario,18292
+"1998-07-01 00:00:00",Manitoba,2325
+"1998-07-01 00:00:00",Saskatchewan,2071
+"1998-07-01 00:00:00",Alberta,3930
+"1998-07-01 00:00:00","British Columbia",6542
+"1998-07-01 00:00:00",Yukon,35
+"1998-07-01 00:00:00","Northwest Territories",44
+"1998-07-01 00:00:00",Nunavut,35
+"1998-10-01 00:00:00",Canada,54463
+"1998-10-01 00:00:00","Newfoundland and Labrador",1028
+"1998-10-01 00:00:00","Prince Edward Island",289
+"1998-10-01 00:00:00","Nova Scotia",2004
+"1998-10-01 00:00:00","New Brunswick",1583
+"1998-10-01 00:00:00",Quebec,13274
+"1998-10-01 00:00:00",Ontario,20251
+"1998-10-01 00:00:00",Manitoba,2564
+"1998-10-01 00:00:00",Saskatchewan,2220
+"1998-10-01 00:00:00",Alberta,4223
+"1998-10-01 00:00:00","British Columbia",6916
+"1998-10-01 00:00:00",Yukon,33
+"1998-10-01 00:00:00","Northwest Territories",40
+"1998-10-01 00:00:00",Nunavut,38
+"1999-01-01 00:00:00",Canada,61232
+"1999-01-01 00:00:00","Newfoundland and Labrador",1137
+"1999-01-01 00:00:00","Prince Edward Island",283
+"1999-01-01 00:00:00","Nova Scotia",2021
+"1999-01-01 00:00:00","New Brunswick",1739
+"1999-01-01 00:00:00",Quebec,16001
+"1999-01-01 00:00:00",Ontario,22622
+"1999-01-01 00:00:00",Manitoba,2716
+"1999-01-01 00:00:00",Saskatchewan,2423
+"1999-01-01 00:00:00",Alberta,4715
+"1999-01-01 00:00:00","British Columbia",7478
+"1999-01-01 00:00:00",Yukon,26
+"1999-01-01 00:00:00","Northwest Territories",36
+"1999-01-01 00:00:00",Nunavut,35
+"1999-04-01 00:00:00",Canada,51990
+"1999-04-01 00:00:00","Newfoundland and Labrador",1013
+"1999-04-01 00:00:00","Prince Edward Island",280
+"1999-04-01 00:00:00","Nova Scotia",1902
+"1999-04-01 00:00:00","New Brunswick",1440
+"1999-04-01 00:00:00",Quebec,12868
+"1999-04-01 00:00:00",Ontario,19100
+"1999-04-01 00:00:00",Manitoba,2321
+"1999-04-01 00:00:00",Saskatchewan,2137
+"1999-04-01 00:00:00",Alberta,3992
+"1999-04-01 00:00:00","British Columbia",6829
+"1999-04-01 00:00:00",Yukon,40
+"1999-04-01 00:00:00","Northwest Territories",38
+"1999-04-01 00:00:00",Nunavut,30
+"1999-07-01 00:00:00",Canada,50205
+"1999-07-01 00:00:00","Newfoundland and Labrador",929
+"1999-07-01 00:00:00","Prince Edward Island",262
+"1999-07-01 00:00:00","Nova Scotia",1686
+"1999-07-01 00:00:00","New Brunswick",1354
+"1999-07-01 00:00:00",Quebec,12234
+"1999-07-01 00:00:00",Ontario,18687
+"1999-07-01 00:00:00",Manitoba,2286
+"1999-07-01 00:00:00",Saskatchewan,2202
+"1999-07-01 00:00:00",Alberta,3928
+"1999-07-01 00:00:00","British Columbia",6528
+"1999-07-01 00:00:00",Yukon,28
+"1999-07-01 00:00:00","Northwest Territories",53
+"1999-07-01 00:00:00",Nunavut,28
+"1999-10-01 00:00:00",Canada,56103
+"1999-10-01 00:00:00","Newfoundland and Labrador",1060
+"1999-10-01 00:00:00","Prince Edward Island",312
+"1999-10-01 00:00:00","Nova Scotia",2031
+"1999-10-01 00:00:00","New Brunswick",1541
+"1999-10-01 00:00:00",Quebec,13489
+"1999-10-01 00:00:00",Ontario,20988
+"1999-10-01 00:00:00",Manitoba,2537
+"1999-10-01 00:00:00",Saskatchewan,2282
+"1999-10-01 00:00:00",Alberta,4571
+"1999-10-01 00:00:00","British Columbia",7182
+"1999-10-01 00:00:00",Yukon,41
+"1999-10-01 00:00:00","Northwest Territories",35
+"1999-10-01 00:00:00",Nunavut,34
+"2000-01-01 00:00:00",Canada,59012
+"2000-01-01 00:00:00","Newfoundland and Labrador",1230
+"2000-01-01 00:00:00","Prince Edward Island",302
+"2000-01-01 00:00:00","Nova Scotia",2158
+"2000-01-01 00:00:00","New Brunswick",1711
+"2000-01-01 00:00:00",Quebec,14606
+"2000-01-01 00:00:00",Ontario,22221
+"2000-01-01 00:00:00",Manitoba,2611
+"2000-01-01 00:00:00",Saskatchewan,2383
+"2000-01-01 00:00:00",Alberta,4409
+"2000-01-01 00:00:00","British Columbia",7282
+"2000-01-01 00:00:00",Yukon,38
+"2000-01-01 00:00:00","Northwest Territories",35
+"2000-01-01 00:00:00",Nunavut,26
+"2000-04-01 00:00:00",Canada,51909
+"2000-04-01 00:00:00","Newfoundland and Labrador",1013
+"2000-04-01 00:00:00","Prince Edward Island",306
+"2000-04-01 00:00:00","Nova Scotia",1924
+"2000-04-01 00:00:00","New Brunswick",1479
+"2000-04-01 00:00:00",Quebec,12634
+"2000-04-01 00:00:00",Ontario,19249
+"2000-04-01 00:00:00",Manitoba,2306
+"2000-04-01 00:00:00",Saskatchewan,2072
+"2000-04-01 00:00:00",Alberta,4142
+"2000-04-01 00:00:00","British Columbia",6688
+"2000-04-01 00:00:00",Yukon,38
+"2000-04-01 00:00:00","Northwest Territories",29
+"2000-04-01 00:00:00",Nunavut,29
+"2000-07-01 00:00:00",Canada,51192
+"2000-07-01 00:00:00","Newfoundland and Labrador",1002
+"2000-07-01 00:00:00","Prince Edward Island",295
+"2000-07-01 00:00:00","Nova Scotia",1819
+"2000-07-01 00:00:00","New Brunswick",1363
+"2000-07-01 00:00:00",Quebec,12445
+"2000-07-01 00:00:00",Ontario,18870
+"2000-07-01 00:00:00",Manitoba,2443
+"2000-07-01 00:00:00",Saskatchewan,2138
+"2000-07-01 00:00:00",Alberta,4186
+"2000-07-01 00:00:00","British Columbia",6508
+"2000-07-01 00:00:00",Yukon,43
+"2000-07-01 00:00:00","Northwest Territories",44
+"2000-07-01 00:00:00",Nunavut,36
+"2000-10-01 00:00:00",Canada,55949
+"2000-10-01 00:00:00","Newfoundland and Labrador",1094
+"2000-10-01 00:00:00","Prince Edward Island",326
+"2000-10-01 00:00:00","Nova Scotia",1978
+"2000-10-01 00:00:00","New Brunswick",1535
+"2000-10-01 00:00:00",Quebec,13508
+"2000-10-01 00:00:00",Ontario,20969
+"2000-10-01 00:00:00",Manitoba,2532
+"2000-10-01 00:00:00",Saskatchewan,2363
+"2000-10-01 00:00:00",Alberta,4536
+"2000-10-01 00:00:00","British Columbia",6983
+"2000-10-01 00:00:00",Yukon,37
+"2000-10-01 00:00:00","Northwest Territories",49
+"2000-10-01 00:00:00",Nunavut,39
+"2001-01-01 00:00:00",Canada,58076
+"2001-01-01 00:00:00","Newfoundland and Labrador",1110
+"2001-01-01 00:00:00","Prince Edward Island",295
+"2001-01-01 00:00:00","Nova Scotia",2009
+"2001-01-01 00:00:00","New Brunswick",1537
+"2001-01-01 00:00:00",Quebec,14868
+"2001-01-01 00:00:00",Ontario,21328
+"2001-01-01 00:00:00",Manitoba,2572
+"2001-01-01 00:00:00",Saskatchewan,2353
+"2001-01-01 00:00:00",Alberta,4565
+"2001-01-01 00:00:00","British Columbia",7334
+"2001-01-01 00:00:00",Yukon,28
+"2001-01-01 00:00:00","Northwest Territories",48
+"2001-01-01 00:00:00",Nunavut,29
+"2001-04-01 00:00:00",Canada,54103
+"2001-04-01 00:00:00","Newfoundland and Labrador",1028
+"2001-04-01 00:00:00","Prince Edward Island",297
+"2001-04-01 00:00:00","Nova Scotia",2043
+"2001-04-01 00:00:00","New Brunswick",1540
+"2001-04-01 00:00:00",Quebec,13342
+"2001-04-01 00:00:00",Ontario,19951
+"2001-04-01 00:00:00",Manitoba,2327
+"2001-04-01 00:00:00",Saskatchewan,2156
+"2001-04-01 00:00:00",Alberta,4299
+"2001-04-01 00:00:00","British Columbia",7034
+"2001-04-01 00:00:00",Yukon,28
+"2001-04-01 00:00:00","Northwest Territories",33
+"2001-04-01 00:00:00",Nunavut,25
+"2001-07-01 00:00:00",Canada,52237
+"2001-07-01 00:00:00","Newfoundland and Labrador",946
+"2001-07-01 00:00:00","Prince Edward Island",294
+"2001-07-01 00:00:00","Nova Scotia",1848
+"2001-07-01 00:00:00","New Brunswick",1406
+"2001-07-01 00:00:00",Quebec,12803
+"2001-07-01 00:00:00",Ontario,19367
+"2001-07-01 00:00:00",Manitoba,2340
+"2001-07-01 00:00:00",Saskatchewan,2082
+"2001-07-01 00:00:00",Alberta,4232
+"2001-07-01 00:00:00","British Columbia",6807
+"2001-07-01 00:00:00",Yukon,34
+"2001-07-01 00:00:00","Northwest Territories",45
+"2001-07-01 00:00:00",Nunavut,33
+"2001-10-01 00:00:00",Canada,55534
+"2001-10-01 00:00:00","Newfoundland and Labrador",1069
+"2001-10-01 00:00:00","Prince Edward Island",282
+"2001-10-01 00:00:00","Nova Scotia",1984
+"2001-10-01 00:00:00","New Brunswick",1584
+"2001-10-01 00:00:00",Quebec,13475
+"2001-10-01 00:00:00",Ontario,20600
+"2001-10-01 00:00:00",Manitoba,2502
+"2001-10-01 00:00:00",Saskatchewan,2161
+"2001-10-01 00:00:00",Alberta,4483
+"2001-10-01 00:00:00","British Columbia",7273
+"2001-10-01 00:00:00",Yukon,45
+"2001-10-01 00:00:00","Northwest Territories",38
+"2001-10-01 00:00:00",Nunavut,38
+"2002-01-01 00:00:00",Canada,58866
+"2002-01-01 00:00:00","Newfoundland and Labrador",1141
+"2002-01-01 00:00:00","Prince Edward Island",332
+"2002-01-01 00:00:00","Nova Scotia",2026
+"2002-01-01 00:00:00","New Brunswick",1571
+"2002-01-01 00:00:00",Quebec,15290
+"2002-01-01 00:00:00",Ontario,21276
+"2002-01-01 00:00:00",Manitoba,2499
+"2002-01-01 00:00:00",Saskatchewan,2242
+"2002-01-01 00:00:00",Alberta,4704
+"2002-01-01 00:00:00","British Columbia",7680
+"2002-01-01 00:00:00",Yukon,36
+"2002-01-01 00:00:00","Northwest Territories",41
+"2002-01-01 00:00:00",Nunavut,28
+"2002-04-01 00:00:00",Canada,54210
+"2002-04-01 00:00:00","Newfoundland and Labrador",1077
+"2002-04-01 00:00:00","Prince Edward Island",301
+"2002-04-01 00:00:00","Nova Scotia",2063
+"2002-04-01 00:00:00","New Brunswick",1506
+"2002-04-01 00:00:00",Quebec,13372
+"2002-04-01 00:00:00",Ontario,19680
+"2002-04-01 00:00:00",Manitoba,2384
+"2002-04-01 00:00:00",Saskatchewan,2170
+"2002-04-01 00:00:00",Alberta,4553
+"2002-04-01 00:00:00","British Columbia",6995
+"2002-04-01 00:00:00",Yukon,35
+"2002-04-01 00:00:00","Northwest Territories",41
+"2002-04-01 00:00:00",Nunavut,33
+"2002-07-01 00:00:00",Canada,53558
+"2002-07-01 00:00:00","Newfoundland and Labrador",992
+"2002-07-01 00:00:00","Prince Edward Island",294
+"2002-07-01 00:00:00","Nova Scotia",1908
+"2002-07-01 00:00:00","New Brunswick",1428
+"2002-07-01 00:00:00",Quebec,13374
+"2002-07-01 00:00:00",Ontario,19634
+"2002-07-01 00:00:00",Manitoba,2386
+"2002-07-01 00:00:00",Saskatchewan,2144
+"2002-07-01 00:00:00",Alberta,4411
+"2002-07-01 00:00:00","British Columbia",6861
+"2002-07-01 00:00:00",Yukon,43
+"2002-07-01 00:00:00","Northwest Territories",48
+"2002-07-01 00:00:00",Nunavut,35
+"2002-10-01 00:00:00",Canada,57369
+"2002-10-01 00:00:00","Newfoundland and Labrador",1113
+"2002-10-01 00:00:00","Prince Edward Island",311
+"2002-10-01 00:00:00","Nova Scotia",1997
+"2002-10-01 00:00:00","New Brunswick",1590
+"2002-10-01 00:00:00",Quebec,13726
+"2002-10-01 00:00:00",Ontario,21588
+"2002-10-01 00:00:00",Manitoba,2582
+"2002-10-01 00:00:00",Saskatchewan,2353
+"2002-10-01 00:00:00",Alberta,4620
+"2002-10-01 00:00:00","British Columbia",7380
+"2002-10-01 00:00:00",Yukon,33
+"2002-10-01 00:00:00","Northwest Territories",39
+"2002-10-01 00:00:00",Nunavut,37
+"2003-01-01 00:00:00",Canada,58436
+"2003-01-01 00:00:00","Newfoundland and Labrador",1146
+"2003-01-01 00:00:00","Prince Edward Island",320
+"2003-01-01 00:00:00","Nova Scotia",2098
+"2003-01-01 00:00:00","New Brunswick",1603
+"2003-01-01 00:00:00",Quebec,14342
+"2003-01-01 00:00:00",Ontario,22039
+"2003-01-01 00:00:00",Manitoba,2436
+"2003-01-01 00:00:00",Saskatchewan,2233
+"2003-01-01 00:00:00",Alberta,4563
+"2003-01-01 00:00:00","British Columbia",7553
+"2003-01-01 00:00:00",Yukon,33
+"2003-01-01 00:00:00","Northwest Territories",45
+"2003-01-01 00:00:00",Nunavut,25
+"2003-04-01 00:00:00",Canada,54891
+"2003-04-01 00:00:00","Newfoundland and Labrador",1062
+"2003-04-01 00:00:00","Prince Edward Island",295
+"2003-04-01 00:00:00","Nova Scotia",1945
+"2003-04-01 00:00:00","New Brunswick",1561
+"2003-04-01 00:00:00",Quebec,13666
+"2003-04-01 00:00:00",Ontario,20170
+"2003-04-01 00:00:00",Manitoba,2452
+"2003-04-01 00:00:00",Saskatchewan,2152
+"2003-04-01 00:00:00",Alberta,4528
+"2003-04-01 00:00:00","British Columbia",6932
+"2003-04-01 00:00:00",Yukon,36
+"2003-04-01 00:00:00","Northwest Territories",53
+"2003-04-01 00:00:00",Nunavut,39
+"2003-07-01 00:00:00",Canada,53505
+"2003-07-01 00:00:00","Newfoundland and Labrador",1018
+"2003-07-01 00:00:00","Prince Edward Island",281
+"2003-07-01 00:00:00","Nova Scotia",1935
+"2003-07-01 00:00:00","New Brunswick",1466
+"2003-07-01 00:00:00",Quebec,12975
+"2003-07-01 00:00:00",Ontario,19698
+"2003-07-01 00:00:00",Manitoba,2325
+"2003-07-01 00:00:00",Saskatchewan,2163
+"2003-07-01 00:00:00",Alberta,4550
+"2003-07-01 00:00:00","British Columbia",6992
+"2003-07-01 00:00:00",Yukon,28
+"2003-07-01 00:00:00","Northwest Territories",44
+"2003-07-01 00:00:00",Nunavut,30
+"2003-10-01 00:00:00",Canada,59753
+"2003-10-01 00:00:00","Newfoundland and Labrador",1072
+"2003-10-01 00:00:00","Prince Edward Island",292
+"2003-10-01 00:00:00","Nova Scotia",2088
+"2003-10-01 00:00:00","New Brunswick",1631
+"2003-10-01 00:00:00",Quebec,14070
+"2003-10-01 00:00:00",Ontario,22491
+"2003-10-01 00:00:00",Manitoba,2654
+"2003-10-01 00:00:00",Saskatchewan,2462
+"2003-10-01 00:00:00",Alberta,4953
+"2003-10-01 00:00:00","British Columbia",7900
+"2003-10-01 00:00:00",Yukon,36
+"2003-10-01 00:00:00","Northwest Territories",61
+"2003-10-01 00:00:00",Nunavut,43
+"2004-01-01 00:00:00",Canada,61106
+"2004-01-01 00:00:00","Newfoundland and Labrador",1160
+"2004-01-01 00:00:00","Prince Edward Island",359
+"2004-01-01 00:00:00","Nova Scotia",2253
+"2004-01-01 00:00:00","New Brunswick",1757
+"2004-01-01 00:00:00",Quebec,15813
+"2004-01-01 00:00:00",Ontario,22195
+"2004-01-01 00:00:00",Manitoba,2465
+"2004-01-01 00:00:00",Saskatchewan,2349
+"2004-01-01 00:00:00",Alberta,4782
+"2004-01-01 00:00:00","British Columbia",7844
+"2004-01-01 00:00:00",Yukon,46
+"2004-01-01 00:00:00","Northwest Territories",48
+"2004-01-01 00:00:00",Nunavut,35
+"2004-04-01 00:00:00",Canada,54892
+"2004-04-01 00:00:00","Newfoundland and Labrador",1022
+"2004-04-01 00:00:00","Prince Edward Island",299
+"2004-04-01 00:00:00","Nova Scotia",1991
+"2004-04-01 00:00:00","New Brunswick",1523
+"2004-04-01 00:00:00",Quebec,13692
+"2004-04-01 00:00:00",Ontario,19955
+"2004-04-01 00:00:00",Manitoba,2450
+"2004-04-01 00:00:00",Saskatchewan,2160
+"2004-04-01 00:00:00",Alberta,4497
+"2004-04-01 00:00:00","British Columbia",7183
+"2004-04-01 00:00:00",Yukon,48
+"2004-04-01 00:00:00","Northwest Territories",35
+"2004-04-01 00:00:00",Nunavut,37
+"2004-07-01 00:00:00",Canada,52837
+"2004-07-01 00:00:00","Newfoundland and Labrador",1075
+"2004-07-01 00:00:00","Prince Edward Island",261
+"2004-07-01 00:00:00","Nova Scotia",1876
+"2004-07-01 00:00:00","New Brunswick",1441
+"2004-07-01 00:00:00",Quebec,12341
+"2004-07-01 00:00:00",Ontario,19424
+"2004-07-01 00:00:00",Manitoba,2451
+"2004-07-01 00:00:00",Saskatchewan,2139
+"2004-07-01 00:00:00",Alberta,4497
+"2004-07-01 00:00:00","British Columbia",7228
+"2004-07-01 00:00:00",Yukon,35
+"2004-07-01 00:00:00","Northwest Territories",36
+"2004-07-01 00:00:00",Nunavut,33
+"2004-10-01 00:00:00",Canada,57996
+"2004-10-01 00:00:00","Newfoundland and Labrador",1071
+"2004-10-01 00:00:00","Prince Edward Island",310
+"2004-10-01 00:00:00","Nova Scotia",2121
+"2004-10-01 00:00:00","New Brunswick",1533
+"2004-10-01 00:00:00",Quebec,13939
+"2004-10-01 00:00:00",Ontario,21582
+"2004-10-01 00:00:00",Manitoba,2537
+"2004-10-01 00:00:00",Saskatchewan,2199
+"2004-10-01 00:00:00",Alberta,4897
+"2004-10-01 00:00:00","British Columbia",7695
+"2004-10-01 00:00:00",Yukon,37
+"2004-10-01 00:00:00","Northwest Territories",43
+"2004-10-01 00:00:00",Nunavut,32
+"2005-01-01 00:00:00",Canada,63195
+"2005-01-01 00:00:00","Newfoundland and Labrador",1173
+"2005-01-01 00:00:00","Prince Edward Island",311
+"2005-01-01 00:00:00","Nova Scotia",2384
+"2005-01-01 00:00:00","New Brunswick",1732
+"2005-01-01 00:00:00",Quebec,16146
+"2005-01-01 00:00:00",Ontario,23266
+"2005-01-01 00:00:00",Manitoba,2605
+"2005-01-01 00:00:00",Saskatchewan,2318
+"2005-01-01 00:00:00",Alberta,5022
+"2005-01-01 00:00:00","British Columbia",8132
+"2005-01-01 00:00:00",Yukon,37
+"2005-01-01 00:00:00","Northwest Territories",41
+"2005-01-01 00:00:00",Nunavut,28
+"2005-04-01 00:00:00",Canada,56183
+"2005-04-01 00:00:00","Newfoundland and Labrador",1129
+"2005-04-01 00:00:00","Prince Edward Island",249
+"2005-04-01 00:00:00","Nova Scotia",1994
+"2005-04-01 00:00:00","New Brunswick",1491
+"2005-04-01 00:00:00",Quebec,13627
+"2005-04-01 00:00:00",Ontario,21028
+"2005-04-01 00:00:00",Manitoba,2419
+"2005-04-01 00:00:00",Saskatchewan,2173
+"2005-04-01 00:00:00",Alberta,4652
+"2005-04-01 00:00:00","British Columbia",7315
+"2005-04-01 00:00:00",Yukon,41
+"2005-04-01 00:00:00","Northwest Territories",28
+"2005-04-01 00:00:00",Nunavut,37
+"2005-07-01 00:00:00",Canada,53569
+"2005-07-01 00:00:00","Newfoundland and Labrador",1095
+"2005-07-01 00:00:00","Prince Edward Island",268
+"2005-07-01 00:00:00","Nova Scotia",1867
+"2005-07-01 00:00:00","New Brunswick",1434
+"2005-07-01 00:00:00",Quebec,12677
+"2005-07-01 00:00:00",Ontario,19909
+"2005-07-01 00:00:00",Manitoba,2314
+"2005-07-01 00:00:00",Saskatchewan,2127
+"2005-07-01 00:00:00",Alberta,4641
+"2005-07-01 00:00:00","British Columbia",7132
+"2005-07-01 00:00:00",Yukon,37
+"2005-07-01 00:00:00","Northwest Territories",29
+"2005-07-01 00:00:00",Nunavut,39
+"2005-10-01 00:00:00",Canada,57614
+"2005-10-01 00:00:00","Newfoundland and Labrador",1092
+"2005-10-01 00:00:00","Prince Edward Island",296
+"2005-10-01 00:00:00","Nova Scotia",2035
+"2005-10-01 00:00:00","New Brunswick",1525
+"2005-10-01 00:00:00",Quebec,13637
+"2005-10-01 00:00:00",Ontario,21430
+"2005-10-01 00:00:00",Manitoba,2514
+"2005-10-01 00:00:00",Saskatchewan,2236
+"2005-10-01 00:00:00",Alberta,4982
+"2005-10-01 00:00:00","British Columbia",7734
+"2005-10-01 00:00:00",Yukon,49
+"2005-10-01 00:00:00","Northwest Territories",53
+"2005-10-01 00:00:00",Nunavut,31
+"2006-01-01 00:00:00",Canada,58936
+"2006-01-01 00:00:00","Newfoundland and Labrador",1156
+"2006-01-01 00:00:00","Prince Edward Island",297
+"2006-01-01 00:00:00","Nova Scotia",2030
+"2006-01-01 00:00:00","New Brunswick",1588
+"2006-01-01 00:00:00",Quebec,13848
+"2006-01-01 00:00:00",Ontario,21787
+"2006-01-01 00:00:00",Manitoba,2516
+"2006-01-01 00:00:00",Saskatchewan,2340
+"2006-01-01 00:00:00",Alberta,5179
+"2006-01-01 00:00:00","British Columbia",8066
+"2006-01-01 00:00:00",Yukon,40
+"2006-01-01 00:00:00","Northwest Territories",47
+"2006-01-01 00:00:00",Nunavut,42
+"2006-04-01 00:00:00",Canada,55796
+"2006-04-01 00:00:00","Newfoundland and Labrador",1057
+"2006-04-01 00:00:00","Prince Edward Island",311
+"2006-04-01 00:00:00","Nova Scotia",2042
+"2006-04-01 00:00:00","New Brunswick",1449
+"2006-04-01 00:00:00",Quebec,13498
+"2006-04-01 00:00:00",Ontario,20637
+"2006-04-01 00:00:00",Manitoba,2290
+"2006-04-01 00:00:00",Saskatchewan,2179
+"2006-04-01 00:00:00",Alberta,4759
+"2006-04-01 00:00:00","British Columbia",7451
+"2006-04-01 00:00:00",Yukon,42
+"2006-04-01 00:00:00","Northwest Territories",46
+"2006-04-01 00:00:00",Nunavut,35
+"2006-07-01 00:00:00",Canada,54329
+"2006-07-01 00:00:00","Newfoundland and Labrador",1115
+"2006-07-01 00:00:00","Prince Edward Island",272
+"2006-07-01 00:00:00","Nova Scotia",1954
+"2006-07-01 00:00:00","New Brunswick",1453
+"2006-07-01 00:00:00",Quebec,13067
+"2006-07-01 00:00:00",Ontario,20038
+"2006-07-01 00:00:00",Manitoba,2301
+"2006-07-01 00:00:00",Saskatchewan,2111
+"2006-07-01 00:00:00",Alberta,4599
+"2006-07-01 00:00:00","British Columbia",7277
+"2006-07-01 00:00:00",Yukon,47
+"2006-07-01 00:00:00","Northwest Territories",59
+"2006-07-01 00:00:00",Nunavut,36
+"2006-10-01 00:00:00",Canada,59472
+"2006-10-01 00:00:00","Newfoundland and Labrador",1176
+"2006-10-01 00:00:00","Prince Edward Island",304
+"2006-10-01 00:00:00","Nova Scotia",2060
+"2006-10-01 00:00:00","New Brunswick",1528
+"2006-10-01 00:00:00",Quebec,14131
+"2006-10-01 00:00:00",Ontario,22110
+"2006-10-01 00:00:00",Manitoba,2672
+"2006-10-01 00:00:00",Saskatchewan,2425
+"2006-10-01 00:00:00",Alberta,5006
+"2006-10-01 00:00:00","British Columbia",7942
+"2006-10-01 00:00:00",Yukon,49
+"2006-10-01 00:00:00","Northwest Territories",37
+"2006-10-01 00:00:00",Nunavut,32
+"2007-01-01 00:00:00",Canada,63508
+"2007-01-01 00:00:00","Newfoundland and Labrador",1266
+"2007-01-01 00:00:00","Prince Edward Island",336
+"2007-01-01 00:00:00","Nova Scotia",2320
+"2007-01-01 00:00:00","New Brunswick",1716
+"2007-01-01 00:00:00",Quebec,15543
+"2007-01-01 00:00:00",Ontario,23609
+"2007-01-01 00:00:00",Manitoba,2682
+"2007-01-01 00:00:00",Saskatchewan,2325
+"2007-01-01 00:00:00",Alberta,5392
+"2007-01-01 00:00:00","British Columbia",8182
+"2007-01-01 00:00:00",Yukon,52
+"2007-01-01 00:00:00","Northwest Territories",44
+"2007-01-01 00:00:00",Nunavut,41
+"2007-04-01 00:00:00",Canada,56884
+"2007-04-01 00:00:00","Newfoundland and Labrador",1136
+"2007-04-01 00:00:00","Prince Edward Island",250
+"2007-04-01 00:00:00","Nova Scotia",2036
+"2007-04-01 00:00:00","New Brunswick",1503
+"2007-04-01 00:00:00",Quebec,13885
+"2007-04-01 00:00:00",Ontario,21100
+"2007-04-01 00:00:00",Manitoba,2310
+"2007-04-01 00:00:00",Saskatchewan,2135
+"2007-04-01 00:00:00",Alberta,4811
+"2007-04-01 00:00:00","British Columbia",7594
+"2007-04-01 00:00:00",Yukon,49
+"2007-04-01 00:00:00","Northwest Territories",39
+"2007-04-01 00:00:00",Nunavut,36
+"2007-07-01 00:00:00",Canada,55089
+"2007-07-01 00:00:00","Newfoundland and Labrador",1048
+"2007-07-01 00:00:00","Prince Edward Island",278
+"2007-07-01 00:00:00","Nova Scotia",1901
+"2007-07-01 00:00:00","New Brunswick",1501
+"2007-07-01 00:00:00",Quebec,13005
+"2007-07-01 00:00:00",Ontario,20159
+"2007-07-01 00:00:00",Manitoba,2403
+"2007-07-01 00:00:00",Saskatchewan,2251
+"2007-07-01 00:00:00",Alberta,4845
+"2007-07-01 00:00:00","British Columbia",7570
+"2007-07-01 00:00:00",Yukon,52
+"2007-07-01 00:00:00","Northwest Territories",41
+"2007-07-01 00:00:00",Nunavut,35
+"2007-10-01 00:00:00",Canada,59941
+"2007-10-01 00:00:00","Newfoundland and Labrador",1076
+"2007-10-01 00:00:00","Prince Edward Island",307
+"2007-10-01 00:00:00","Nova Scotia",2097
+"2007-10-01 00:00:00","New Brunswick",1611
+"2007-10-01 00:00:00",Quebec,14143
+"2007-10-01 00:00:00",Ontario,22514
+"2007-10-01 00:00:00",Manitoba,2568
+"2007-10-01 00:00:00",Saskatchewan,2356
+"2007-10-01 00:00:00",Alberta,5159
+"2007-10-01 00:00:00","British Columbia",7987
+"2007-10-01 00:00:00",Yukon,39
+"2007-10-01 00:00:00","Northwest Territories",52
+"2007-10-01 00:00:00",Nunavut,32
+"2008-01-01 00:00:00",Canada,62898
+"2008-01-01 00:00:00","Newfoundland and Labrador",1235
+"2008-01-01 00:00:00","Prince Edward Island",310
+"2008-01-01 00:00:00","Nova Scotia",2143
+"2008-01-01 00:00:00","New Brunswick",1709
+"2008-01-01 00:00:00",Quebec,15126
+"2008-01-01 00:00:00",Ontario,23145
+"2008-01-01 00:00:00",Manitoba,2597
+"2008-01-01 00:00:00",Saskatchewan,2534
+"2008-01-01 00:00:00",Alberta,5383
+"2008-01-01 00:00:00","British Columbia",8577
+"2008-01-01 00:00:00",Yukon,53
+"2008-01-01 00:00:00","Northwest Territories",51
+"2008-01-01 00:00:00",Nunavut,35
+"2008-04-01 00:00:00",Canada,58768
+"2008-04-01 00:00:00","Newfoundland and Labrador",1165
+"2008-04-01 00:00:00","Prince Edward Island",296
+"2008-04-01 00:00:00","Nova Scotia",2101
+"2008-04-01 00:00:00","New Brunswick",1645
+"2008-04-01 00:00:00",Quebec,14005
+"2008-04-01 00:00:00",Ontario,21725
+"2008-04-01 00:00:00",Manitoba,2498
+"2008-04-01 00:00:00",Saskatchewan,2155
+"2008-04-01 00:00:00",Alberta,5180
+"2008-04-01 00:00:00","British Columbia",7868
+"2008-04-01 00:00:00",Yukon,52
+"2008-04-01 00:00:00","Northwest Territories",51
+"2008-04-01 00:00:00",Nunavut,27
+"2008-07-01 00:00:00",Canada,55686
+"2008-07-01 00:00:00","Newfoundland and Labrador",998
+"2008-07-01 00:00:00","Prince Edward Island",292
+"2008-07-01 00:00:00","Nova Scotia",1881
+"2008-07-01 00:00:00","New Brunswick",1430
+"2008-07-01 00:00:00",Quebec,13336
+"2008-07-01 00:00:00",Ontario,20440
+"2008-07-01 00:00:00",Manitoba,2403
+"2008-07-01 00:00:00",Saskatchewan,2169
+"2008-07-01 00:00:00",Alberta,5018
+"2008-07-01 00:00:00","British Columbia",7571
+"2008-07-01 00:00:00",Yukon,45
+"2008-07-01 00:00:00","Northwest Territories",49
+"2008-07-01 00:00:00",Nunavut,54
+"2008-10-01 00:00:00",Canada,61383
+"2008-10-01 00:00:00","Newfoundland and Labrador",1135
+"2008-10-01 00:00:00","Prince Edward Island",328
+"2008-10-01 00:00:00","Nova Scotia",2101
+"2008-10-01 00:00:00","New Brunswick",1668
+"2008-10-01 00:00:00",Quebec,14684
+"2008-10-01 00:00:00",Ontario,22771
+"2008-10-01 00:00:00",Manitoba,2583
+"2008-10-01 00:00:00",Saskatchewan,2387
+"2008-10-01 00:00:00",Alberta,5496
+"2008-10-01 00:00:00","British Columbia",8098
+"2008-10-01 00:00:00",Yukon,48
+"2008-10-01 00:00:00","Northwest Territories",51
+"2008-10-01 00:00:00",Nunavut,33
+"2009-01-01 00:00:00",Canada,62679
+"2009-01-01 00:00:00","Newfoundland and Labrador",1143
+"2009-01-01 00:00:00","Prince Edward Island",367
+"2009-01-01 00:00:00","Nova Scotia",2122
+"2009-01-01 00:00:00","New Brunswick",1681
+"2009-01-01 00:00:00",Quebec,15337
+"2009-01-01 00:00:00",Ontario,23439
+"2009-01-01 00:00:00",Manitoba,2507
+"2009-01-01 00:00:00",Saskatchewan,2259
+"2009-01-01 00:00:00",Alberta,5441
+"2009-01-01 00:00:00","British Columbia",8256
+"2009-01-01 00:00:00",Yukon,40
+"2009-01-01 00:00:00","Northwest Territories",48
+"2009-01-01 00:00:00",Nunavut,39
+"2009-04-01 00:00:00",Canada,58148
+"2009-04-01 00:00:00","Newfoundland and Labrador",1085
+"2009-04-01 00:00:00","Prince Edward Island",307
+"2009-04-01 00:00:00","Nova Scotia",1979
+"2009-04-01 00:00:00","New Brunswick",1574
+"2009-04-01 00:00:00",Quebec,14040
+"2009-04-01 00:00:00",Ontario,21736
+"2009-04-01 00:00:00",Manitoba,2488
+"2009-04-01 00:00:00",Saskatchewan,2199
+"2009-04-01 00:00:00",Alberta,5097
+"2009-04-01 00:00:00","British Columbia",7522
+"2009-04-01 00:00:00",Yukon,38
+"2009-04-01 00:00:00","Northwest Territories",43
+"2009-04-01 00:00:00",Nunavut,40
+"2009-07-01 00:00:00",Canada,55959
+"2009-07-01 00:00:00","Newfoundland and Labrador",1031
+"2009-07-01 00:00:00","Prince Edward Island",275
+"2009-07-01 00:00:00","Nova Scotia",1970
+"2009-07-01 00:00:00","New Brunswick",1463
+"2009-07-01 00:00:00",Quebec,13420
+"2009-07-01 00:00:00",Ontario,20537
+"2009-07-01 00:00:00",Manitoba,2363
+"2009-07-01 00:00:00",Saskatchewan,2203
+"2009-07-01 00:00:00",Alberta,4892
+"2009-07-01 00:00:00","British Columbia",7678
+"2009-07-01 00:00:00",Yukon,50
+"2009-07-01 00:00:00","Northwest Territories",47
+"2009-07-01 00:00:00",Nunavut,30
+"2009-10-01 00:00:00",Canada,61870
+"2009-10-01 00:00:00","Newfoundland and Labrador",1131
+"2009-10-01 00:00:00","Prince Edward Island",327
+"2009-10-01 00:00:00","Nova Scotia",2163
+"2009-10-01 00:00:00","New Brunswick",1657
+"2009-10-01 00:00:00",Quebec,15119
+"2009-10-01 00:00:00",Ontario,22791
+"2009-10-01 00:00:00",Manitoba,2622
+"2009-10-01 00:00:00",Saskatchewan,2313
+"2009-10-01 00:00:00",Alberta,5576
+"2009-10-01 00:00:00","British Columbia",7992
+"2009-10-01 00:00:00",Yukon,73
+"2009-10-01 00:00:00","Northwest Territories",50
+"2009-10-01 00:00:00",Nunavut,56
+"2010-01-01 00:00:00",Canada,61206
+"2010-01-01 00:00:00","Newfoundland and Labrador",1133
+"2010-01-01 00:00:00","Prince Edward Island",304
+"2010-01-01 00:00:00","Nova Scotia",2104
+"2010-01-01 00:00:00","New Brunswick",1600
+"2010-01-01 00:00:00",Quebec,15068
+"2010-01-01 00:00:00",Ontario,23043
+"2010-01-01 00:00:00",Manitoba,2444
+"2010-01-01 00:00:00",Saskatchewan,2296
+"2010-01-01 00:00:00",Alberta,5177
+"2010-01-01 00:00:00","British Columbia",7898
+"2010-01-01 00:00:00",Yukon,51
+"2010-01-01 00:00:00","Northwest Territories",55
+"2010-01-01 00:00:00",Nunavut,33
+"2010-04-01 00:00:00",Canada,58295
+"2010-04-01 00:00:00","Newfoundland and Labrador",1138
+"2010-04-01 00:00:00","Prince Edward Island",277
+"2010-04-01 00:00:00","Nova Scotia",2070
+"2010-04-01 00:00:00","New Brunswick",1594
+"2010-04-01 00:00:00",Quebec,14268
+"2010-04-01 00:00:00",Ontario,21254
+"2010-04-01 00:00:00",Manitoba,2488
+"2010-04-01 00:00:00",Saskatchewan,2207
+"2010-04-01 00:00:00",Alberta,5038
+"2010-04-01 00:00:00","British Columbia",7841
+"2010-04-01 00:00:00",Yukon,44
+"2010-04-01 00:00:00","Northwest Territories",41
+"2010-04-01 00:00:00",Nunavut,35
+"2010-07-01 00:00:00",Canada,57782
+"2010-07-01 00:00:00","Newfoundland and Labrador",1059
+"2010-07-01 00:00:00","Prince Edward Island",267
+"2010-07-01 00:00:00","Nova Scotia",1975
+"2010-07-01 00:00:00","New Brunswick",1517
+"2010-07-01 00:00:00",Quebec,14292
+"2010-07-01 00:00:00",Ontario,21415
+"2010-07-01 00:00:00",Manitoba,2323
+"2010-07-01 00:00:00",Saskatchewan,2204
+"2010-07-01 00:00:00",Alberta,5121
+"2010-07-01 00:00:00","British Columbia",7468
+"2010-07-01 00:00:00",Yukon,49
+"2010-07-01 00:00:00","Northwest Territories",47
+"2010-07-01 00:00:00",Nunavut,45
+"2010-10-01 00:00:00",Canada,62970
+"2010-10-01 00:00:00","Newfoundland and Labrador",1152
+"2010-10-01 00:00:00","Prince Edward Island",275
+"2010-10-01 00:00:00","Nova Scotia",2155
+"2010-10-01 00:00:00","New Brunswick",1604
+"2010-10-01 00:00:00",Quebec,15280
+"2010-10-01 00:00:00",Ontario,23595
+"2010-10-01 00:00:00",Manitoba,2738
+"2010-10-01 00:00:00",Saskatchewan,2458
+"2010-10-01 00:00:00",Alberta,5454
+"2010-10-01 00:00:00","British Columbia",8133
+"2010-10-01 00:00:00",Yukon,55
+"2010-10-01 00:00:00","Northwest Territories",40
+"2010-10-01 00:00:00",Nunavut,31
+"2011-01-01 00:00:00",Canada,65348
+"2011-01-01 00:00:00","Newfoundland and Labrador",1178
+"2011-01-01 00:00:00","Prince Edward Island",348
+"2011-01-01 00:00:00","Nova Scotia",2313
+"2011-01-01 00:00:00","New Brunswick",1709
+"2011-01-01 00:00:00",Quebec,16438
+"2011-01-01 00:00:00",Ontario,24196
+"2011-01-01 00:00:00",Manitoba,2757
+"2011-01-01 00:00:00",Saskatchewan,2431
+"2011-01-01 00:00:00",Alberta,5594
+"2011-01-01 00:00:00","British Columbia",8273
+"2011-01-01 00:00:00",Yukon,36
+"2011-01-01 00:00:00","Northwest Territories",42
+"2011-01-01 00:00:00",Nunavut,33
+"2011-04-01 00:00:00",Canada,59567
+"2011-04-01 00:00:00","Newfoundland and Labrador",1152
+"2011-04-01 00:00:00","Prince Edward Island",292
+"2011-04-01 00:00:00","Nova Scotia",2187
+"2011-04-01 00:00:00","New Brunswick",1638
+"2011-04-01 00:00:00",Quebec,14432
+"2011-04-01 00:00:00",Ontario,21991
+"2011-04-01 00:00:00",Manitoba,2456
+"2011-04-01 00:00:00",Saskatchewan,2254
+"2011-04-01 00:00:00",Alberta,5177
+"2011-04-01 00:00:00","British Columbia",7839
+"2011-04-01 00:00:00",Yukon,50
+"2011-04-01 00:00:00","Northwest Territories",43
+"2011-04-01 00:00:00",Nunavut,56
+"2011-07-01 00:00:00",Canada,57272
+"2011-07-01 00:00:00","Newfoundland and Labrador",1105
+"2011-07-01 00:00:00","Prince Edward Island",296
+"2011-07-01 00:00:00","Nova Scotia",1976
+"2011-07-01 00:00:00","New Brunswick",1509
+"2011-07-01 00:00:00",Quebec,13872
+"2011-07-01 00:00:00",Ontario,21061
+"2011-07-01 00:00:00",Manitoba,2463
+"2011-07-01 00:00:00",Saskatchewan,2229
+"2011-07-01 00:00:00",Alberta,5123
+"2011-07-01 00:00:00","British Columbia",7502
+"2011-07-01 00:00:00",Yukon,40
+"2011-07-01 00:00:00","Northwest Territories",54
+"2011-07-01 00:00:00",Nunavut,42
+"2011-10-01 00:00:00",Canada,61518
+"2011-10-01 00:00:00","Newfoundland and Labrador",1096
+"2011-10-01 00:00:00","Prince Edward Island",318
+"2011-10-01 00:00:00","Nova Scotia",2066
+"2011-10-01 00:00:00","New Brunswick",1556
+"2011-10-01 00:00:00",Quebec,14940
+"2011-10-01 00:00:00",Ontario,22739
+"2011-10-01 00:00:00",Manitoba,2594
+"2011-10-01 00:00:00",Saskatchewan,2321
+"2011-10-01 00:00:00",Alberta,5374
+"2011-10-01 00:00:00","British Columbia",8358
+"2011-10-01 00:00:00",Yukon,67
+"2011-10-01 00:00:00","Northwest Territories",48
+"2011-10-01 00:00:00",Nunavut,41
+"2012-01-01 00:00:00",Canada,64103
+"2012-01-01 00:00:00","Newfoundland and Labrador",1242
+"2012-01-01 00:00:00","Prince Edward Island",326
+"2012-01-01 00:00:00","Nova Scotia",2240
+"2012-01-01 00:00:00","New Brunswick",1724
+"2012-01-01 00:00:00",Quebec,16126
+"2012-01-01 00:00:00",Ontario,23281
+"2012-01-01 00:00:00",Manitoba,2567
+"2012-01-01 00:00:00",Saskatchewan,2356
+"2012-01-01 00:00:00",Alberta,5720
+"2012-01-01 00:00:00","British Columbia",8378
+"2012-01-01 00:00:00",Yukon,58
+"2012-01-01 00:00:00","Northwest Territories",41
+"2012-01-01 00:00:00",Nunavut,44
+"2012-04-01 00:00:00",Canada,59776
+"2012-04-01 00:00:00","Newfoundland and Labrador",1195
+"2012-04-01 00:00:00","Prince Edward Island",310
+"2012-04-01 00:00:00","Nova Scotia",2077
+"2012-04-01 00:00:00","New Brunswick",1571
+"2012-04-01 00:00:00",Quebec,14604
+"2012-04-01 00:00:00",Ontario,21869
+"2012-04-01 00:00:00",Manitoba,2480
+"2012-04-01 00:00:00",Saskatchewan,2175
+"2012-04-01 00:00:00",Alberta,5336
+"2012-04-01 00:00:00","British Columbia",8024
+"2012-04-01 00:00:00",Yukon,50
+"2012-04-01 00:00:00","Northwest Territories",46
+"2012-04-01 00:00:00",Nunavut,39
+"2012-07-01 00:00:00",Canada,58418
+"2012-07-01 00:00:00","Newfoundland and Labrador",1028
+"2012-07-01 00:00:00","Prince Edward Island",277
+"2012-07-01 00:00:00","Nova Scotia",1969
+"2012-07-01 00:00:00","New Brunswick",1510
+"2012-07-01 00:00:00",Quebec,14328
+"2012-07-01 00:00:00",Ontario,21494
+"2012-07-01 00:00:00",Manitoba,2434
+"2012-07-01 00:00:00",Saskatchewan,2274
+"2012-07-01 00:00:00",Alberta,5274
+"2012-07-01 00:00:00","British Columbia",7682
+"2012-07-01 00:00:00",Yukon,52
+"2012-07-01 00:00:00","Northwest Territories",60
+"2012-07-01 00:00:00",Nunavut,36
+"2012-10-01 00:00:00",Canada,64598
+"2012-10-01 00:00:00","Newfoundland and Labrador",1169
+"2012-10-01 00:00:00","Prince Edward Island",321
+"2012-10-01 00:00:00","Nova Scotia",2147
+"2012-10-01 00:00:00","New Brunswick",1641
+"2012-10-01 00:00:00",Quebec,15938
+"2012-10-01 00:00:00",Ontario,24130
+"2012-10-01 00:00:00",Manitoba,2586
+"2012-10-01 00:00:00",Saskatchewan,2404
+"2012-10-01 00:00:00",Alberta,5675
+"2012-10-01 00:00:00","British Columbia",8446
+"2012-10-01 00:00:00",Yukon,46
+"2012-10-01 00:00:00","Northwest Territories",53
+"2012-10-01 00:00:00",Nunavut,42
+"2013-01-01 00:00:00",Canada,68169
+"2013-01-01 00:00:00","Newfoundland and Labrador",1394
+"2013-01-01 00:00:00","Prince Edward Island",336
+"2013-01-01 00:00:00","Nova Scotia",2406
+"2013-01-01 00:00:00","New Brunswick",1768
+"2013-01-01 00:00:00",Quebec,17233
+"2013-01-01 00:00:00",Ontario,25119
+"2013-01-01 00:00:00",Manitoba,2652
+"2013-01-01 00:00:00",Saskatchewan,2502
+"2013-01-01 00:00:00",Alberta,5937
+"2013-01-01 00:00:00","British Columbia",8673
+"2013-01-01 00:00:00",Yukon,58
+"2013-01-01 00:00:00","Northwest Territories",44
+"2013-01-01 00:00:00",Nunavut,47
+"2013-04-01 00:00:00",Canada,60680
+"2013-04-01 00:00:00","Newfoundland and Labrador",1170
+"2013-04-01 00:00:00","Prince Edward Island",311
+"2013-04-01 00:00:00","Nova Scotia",2195
+"2013-04-01 00:00:00","New Brunswick",1610
+"2013-04-01 00:00:00",Quebec,14584
+"2013-04-01 00:00:00",Ontario,22340
+"2013-04-01 00:00:00",Manitoba,2529
+"2013-04-01 00:00:00",Saskatchewan,2135
+"2013-04-01 00:00:00",Alberta,5522
+"2013-04-01 00:00:00","British Columbia",8118
+"2013-04-01 00:00:00",Yukon,54
+"2013-04-01 00:00:00","Northwest Territories",56
+"2013-04-01 00:00:00",Nunavut,56
+"2013-07-01 00:00:00",Canada,59027
+"2013-07-01 00:00:00","Newfoundland and Labrador",1127
+"2013-07-01 00:00:00","Prince Edward Island",286
+"2013-07-01 00:00:00","Nova Scotia",2076
+"2013-07-01 00:00:00","New Brunswick",1570
+"2013-07-01 00:00:00",Quebec,14244
+"2013-07-01 00:00:00",Ontario,21804
+"2013-07-01 00:00:00",Manitoba,2318
+"2013-07-01 00:00:00",Saskatchewan,2251
+"2013-07-01 00:00:00",Alberta,5442
+"2013-07-01 00:00:00","British Columbia",7780
+"2013-07-01 00:00:00",Yukon,42
+"2013-07-01 00:00:00","Northwest Territories",43
+"2013-07-01 00:00:00",Nunavut,44
+"2013-10-01 00:00:00",Canada,64547
+"2013-10-01 00:00:00","Newfoundland and Labrador",1189
+"2013-10-01 00:00:00","Prince Edward Island",354
+"2013-10-01 00:00:00","Nova Scotia",2209
+"2013-10-01 00:00:00","New Brunswick",1687
+"2013-10-01 00:00:00",Quebec,15225
+"2013-10-01 00:00:00",Ontario,24089
+"2013-10-01 00:00:00",Manitoba,2599
+"2013-10-01 00:00:00",Saskatchewan,2452
+"2013-10-01 00:00:00",Alberta,5945
+"2013-10-01 00:00:00","British Columbia",8634
+"2013-10-01 00:00:00",Yukon,61
+"2013-10-01 00:00:00","Northwest Territories",56
+"2013-10-01 00:00:00",Nunavut,47
+"2014-01-01 00:00:00",Canada,66905
+"2014-01-01 00:00:00","Newfoundland and Labrador",1253
+"2014-01-01 00:00:00","Prince Edward Island",318
+"2014-01-01 00:00:00","Nova Scotia",2242
+"2014-01-01 00:00:00","New Brunswick",1769
+"2014-01-01 00:00:00",Quebec,16673
+"2014-01-01 00:00:00",Ontario,24936
+"2014-01-01 00:00:00",Manitoba,2802
+"2014-01-01 00:00:00",Saskatchewan,2380
+"2014-01-01 00:00:00",Alberta,5690
+"2014-01-01 00:00:00","British Columbia",8695
+"2014-01-01 00:00:00",Yukon,52
+"2014-01-01 00:00:00","Northwest Territories",49
+"2014-01-01 00:00:00",Nunavut,46
+"2014-04-01 00:00:00",Canada,62643
+"2014-04-01 00:00:00","Newfoundland and Labrador",1252
+"2014-04-01 00:00:00","Prince Edward Island",311
+"2014-04-01 00:00:00","Nova Scotia",2099
+"2014-04-01 00:00:00","New Brunswick",1608
+"2014-04-01 00:00:00",Quebec,15062
+"2014-04-01 00:00:00",Ontario,23511
+"2014-04-01 00:00:00",Manitoba,2583
+"2014-04-01 00:00:00",Saskatchewan,2351
+"2014-04-01 00:00:00",Alberta,5673
+"2014-04-01 00:00:00","British Columbia",8049
+"2014-04-01 00:00:00",Yukon,45
+"2014-04-01 00:00:00","Northwest Territories",63
+"2014-04-01 00:00:00",Nunavut,36
+"2014-07-01 00:00:00",Canada,60902
+"2014-07-01 00:00:00","Newfoundland and Labrador",1146
+"2014-07-01 00:00:00","Prince Edward Island",299
+"2014-07-01 00:00:00","Nova Scotia",2101
+"2014-07-01 00:00:00","New Brunswick",1702
+"2014-07-01 00:00:00",Quebec,14527
+"2014-07-01 00:00:00",Ontario,22507
+"2014-07-01 00:00:00",Manitoba,2534
+"2014-07-01 00:00:00",Saskatchewan,2197
+"2014-07-01 00:00:00",Alberta,5683
+"2014-07-01 00:00:00","British Columbia",8058
+"2014-07-01 00:00:00",Yukon,52
+"2014-07-01 00:00:00","Northwest Territories",50
+"2014-07-01 00:00:00",Nunavut,46
+"2014-10-01 00:00:00",Canada,68449
+"2014-10-01 00:00:00","Newfoundland and Labrador",1336
+"2014-10-01 00:00:00","Prince Edward Island",358
+"2014-10-01 00:00:00","Nova Scotia",2312
+"2014-10-01 00:00:00","New Brunswick",1773
+"2014-10-01 00:00:00",Quebec,16958
+"2014-10-01 00:00:00",Ontario,24993
+"2014-10-01 00:00:00",Manitoba,2791
+"2014-10-01 00:00:00",Saskatchewan,2465
+"2014-10-01 00:00:00",Alberta,6317
+"2014-10-01 00:00:00","British Columbia",8991
+"2014-10-01 00:00:00",Yukon,57
+"2014-10-01 00:00:00","Northwest Territories",51
+"2014-10-01 00:00:00",Nunavut,47
+"2015-01-01 00:00:00",Canada,73200
+"2015-01-01 00:00:00","Newfoundland and Labrador",1477
+"2015-01-01 00:00:00","Prince Edward Island",374
+"2015-01-01 00:00:00","Nova Scotia",2698
+"2015-01-01 00:00:00","New Brunswick",2154
+"2015-01-01 00:00:00",Quebec,18599
+"2015-01-01 00:00:00",Ontario,26814
+"2015-01-01 00:00:00",Manitoba,2994
+"2015-01-01 00:00:00",Saskatchewan,2532
+"2015-01-01 00:00:00",Alberta,6287
+"2015-01-01 00:00:00","British Columbia",9132
+"2015-01-01 00:00:00",Yukon,49
+"2015-01-01 00:00:00","Northwest Territories",53
+"2015-01-01 00:00:00",Nunavut,37
+"2015-04-01 00:00:00",Canada,63762
+"2015-04-01 00:00:00","Newfoundland and Labrador",1304
+"2015-04-01 00:00:00","Prince Edward Island",331
+"2015-04-01 00:00:00","Nova Scotia",2241
+"2015-04-01 00:00:00","New Brunswick",1772
+"2015-04-01 00:00:00",Quebec,15280
+"2015-04-01 00:00:00",Ontario,23341
+"2015-04-01 00:00:00",Manitoba,2593
+"2015-04-01 00:00:00",Saskatchewan,2230
+"2015-04-01 00:00:00",Alberta,5877
+"2015-04-01 00:00:00","British Columbia",8662
+"2015-04-01 00:00:00",Yukon,52
+"2015-04-01 00:00:00","Northwest Territories",42
+"2015-04-01 00:00:00",Nunavut,37
+"2015-07-01 00:00:00",Canada,61009
+"2015-07-01 00:00:00","Newfoundland and Labrador",1179
+"2015-07-01 00:00:00","Prince Edward Island",282
+"2015-07-01 00:00:00","Nova Scotia",2125
+"2015-07-01 00:00:00","New Brunswick",1558
+"2015-07-01 00:00:00",Quebec,14254
+"2015-07-01 00:00:00",Ontario,22682
+"2015-07-01 00:00:00",Manitoba,2504
+"2015-07-01 00:00:00",Saskatchewan,2224
+"2015-07-01 00:00:00",Alberta,5672
+"2015-07-01 00:00:00","British Columbia",8365
+"2015-07-01 00:00:00",Yukon,61
+"2015-07-01 00:00:00","Northwest Territories",60
+"2015-07-01 00:00:00",Nunavut,43
+"2015-10-01 00:00:00",Canada,66554
+"2015-10-01 00:00:00","Newfoundland and Labrador",1279
+"2015-10-01 00:00:00","Prince Edward Island",284
+"2015-10-01 00:00:00","Nova Scotia",2310
+"2015-10-01 00:00:00","New Brunswick",1794
+"2015-10-01 00:00:00",Quebec,16069
+"2015-10-01 00:00:00",Ontario,24494
+"2015-10-01 00:00:00",Manitoba,2594
+"2015-10-01 00:00:00",Saskatchewan,2407
+"2015-10-01 00:00:00",Alberta,6082
+"2015-10-01 00:00:00","British Columbia",9090
+"2015-10-01 00:00:00",Yukon,55
+"2015-10-01 00:00:00","Northwest Territories",53
+"2015-10-01 00:00:00",Nunavut,43
+"2016-01-01 00:00:00",Canada,69974
+"2016-01-01 00:00:00","Newfoundland and Labrador",1262
+"2016-01-01 00:00:00","Prince Edward Island",296
+"2016-01-01 00:00:00","Nova Scotia",2338
+"2016-01-01 00:00:00","New Brunswick",1849
+"2016-01-01 00:00:00",Quebec,17040
+"2016-01-01 00:00:00",Ontario,25880
+"2016-01-01 00:00:00",Manitoba,2792
+"2016-01-01 00:00:00",Saskatchewan,2494
+"2016-01-01 00:00:00",Alberta,6400
+"2016-01-01 00:00:00","British Columbia",9463
+"2016-01-01 00:00:00",Yukon,48
+"2016-01-01 00:00:00","Northwest Territories",60
+"2016-01-01 00:00:00",Nunavut,52
+"2016-04-01 00:00:00",Canada,64741
+"2016-04-01 00:00:00","Newfoundland and Labrador",1298
+"2016-04-01 00:00:00","Prince Edward Island",264
+"2016-04-01 00:00:00","Nova Scotia",2181
+"2016-04-01 00:00:00","New Brunswick",1776
+"2016-04-01 00:00:00",Quebec,15630
+"2016-04-01 00:00:00",Ontario,24119
+"2016-04-01 00:00:00",Manitoba,2535
+"2016-04-01 00:00:00",Saskatchewan,2253
+"2016-04-01 00:00:00",Alberta,5858
+"2016-04-01 00:00:00","British Columbia",8670
+"2016-04-01 00:00:00",Yukon,49
+"2016-04-01 00:00:00","Northwest Territories",60
+"2016-04-01 00:00:00",Nunavut,48
+"2016-07-01 00:00:00",Canada,62973
+"2016-07-01 00:00:00","Newfoundland and Labrador",1159
+"2016-07-01 00:00:00","Prince Edward Island",281
+"2016-07-01 00:00:00","Nova Scotia",2149
+"2016-07-01 00:00:00","New Brunswick",1751
+"2016-07-01 00:00:00",Quebec,14692
+"2016-07-01 00:00:00",Ontario,23388
+"2016-07-01 00:00:00",Manitoba,2588
+"2016-07-01 00:00:00",Saskatchewan,2241
+"2016-07-01 00:00:00",Alberta,5877
+"2016-07-01 00:00:00","British Columbia",8684
+"2016-07-01 00:00:00",Yukon,59
+"2016-07-01 00:00:00","Northwest Territories",63
+"2016-07-01 00:00:00",Nunavut,41
+"2016-10-01 00:00:00",Canada,69876
+"2016-10-01 00:00:00","Newfoundland and Labrador",1289
+"2016-10-01 00:00:00","Prince Edward Island",313
+"2016-10-01 00:00:00","Nova Scotia",2327
+"2016-10-01 00:00:00","New Brunswick",1798
+"2016-10-01 00:00:00",Quebec,16437
+"2016-10-01 00:00:00",Ontario,26061
+"2016-10-01 00:00:00",Manitoba,2829
+"2016-10-01 00:00:00",Saskatchewan,2430
+"2016-10-01 00:00:00",Alberta,6416
+"2016-10-01 00:00:00","British Columbia",9818
+"2016-10-01 00:00:00",Yukon,62
+"2016-10-01 00:00:00","Northwest Territories",54
+"2016-10-01 00:00:00",Nunavut,42
+"2017-01-01 00:00:00",Canada,75303
+"2017-01-01 00:00:00","Newfoundland and Labrador",1408
+"2017-01-01 00:00:00","Prince Edward Island",366
+"2017-01-01 00:00:00","Nova Scotia",2556
+"2017-01-01 00:00:00","New Brunswick",2007
+"2017-01-01 00:00:00",Quebec,18148
+"2017-01-01 00:00:00",Ontario,27772
+"2017-01-01 00:00:00",Manitoba,2924
+"2017-01-01 00:00:00",Saskatchewan,2606
+"2017-01-01 00:00:00",Alberta,6572
+"2017-01-01 00:00:00","British Columbia",10765
+"2017-01-01 00:00:00",Yukon,67
+"2017-01-01 00:00:00","Northwest Territories",70
+"2017-01-01 00:00:00",Nunavut,42
+"2017-04-01 00:00:00",Canada,66365
+"2017-04-01 00:00:00","Newfoundland and Labrador",1297
+"2017-04-01 00:00:00","Prince Edward Island",314
+"2017-04-01 00:00:00","Nova Scotia",2318
+"2017-04-01 00:00:00","New Brunswick",1842
+"2017-04-01 00:00:00",Quebec,15914
+"2017-04-01 00:00:00",Ontario,24458
+"2017-04-01 00:00:00",Manitoba,2682
+"2017-04-01 00:00:00",Saskatchewan,2209
+"2017-04-01 00:00:00",Alberta,6073
+"2017-04-01 00:00:00","British Columbia",9098
+"2017-04-01 00:00:00",Yukon,60
+"2017-04-01 00:00:00","Northwest Territories",54
+"2017-04-01 00:00:00",Nunavut,46
+"2017-07-01 00:00:00",Canada,64953
+"2017-07-01 00:00:00","Newfoundland and Labrador",1146
+"2017-07-01 00:00:00","Prince Edward Island",318
+"2017-07-01 00:00:00","Nova Scotia",2289
+"2017-07-01 00:00:00","New Brunswick",1757
+"2017-07-01 00:00:00",Quebec,14969
+"2017-07-01 00:00:00",Ontario,24509
+"2017-07-01 00:00:00",Manitoba,2559
+"2017-07-01 00:00:00",Saskatchewan,2212
+"2017-07-01 00:00:00",Alberta,6106
+"2017-07-01 00:00:00","British Columbia",8926
+"2017-07-01 00:00:00",Yukon,65
+"2017-07-01 00:00:00","Northwest Territories",58
+"2017-07-01 00:00:00",Nunavut,39
+"2017-10-01 00:00:00",Canada,71936
+"2017-10-01 00:00:00","Newfoundland and Labrador",1296
+"2017-10-01 00:00:00","Prince Edward Island",329
+"2017-10-01 00:00:00","Nova Scotia",2387
+"2017-10-01 00:00:00","New Brunswick",1888
+"2017-10-01 00:00:00",Quebec,17039
+"2017-10-01 00:00:00",Ontario,27003
+"2017-10-01 00:00:00",Manitoba,2901
+"2017-10-01 00:00:00",Saskatchewan,2429
+"2017-10-01 00:00:00",Alberta,6789
+"2017-10-01 00:00:00","British Columbia",9701
+"2017-10-01 00:00:00",Yukon,67
+"2017-10-01 00:00:00","Northwest Territories",59
+"2017-10-01 00:00:00",Nunavut,48
+"2018-01-01 00:00:00",Canada,78450
+"2018-01-01 00:00:00","Newfoundland and Labrador",1420
+"2018-01-01 00:00:00","Prince Edward Island",383
+"2018-01-01 00:00:00","Nova Scotia",2606
+"2018-01-01 00:00:00","New Brunswick",2066
+"2018-01-01 00:00:00",Quebec,19498
+"2018-01-01 00:00:00",Ontario,29550
+"2018-01-01 00:00:00",Manitoba,3050
+"2018-01-01 00:00:00",Saskatchewan,2585
+"2018-01-01 00:00:00",Alberta,6809
+"2018-01-01 00:00:00","British Columbia",10337
+"2018-01-01 00:00:00",Yukon,46
+"2018-01-01 00:00:00","Northwest Territories",54
+"2018-01-01 00:00:00",Nunavut,46
+"2018-04-01 00:00:00",Canada,68600
+"2018-04-01 00:00:00","Newfoundland and Labrador",1277
+"2018-04-01 00:00:00","Prince Edward Island",340
+"2018-04-01 00:00:00","Nova Scotia",2377
+"2018-04-01 00:00:00","New Brunswick",1904
+"2018-04-01 00:00:00",Quebec,16337
+"2018-04-01 00:00:00",Ontario,25713
+"2018-04-01 00:00:00",Manitoba,2613
+"2018-04-01 00:00:00",Saskatchewan,2290
+"2018-04-01 00:00:00",Alberta,6405
+"2018-04-01 00:00:00","British Columbia",9165
+"2018-04-01 00:00:00",Yukon,63
+"2018-04-01 00:00:00","Northwest Territories",68
+"2018-04-01 00:00:00",Nunavut,48
+"2018-07-01 00:00:00",Canada,66304
+"2018-07-01 00:00:00","Newfoundland and Labrador",1168
+"2018-07-01 00:00:00","Prince Edward Island",315
+"2018-07-01 00:00:00","Nova Scotia",2222
+"2018-07-01 00:00:00","New Brunswick",1723
+"2018-07-01 00:00:00",Quebec,15726
+"2018-07-01 00:00:00",Ontario,24862
+"2018-07-01 00:00:00",Manitoba,2566
+"2018-07-01 00:00:00",Saskatchewan,2325
+"2018-07-01 00:00:00",Alberta,6099
+"2018-07-01 00:00:00","British Columbia",9112
+"2018-07-01 00:00:00",Yukon,69
+"2018-07-01 00:00:00","Northwest Territories",59
+"2018-07-01 00:00:00",Nunavut,58
+"2018-10-01 00:00:00",Canada,72600
+"2018-10-01 00:00:00","Newfoundland and Labrador",1373
+"2018-10-01 00:00:00","Prince Edward Island",337
+"2018-10-01 00:00:00","Nova Scotia",2504
+"2018-10-01 00:00:00","New Brunswick",1962
+"2018-10-01 00:00:00",Quebec,17234
+"2018-10-01 00:00:00",Ontario,27150
+"2018-10-01 00:00:00",Manitoba,2811
+"2018-10-01 00:00:00",Saskatchewan,2502
+"2018-10-01 00:00:00",Alberta,6683
+"2018-10-01 00:00:00","British Columbia",9859
+"2018-10-01 00:00:00",Yukon,72
+"2018-10-01 00:00:00","Northwest Territories",58
+"2018-10-01 00:00:00",Nunavut,55
+"2019-01-01 00:00:00",Canada,74728
+"2019-01-01 00:00:00","Newfoundland and Labrador",1338
+"2019-01-01 00:00:00","Prince Edward Island",331
+"2019-01-01 00:00:00","Nova Scotia",2673
+"2019-01-01 00:00:00","New Brunswick",2010
+"2019-01-01 00:00:00",Quebec,17990
+"2019-01-01 00:00:00",Ontario,28133
+"2019-01-01 00:00:00",Manitoba,2827
+"2019-01-01 00:00:00",Saskatchewan,2472
+"2019-01-01 00:00:00",Alberta,6628
+"2019-01-01 00:00:00","British Columbia",10161
+"2019-01-01 00:00:00",Yukon,63
+"2019-01-01 00:00:00","Northwest Territories",49
+"2019-01-01 00:00:00",Nunavut,53
+"2019-04-01 00:00:00",Canada,69516
+"2019-04-01 00:00:00","Newfoundland and Labrador",1329
+"2019-04-01 00:00:00","Prince Edward Island",348
+"2019-04-01 00:00:00","Nova Scotia",2375
+"2019-04-01 00:00:00","New Brunswick",1940
+"2019-04-01 00:00:00",Quebec,16603
+"2019-04-01 00:00:00",Ontario,25972
+"2019-04-01 00:00:00",Manitoba,2735
+"2019-04-01 00:00:00",Saskatchewan,2257
+"2019-04-01 00:00:00",Alberta,6339
+"2019-04-01 00:00:00","British Columbia",9429
+"2019-04-01 00:00:00",Yukon,64
+"2019-04-01 00:00:00","Northwest Territories",60
+"2019-04-01 00:00:00",Nunavut,65
+"2019-07-01 00:00:00",Canada,67055
+"2019-07-01 00:00:00","Newfoundland and Labrador",1250
+"2019-07-01 00:00:00","Prince Edward Island",353
+"2019-07-01 00:00:00","Nova Scotia",2277
+"2019-07-01 00:00:00","New Brunswick",1855
+"2019-07-01 00:00:00",Quebec,15548
+"2019-07-01 00:00:00",Ontario,25236
+"2019-07-01 00:00:00",Manitoba,2662
+"2019-07-01 00:00:00",Saskatchewan,2356
+"2019-07-01 00:00:00",Alberta,6298
+"2019-07-01 00:00:00","British Columbia",9032
+"2019-07-01 00:00:00",Yukon,77
+"2019-07-01 00:00:00","Northwest Territories",63
+"2019-07-01 00:00:00",Nunavut,48
+"2019-10-01 00:00:00",Canada,74285
+"2019-10-01 00:00:00","Newfoundland and Labrador",1350
+"2019-10-01 00:00:00","Prince Edward Island",350
+"2019-10-01 00:00:00","Nova Scotia",2509
+"2019-10-01 00:00:00","New Brunswick",1991
+"2019-10-01 00:00:00",Quebec,17445
+"2019-10-01 00:00:00",Ontario,28201
+"2019-10-01 00:00:00",Manitoba,2960
+"2019-10-01 00:00:00",Saskatchewan,2474
+"2019-10-01 00:00:00",Alberta,6877
+"2019-10-01 00:00:00","British Columbia",9939
+"2019-10-01 00:00:00",Yukon,79
+"2019-10-01 00:00:00","Northwest Territories",54
+"2019-10-01 00:00:00",Nunavut,56
+"2020-01-01 00:00:00",Canada,76920
+"2020-01-01 00:00:00","Newfoundland and Labrador",1428
+"2020-01-01 00:00:00","Prince Edward Island",367
+"2020-01-01 00:00:00","Nova Scotia",2611
+"2020-01-01 00:00:00","New Brunswick",1918
+"2020-01-01 00:00:00",Quebec,18699
+"2020-01-01 00:00:00",Ontario,28669
+"2020-01-01 00:00:00",Manitoba,2960
+"2020-01-01 00:00:00",Saskatchewan,2567
+"2020-01-01 00:00:00",Alberta,7109
+"2020-01-01 00:00:00","British Columbia",10423
+"2020-01-01 00:00:00",Yukon,59
+"2020-01-01 00:00:00","Northwest Territories",58
+"2020-01-01 00:00:00",Nunavut,52
+"2020-04-01 00:00:00",Canada,78935
+"2020-04-01 00:00:00","Newfoundland and Labrador",1353
+"2020-04-01 00:00:00","Prince Edward Island",336
+"2020-04-01 00:00:00","Nova Scotia",2448
+"2020-04-01 00:00:00","New Brunswick",1822
+"2020-04-01 00:00:00",Quebec,21119
+"2020-04-01 00:00:00",Ontario,29915
+"2020-04-01 00:00:00",Manitoba,2740
+"2020-04-01 00:00:00",Saskatchewan,2391
+"2020-04-01 00:00:00",Alberta,6840
+"2020-04-01 00:00:00","British Columbia",9770
+"2020-04-01 00:00:00",Yukon,70
+"2020-04-01 00:00:00","Northwest Territories",78
+"2020-04-01 00:00:00",Nunavut,53
+"2020-07-01 00:00:00",Canada,70848
+"2020-07-01 00:00:00","Newfoundland and Labrador",1293
+"2020-07-01 00:00:00","Prince Edward Island",333
+"2020-07-01 00:00:00","Nova Scotia",2379
+"2020-07-01 00:00:00","New Brunswick",1809
+"2020-07-01 00:00:00",Quebec,15918
+"2020-07-01 00:00:00",Ontario,26782
+"2020-07-01 00:00:00",Manitoba,2801
+"2020-07-01 00:00:00",Saskatchewan,2503
+"2020-07-01 00:00:00",Alberta,6878
+"2020-07-01 00:00:00","British Columbia",9941
+"2020-07-01 00:00:00",Yukon,82
+"2020-07-01 00:00:00","Northwest Territories",77
+"2020-07-01 00:00:00",Nunavut,52
+"2020-10-01 00:00:00",Canada,81988
+"2020-10-01 00:00:00","Newfoundland and Labrador",1369
+"2020-10-01 00:00:00","Prince Edward Island",322
+"2020-10-01 00:00:00","Nova Scotia",2596
+"2020-10-01 00:00:00","New Brunswick",1946
+"2020-10-01 00:00:00",Quebec,19103
+"2020-10-01 00:00:00",Ontario,30564
+"2020-10-01 00:00:00",Manitoba,3490
+"2020-10-01 00:00:00",Saskatchewan,2804
+"2020-10-01 00:00:00",Alberta,8407
+"2020-10-01 00:00:00","British Columbia",11198
+"2020-10-01 00:00:00",Yukon,68
+"2020-10-01 00:00:00","Northwest Territories",69
+"2020-10-01 00:00:00",Nunavut,52
+"2021-01-01 00:00:00",Canada,80046
+"2021-01-01 00:00:00","Newfoundland and Labrador",1430
+"2021-01-01 00:00:00","Prince Edward Island",354
+"2021-01-01 00:00:00","Nova Scotia",2542
+"2021-01-01 00:00:00","New Brunswick",2002
+"2021-01-01 00:00:00",Quebec,18407
+"2021-01-01 00:00:00",Ontario,30765
+"2021-01-01 00:00:00",Manitoba,2900
+"2021-01-01 00:00:00",Saskatchewan,2830
+"2021-01-01 00:00:00",Alberta,7798
+"2021-01-01 00:00:00","British Columbia",10818
+"2021-01-01 00:00:00",Yukon,73
+"2021-01-01 00:00:00","Northwest Territories",83
+"2021-01-01 00:00:00",Nunavut,44
+"2021-04-01 00:00:00",Canada,74415
+"2021-04-01 00:00:00","Newfoundland and Labrador",1359
+"2021-04-01 00:00:00","Prince Edward Island",386
+"2021-04-01 00:00:00","Nova Scotia",2439
+"2021-04-01 00:00:00","New Brunswick",1876
+"2021-04-01 00:00:00",Quebec,16294
+"2021-04-01 00:00:00",Ontario,28482
+"2021-04-01 00:00:00",Manitoba,2809
+"2021-04-01 00:00:00",Saskatchewan,2556
+"2021-04-01 00:00:00",Alberta,7177
+"2021-04-01 00:00:00","British Columbia",10830
+"2021-04-01 00:00:00",Yukon,88
+"2021-04-01 00:00:00","Northwest Territories",66
+"2021-04-01 00:00:00",Nunavut,53
+"2021-07-01 00:00:00",Canada,74866
+"2021-07-01 00:00:00","Newfoundland and Labrador",1469
+"2021-07-01 00:00:00","Prince Edward Island",338
+"2021-07-01 00:00:00","Nova Scotia",2466
+"2021-07-01 00:00:00","New Brunswick",1978
+"2021-07-01 00:00:00",Quebec,16387
+"2021-07-01 00:00:00",Ontario,27695
+"2021-07-01 00:00:00",Manitoba,2818
+"2021-07-01 00:00:00",Saskatchewan,2712
+"2021-07-01 00:00:00",Alberta,7906
+"2021-07-01 00:00:00","British Columbia",10881
+"2021-07-01 00:00:00",Yukon,86
+"2021-07-01 00:00:00","Northwest Territories",75
+"2021-07-01 00:00:00",Nunavut,55
+"2021-10-01 00:00:00",Canada,82670
+"2021-10-01 00:00:00","Newfoundland and Labrador",1607
+"2021-10-01 00:00:00","Prince Edward Island",383
+"2021-10-01 00:00:00","Nova Scotia",2775
+"2021-10-01 00:00:00","New Brunswick",2246
+"2021-10-01 00:00:00",Quebec,18472
+"2021-10-01 00:00:00",Ontario,30514
+"2021-10-01 00:00:00",Manitoba,3068
+"2021-10-01 00:00:00",Saskatchewan,2923
+"2021-10-01 00:00:00",Alberta,8382
+"2021-10-01 00:00:00","British Columbia",12058
+"2021-10-01 00:00:00",Yukon,110
+"2021-10-01 00:00:00","Northwest Territories",79
+"2021-10-01 00:00:00",Nunavut,53
+"2022-01-01 00:00:00",Canada,84631
+"2022-01-01 00:00:00","Newfoundland and Labrador",1473
+"2022-01-01 00:00:00","Prince Edward Island",366
+"2022-01-01 00:00:00","Nova Scotia",2621
+"2022-01-01 00:00:00","New Brunswick",2067
+"2022-01-01 00:00:00",Quebec,20450
+"2022-01-01 00:00:00",Ontario,31695
+"2022-01-01 00:00:00",Manitoba,2963
+"2022-01-01 00:00:00",Saskatchewan,2857
+"2022-01-01 00:00:00",Alberta,8031
+"2022-01-01 00:00:00","British Columbia",11886
+"2022-01-01 00:00:00",Yukon,92
+"2022-01-01 00:00:00","Northwest Territories",84
+"2022-01-01 00:00:00",Nunavut,46
+"2022-04-01 00:00:00",Canada,77452
+"2022-04-01 00:00:00","Newfoundland and Labrador",1399
+"2022-04-01 00:00:00","Prince Edward Island",401
+"2022-04-01 00:00:00","Nova Scotia",2515
+"2022-04-01 00:00:00","New Brunswick",1940
+"2022-04-01 00:00:00",Quebec,18050
+"2022-04-01 00:00:00",Ontario,29318
+"2022-04-01 00:00:00",Manitoba,2867
+"2022-04-01 00:00:00",Saskatchewan,2582
+"2022-04-01 00:00:00",Alberta,7396
+"2022-04-01 00:00:00","British Columbia",10786
+"2022-04-01 00:00:00",Yukon,75
+"2022-04-01 00:00:00","Northwest Territories",68
+"2022-04-01 00:00:00",Nunavut,55
+"2022-07-01 00:00:00",Canada,78229
+"2022-07-01 00:00:00","Newfoundland and Labrador",1511
+"2022-07-01 00:00:00","Prince Edward Island",353
+"2022-07-01 00:00:00","Nova Scotia",2550
+"2022-07-01 00:00:00","New Brunswick",2046
+"2022-07-01 00:00:00",Quebec,18400
+"2022-07-01 00:00:00",Ontario,28526
+"2022-07-01 00:00:00",Manitoba,2880
+"2022-07-01 00:00:00",Saskatchewan,2738
+"2022-07-01 00:00:00",Alberta,8175
+"2022-07-01 00:00:00","British Columbia",10823
+"2022-07-01 00:00:00",Yukon,95
+"2022-07-01 00:00:00","Northwest Territories",77
+"2022-07-01 00:00:00",Nunavut,55
+"2022-10-01 00:00:00",Canada,87314
+"2022-10-01 00:00:00","Newfoundland and Labrador",1655
+"2022-10-01 00:00:00","Prince Edward Island",398
+"2022-10-01 00:00:00","Nova Scotia",2873
+"2022-10-01 00:00:00","New Brunswick",2325
+"2022-10-01 00:00:00",Quebec,21500
+"2022-10-01 00:00:00",Ontario,31456
+"2022-10-01 00:00:00",Manitoba,3140
+"2022-10-01 00:00:00",Saskatchewan,2963
+"2022-10-01 00:00:00",Alberta,8699
+"2022-10-01 00:00:00","British Columbia",12101
+"2022-10-01 00:00:00",Yukon,69
+"2022-10-01 00:00:00","Northwest Territories",81
+"2022-10-01 00:00:00",Nunavut,54
